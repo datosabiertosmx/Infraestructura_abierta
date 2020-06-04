@@ -1,0 +1,1320 @@
+{
+  "ocid": "ocds-7wj9x5-SINL-CPE-018-2017-v0001",
+  "id": "ocds-7wj9x5-SINL-CPE-018-2017-v0001-contract",
+  "date": "2019-11-11T13:44:58.58-06:00",
+  "tag": [
+    "planning",
+    "tender",
+    "award",
+    "contract"
+  ],
+  "initiationType": "tender",
+  "parties": [
+    {
+      "name": "SECRETARIA DE INFRAESTRUCTURA",
+      "id": "CAGMNL-211113110100001",
+      "identifier": {
+        "scheme": "CAGMNL",
+        "legalName": "CLASIFICACIÓN ADMINISTRATIVA Y GEOGRÁFICA MUNICIPAL DEL ESTADO DE NUEVO LEON"
+      },
+      "address": {
+        "streetAddress": "WASHIGTON 648 OTE",
+        "locality": "MONTERREY",
+        "region": "NUEVO LEÓN",
+        "postalCode": "64000",
+        "countryName": "MÉXICO"
+      },
+      "contactPoint": {
+        "name": "EMILIO RODRÍGUEZ CERDA",
+        "telephone": "20206779"
+      },
+      "roles": [
+        "procuringEntity"
+      ]
+    },
+    {
+      "name": "SECRETARIA DE FINANZAS Y TESORERIA GENERAL DEL ESTADO DE NUEVO LEON",
+      "id": "CAGMNL-211113040100001",
+      "identifier": {
+        "scheme": "CAGMNL",
+        "legalName": "CLASIFICACIÓN ADMINISTRATIVA Y GEOGRÁFICA MUNICIPAL DEL ESTADO DE NUEVO LEON"
+      },
+      "address": {
+        "streetAddress": "ESCOBEDO SUR PISO 3 333",
+        "locality": "MONTERREY",
+        "region": "NUEVO LEÓN",
+        "postalCode": "64000",
+        "countryName": "MÉXICO"
+      },
+      "contactPoint": {},
+      "roles": [
+        "payer"
+      ]
+    },
+    {
+      "name": "CONSTRUCCIONES MALDONADO OVIEDO Y ASOCIADOS, S.A. DE C.V.",
+      "id": "RFC-CMO040217HK2",
+      "identifier": {
+        "scheme": "RFC",
+        "id": "CMO040217HK2",
+        "legalName": "REGISTRO FEDERAL DE CONTRIBUYENTES",
+        "uri": "https://www.sat.gob.mx"
+      },
+      "address": {
+        "streetAddress": "SIN DATO",
+        "locality": "GALEANA",
+        "postalCode": "67850"
+      },
+      "contactPoint": {
+        "name": "SIN DATO",
+        "telephone": "SIN DATO"
+      },
+      "roles": [
+        "tenderer"
+      ]
+    },
+    {
+      "name": "COTELSA, S.A. DE C.V.",
+      "id": "RFC-COT930531J32",
+      "identifier": {
+        "scheme": "RFC",
+        "id": "COT930531J32",
+        "legalName": "REGISTRO FEDERAL DE CONTRIBUYENTES",
+        "uri": "https://www.sat.gob.mx"
+      },
+      "address": {
+        "streetAddress": "PRIV. XILOFACTOS 101 82",
+        "locality": "MONTERREY",
+        "postalCode": "64270"
+      },
+      "contactPoint": {
+        "name": "FERNANDO TREVIÑO LOERA",
+        "telephone": "8180645254"
+      },
+      "roles": [
+        "tenderer"
+      ]
+    }
+  ],
+  "buyer": {
+    "id": "CAGMNL-211113110100001",
+    "name": "SECRETARIA DE INFRAESTRUCTURA"
+  },
+  "planning": {
+    "rationale": "Construcción de una Esfera Cultural, Municipio de Galeana, Nuevo León",
+    "budget": {
+      "id": "10174",
+      "description": "Estatales 2017",
+      "amount": {
+        "amount": 18000000,
+        "currency": "MXN"
+      },
+      "project": "Construcción de una Esfera Cultural",
+      "projectID": "PEI-0011/2017",
+      "uri": "http://si.nl.gob.mx"
+    }
+  },
+  "tender": {
+    "id": "SINL-CPE-018-2017",
+    "title": "Construcción de una Esfera Cultural",
+    "description": "Construcción de una Esfera Cultural, Municipio de Galeana, Nuevo León",
+    "status": "complete",
+    "procuringEntity": {
+      "name": "?",
+      "id": "?"
+    },
+    "value": {
+      "amount": 18000000,
+      "currency": "MXN"
+    },
+    "minValue": {
+      "amount": 18000000,
+      "currency": "MXN"
+    },
+    "procurementMethod": "open",
+    "procurementMethodDetails": "Licitación Estatal",
+    "procurementMethodRationale": "Justificación para el método de compra elegido",
+    "mainProcurementCategory": "goods",
+    "additionalProcurementCategories": [
+      "ND"
+    ],
+    "awardCriteria": "ratedCriteria",
+    "awardCriteriaDetails": "?",
+    "submissionMethod": [
+      "inPerson"
+    ],
+    "submissionMethodDetails": "El representante del licitante deberá presentar en persona su oferta escrita en sobre cerrado",
+    "tenderPeriod": {
+      "startDate": "2017-02-23T18:00:00-06:00",
+      "endDate": "2017-03-28T18:00:00-06:00",
+      "maxExtentDate": "0001-01-01T18:00:00-06:00",
+      "durationInDays": 33
+    },
+    "enquiryPeriod": {
+      "startDate": "2017-02-23T18:00:00-06:00",
+      "endDate": "2017-03-06T18:00:00-06:00",
+      "maxExtentDate": "0001-01-01T18:00:00-06:00",
+      "durationInDays": 11
+    },
+    "hasEnquiries": false,
+    "eligibilityCriteria": "El criterio establecido por los artículos 54 y 55 de la Ley de obras públicas para el estado y municipios de Nuevo León",
+    "awardPeriod": {
+      "startDate": "2017-03-14T18:00:00-06:00",
+      "endDate": "2017-03-28T18:00:00-06:00",
+      "maxExtentDate": "0001-01-01T18:00:00-06:00",
+      "durationInDays": 14
+    },
+    "contractPeriod": {
+      "startDate": "2017-03-28T18:00:00-06:00",
+      "endDate": "0001-01-01T18:00:00-06:00",
+      "maxExtentDate": "0001-01-01T18:00:00-06:00",
+      "durationInDays": 0
+    },
+    "numberOfTenderers": 2,
+    "tenderers": [
+      {
+        "name": "CONSTRUCCIONES MALDONADO OVIEDO Y ASOCIADOS, S.A. DE C.V.",
+        "id": "CMO040217HK2"
+      },
+      {
+        "name": "COTELSA, S.A. DE C.V.",
+        "id": "COT930531J32"
+      }
+    ],
+    "documents": [
+      {
+        "id": "4540",
+        "documentType": "ND",
+        "title": "ND",
+        "description": "ND",
+        "url": "http://si.nl.gob.mx/Acceso/DatosAbiertos/DocumentosPublicos/CONVOCATORIA-20180507132533.pdf",
+        "datePublished": "2018-03-02T18:00:00-06:00",
+        "dateModified": "1899-12-31T18:00:00-06:00",
+        "format": "application/pdf",
+        "language": "es"
+      },
+      {
+        "id": "4540",
+        "documentType": "ND",
+        "title": "ND",
+        "description": "ND",
+        "url": "http://si.nl.gob.mx/Acceso/DatosAbiertos/DocumentosPublicos/CONVOCATORIA-20180507132533.pdf",
+        "datePublished": "2018-03-02T18:00:00-06:00",
+        "dateModified": "1899-12-31T18:00:00-06:00",
+        "format": "application/pdf",
+        "language": "es"
+      },
+      {
+        "id": "4542",
+        "documentType": "ND",
+        "title": "ND",
+        "description": "ND",
+        "url": "http://si.nl.gob.mx/Acceso/DatosAbiertos/DocumentosPublicos/ANEXOSDELASBASES-20180507132852.rar",
+        "datePublished": "2018-03-02T18:00:00-06:00",
+        "dateModified": "1899-12-31T18:00:00-06:00",
+        "format": "application/vnd.rar",
+        "language": "es"
+      },
+      {
+        "id": "4540",
+        "documentType": "ND",
+        "title": "ND",
+        "description": "ND",
+        "url": "http://si.nl.gob.mx/Acceso/DatosAbiertos/DocumentosPublicos/CONVOCATORIA-20180507132533.pdf",
+        "datePublished": "2018-03-02T18:00:00-06:00",
+        "dateModified": "1899-12-31T18:00:00-06:00",
+        "format": "application/pdf",
+        "language": "es"
+      },
+      {
+        "id": "4540",
+        "documentType": "ND",
+        "title": "ND",
+        "description": "ND",
+        "url": "http://si.nl.gob.mx/Acceso/DatosAbiertos/DocumentosPublicos/CONVOCATORIA-20180507132533.pdf",
+        "datePublished": "2018-03-02T18:00:00-06:00",
+        "dateModified": "1899-12-31T18:00:00-06:00",
+        "format": "application/pdf",
+        "language": "es"
+      },
+      {
+        "id": "4542",
+        "documentType": "ND",
+        "title": "ND",
+        "description": "ND",
+        "url": "http://si.nl.gob.mx/Acceso/DatosAbiertos/DocumentosPublicos/ANEXOSDELASBASES-20180507132852.rar",
+        "datePublished": "2018-03-02T18:00:00-06:00",
+        "dateModified": "1899-12-31T18:00:00-06:00",
+        "format": "application/vnd.rar",
+        "language": "es"
+      },
+      {
+        "id": "4540",
+        "documentType": "ND",
+        "title": "ND",
+        "description": "ND",
+        "url": "http://si.nl.gob.mx/Acceso/DatosAbiertos/DocumentosPublicos/CONVOCATORIA-20180507132533.pdf",
+        "datePublished": "2018-03-02T18:00:00-06:00",
+        "dateModified": "1899-12-31T18:00:00-06:00",
+        "format": "application/pdf",
+        "language": "es"
+      },
+      {
+        "id": "4540",
+        "documentType": "ND",
+        "title": "ND",
+        "description": "ND",
+        "url": "http://si.nl.gob.mx/Acceso/DatosAbiertos/DocumentosPublicos/CONVOCATORIA-20180507132533.pdf",
+        "datePublished": "2018-03-02T18:00:00-06:00",
+        "dateModified": "1899-12-31T18:00:00-06:00",
+        "format": "application/pdf",
+        "language": "es"
+      },
+      {
+        "id": "4540",
+        "documentType": "ND",
+        "title": "ND",
+        "description": "ND",
+        "url": "http://si.nl.gob.mx/Acceso/DatosAbiertos/DocumentosPublicos/CONVOCATORIA-20180507132533.pdf",
+        "datePublished": "2018-03-02T18:00:00-06:00",
+        "dateModified": "1899-12-31T18:00:00-06:00",
+        "format": "application/pdf",
+        "language": "es"
+      },
+      {
+        "id": "4542",
+        "documentType": "ND",
+        "title": "ND",
+        "description": "ND",
+        "url": "http://si.nl.gob.mx/Acceso/DatosAbiertos/DocumentosPublicos/ANEXOSDELASBASES-20180507132852.rar",
+        "datePublished": "2018-03-02T18:00:00-06:00",
+        "dateModified": "1899-12-31T18:00:00-06:00",
+        "format": "application/vnd.rar",
+        "language": "es"
+      },
+      {
+        "id": "4540",
+        "documentType": "ND",
+        "title": "ND",
+        "description": "ND",
+        "url": "http://si.nl.gob.mx/Acceso/DatosAbiertos/DocumentosPublicos/CONVOCATORIA-20180507132533.pdf",
+        "datePublished": "2018-03-02T18:00:00-06:00",
+        "dateModified": "1899-12-31T18:00:00-06:00",
+        "format": "application/pdf",
+        "language": "es"
+      }
+    ],
+    "milestones": [
+      {
+        "id": "SINL-CPE-018-2017-13045",
+        "title": "APERTURA",
+        "type": "assessment",
+        "description": "APERTURA",
+        "code": "APERTURA",
+        "dueDate": "2017-03-15T06:00:00-06:00",
+        "dateMet": "2017-03-15T06:00:00-06:00",
+        "dateModified": "2017-03-15T06:00:00-06:00",
+        "status": "scheduled"
+      },
+      {
+        "id": "SINL-CPE-018-2017-13048",
+        "title": "FALLO",
+        "type": "engagement",
+        "description": "FALLO",
+        "code": "FALLO",
+        "dueDate": "2017-03-29T06:00:00-06:00",
+        "dateMet": "2017-03-29T06:00:00-06:00",
+        "dateModified": "2017-03-29T06:00:00-06:00",
+        "status": "scheduled"
+      },
+      {
+        "id": "SINL-CPE-018-2017-13049",
+        "title": "FIRMA DEL CONTRATO",
+        "type": "approval",
+        "description": "FIRMA DEL CONTRATO",
+        "code": "FIRMA DEL CONTRATO",
+        "dueDate": "2017-03-31T05:00:00-06:00",
+        "dateMet": "2017-03-31T05:00:00-06:00",
+        "dateModified": "2017-03-31T05:00:00-06:00",
+        "status": "scheduled"
+      },
+      {
+        "id": "SINL-CPE-018-2017-13041",
+        "title": "PRE BASES",
+        "type": "preProcurement",
+        "description": "PRE BASES",
+        "code": "PRE BASES",
+        "dueDate": "2017-02-21T07:43:00-06:00",
+        "dateMet": "2017-02-21T07:43:00-06:00",
+        "dateModified": "2017-02-21T07:43:00-06:00",
+        "status": "scheduled"
+      },
+      {
+        "id": "SINL-CPE-018-2017-13042",
+        "title": "CONVOCATORIA",
+        "type": "preProcurement",
+        "description": "CONVOCATORIA",
+        "code": "CONVOCATORIA",
+        "dueDate": "2017-02-24T06:00:00-06:00",
+        "dateMet": "2017-02-24T06:00:00-06:00",
+        "dateModified": "2017-02-24T06:00:00-06:00",
+        "status": "scheduled"
+      },
+      {
+        "id": "SINL-CPE-018-2017-13044",
+        "title": "JUNTA DE ACLARACIONES",
+        "type": "preProcurement",
+        "description": "JUNTA DE ACLARACIONES",
+        "code": "JUNTA DE ACLARACIONES",
+        "dueDate": "2017-03-07T05:00:00-06:00",
+        "dateMet": "2017-03-07T05:00:00-06:00",
+        "dateModified": "2017-03-07T05:00:00-06:00",
+        "status": "scheduled"
+      },
+      {
+        "id": "SINL-CPE-018-2017-13043",
+        "title": "VISITA A LA OBRA",
+        "type": "preProcurement",
+        "description": "VISITA A LA OBRA",
+        "code": "VISITA A LA OBRA",
+        "dueDate": "2017-03-06T02:00:00-06:00",
+        "dateMet": "2017-03-06T02:00:00-06:00",
+        "dateModified": "2017-03-06T02:00:00-06:00",
+        "status": "scheduled"
+      }
+    ]
+  },
+  "awards": [
+    {
+      "id": "SINL-CPE-018-2017",
+      "title": "Construcción de una Esfera Cultural",
+      "description": "Construcción de una Esfera Cultural, Municipio de Galeana, Nuevo León",
+      "status": "active",
+      "date": "2017-03-28T18:00:00-06:00",
+      "value": {
+        "amount": 18000000,
+        "currency": "MXN"
+      },
+      "suppliers": [
+        {
+          "id": "CMO040217HK2",
+          "name": "CONSTRUCCIONES MALDONADO OVIEDO Y ASOCIADOS, S.A. DE C.V."
+        }
+      ],
+      "contractPeriod": {
+        "startDate": "2017-05-07T19:00:00-05:00",
+        "endDate": "2017-10-03T19:00:00-05:00",
+        "maxExtentDate": "2019-11-11T13:44:56.1057688-06:00",
+        "durationInDays": 149
+      },
+      "documents": [
+        {
+          "id": "4549",
+          "documentType": "ND",
+          "title": "ND",
+          "description": "ND",
+          "url": "http://si.nl.gob.mx/Acceso/DatosAbiertos/DocumentosPublicos/ACTADEFALLO-20180507132730.pdf",
+          "datePublished": "2018-03-02T18:00:00-06:00",
+          "dateModified": "1899-12-31T18:00:00-06:00",
+          "format": "application/pdf",
+          "language": "es"
+        }
+      ]
+    }
+  ],
+  "contracts": [
+    {
+      "id": "1704001",
+      "awardID": "SINL-CPE-018-2017",
+      "title": "Construcción de una Esfera Cultural",
+      "description": "Construcción de una Esfera Cultural, Municipio de Galeana, Nuevo León",
+      "status": "active",
+      "period": {
+        "startDate": "2017-05-07T19:00:00-05:00",
+        "endDate": "2017-10-03T19:00:00-05:00",
+        "maxExtentDate": "0001-01-01T18:00:00-06:00",
+        "durationInDays": 149
+      },
+      "value": {
+        "amount": 368076.24,
+        "currency": "MXN"
+      },
+      "items": [
+        {
+          "id": "000004729",
+          "description": "001 PRELIMINARES",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000004729",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 123120.7442,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000002068",
+          "description": "002 TERRACERÍAS",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000002068",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 1331943.5851,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000001222",
+          "description": "003 CIMENTACIONES",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000001222",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 1373040.02,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000005022",
+          "description": "004 ELEMENTOS DE CONCRETO",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000005022",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 3252270.2528,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000005663",
+          "description": "005 MUROS",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000005663",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 2845101.2174,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000003404",
+          "description": "006 ESTRUCTURA METÁLICA",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000003404",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 3953368.5055,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000006551",
+          "description": "007 HERRERÍA",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000006551",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 905049.003,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000000314",
+          "description": "008 ACABADOS",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000000314",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 685845.17,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000002330",
+          "description": "009 PUERTAS",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000002330",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 415622.18,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000005055",
+          "description": "010 CANCELERÍA",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000005055",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 260763.88,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000007314",
+          "description": "011 MOBILIARIO FIJO",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000007314",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 241857.91,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000008928",
+          "description": "012 EQUIPOS ESPECIALES",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000008928",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 50309.91,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000006458",
+          "description": "013 PAISAJE INTERIOR",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000006458",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 73710.22,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000002596",
+          "description": "014 INSTALACIÓN ELÉCTRICA",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000002596",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 1778676.88,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000000572",
+          "description": "015 ILUMINACIÓN GENERAL",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000000572",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 261382.7,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000003205",
+          "description": "016 ILUMINACIÓN TEATRAL",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000003205",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 951123.62,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000000683",
+          "description": "017 EQUIPAMIENTO ACÚSTICO",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000000683",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 302854.38,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000008177",
+          "description": "018 INSTALACIÓN HIDROSANITARIA",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000008177",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 484588.9432,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000005588",
+          "description": "019TRABAJOS FINALES",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000005588",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 24256.01,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000003181",
+          "description": "EXTRAS 001",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000003181",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 1135898.1863,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000003910",
+          "description": "EXTRAS 002",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000003910",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 1151295.5974,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000000751",
+          "description": "EXTRAS 003",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000000751",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 1246560.8403,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        }
+      ],
+      "dateSigned": "2017-04-10T19:00:00-05:00",
+      "documents": [
+        {
+          "id": "4540",
+          "documentType": "ND",
+          "title": "ND",
+          "description": "ND",
+          "url": "http://si.nl.gob.mx/Acceso/DatosAbiertos/DocumentosPublicos/CONVOCATORIA-20180507132533.pdf",
+          "datePublished": "2018-03-02T18:00:00-06:00",
+          "dateModified": "1899-12-31T18:00:00-06:00",
+          "format": "application/pdf",
+          "language": "es"
+        },
+        {
+          "id": "4541",
+          "documentType": "ND",
+          "title": "ND",
+          "description": "ND",
+          "url": "http://si.nl.gob.mx/Acceso/DatosAbiertos/DocumentosPublicos/BASES-20180507132539.pdf",
+          "datePublished": "2018-03-02T18:00:00-06:00",
+          "dateModified": "1899-12-31T18:00:00-06:00",
+          "format": "application/pdf",
+          "language": "es"
+        },
+        {
+          "id": "4542",
+          "documentType": "ND",
+          "title": "ND",
+          "description": "ND",
+          "url": "http://si.nl.gob.mx/Acceso/DatosAbiertos/DocumentosPublicos/ANEXOSDELASBASES-20180507132852.rar",
+          "datePublished": "2018-03-02T18:00:00-06:00",
+          "dateModified": "1899-12-31T18:00:00-06:00",
+          "format": "application/vnd.rar",
+          "language": "es"
+        },
+        {
+          "id": "4543",
+          "documentType": "ND",
+          "title": "ND",
+          "description": "ND",
+          "url": "http://si.nl.gob.mx/Acceso/DatosAbiertos/DocumentosPublicos/ACTADEVISITAALAOBRA-20180507132606.pdf",
+          "datePublished": "2018-03-02T18:00:00-06:00",
+          "dateModified": "1899-12-31T18:00:00-06:00",
+          "format": "application/pdf",
+          "language": "es"
+        },
+        {
+          "id": "4544",
+          "documentType": "ND",
+          "title": "ND",
+          "description": "ND",
+          "url": "http://si.nl.gob.mx/Acceso/DatosAbiertos/DocumentosPublicos/MINUTAJUNTADEACLARACIONES-20180507132617.pdf",
+          "datePublished": "2018-03-02T18:00:00-06:00",
+          "dateModified": "1899-12-31T18:00:00-06:00",
+          "format": "application/pdf",
+          "language": "es"
+        },
+        {
+          "id": "4545",
+          "documentType": "ND",
+          "title": "ND",
+          "description": "ND",
+          "url": "http://si.nl.gob.mx/Acceso/DatosAbiertos/DocumentosPublicos/Anexosdejuntadeaclaraciones-20180507132948.rar",
+          "datePublished": "2018-03-02T18:00:00-06:00",
+          "dateModified": "1899-12-31T18:00:00-06:00",
+          "format": "application/vnd.rar",
+          "language": "es"
+        },
+        {
+          "id": "4547",
+          "documentType": "ND",
+          "title": "ND",
+          "description": "ND",
+          "url": "http://si.nl.gob.mx/Acceso/DatosAbiertos/DocumentosPublicos/ACTADEAPERTURATECNICA-20180507132705.pdf",
+          "datePublished": "2018-03-02T18:00:00-06:00",
+          "dateModified": "1899-12-31T18:00:00-06:00",
+          "format": "application/pdf",
+          "language": "es"
+        },
+        {
+          "id": "4548",
+          "documentType": "ND",
+          "title": "ND",
+          "description": "ND",
+          "url": "http://si.nl.gob.mx/Acceso/DatosAbiertos/DocumentosPublicos/ACTADEAPERTURAECONOMICA-20180507132716.pdf",
+          "datePublished": "2018-03-02T18:00:00-06:00",
+          "dateModified": "1899-12-31T18:00:00-06:00",
+          "format": "application/pdf",
+          "language": "es"
+        },
+        {
+          "id": "4549",
+          "documentType": "ND",
+          "title": "ND",
+          "description": "ND",
+          "url": "http://si.nl.gob.mx/Acceso/DatosAbiertos/DocumentosPublicos/ACTADEFALLO-20180507132730.pdf",
+          "datePublished": "2018-03-02T18:00:00-06:00",
+          "dateModified": "1899-12-31T18:00:00-06:00",
+          "format": "application/pdf",
+          "language": "es"
+        },
+        {
+          "id": "4550",
+          "documentType": "ND",
+          "title": "ND",
+          "description": "ND",
+          "url": "http://si.nl.gob.mx/Acceso/DatosAbiertos/DocumentosPublicos/DIFERIMIENTODEFALLO-20180507132750.rar",
+          "datePublished": "2018-03-02T18:00:00-06:00",
+          "dateModified": "1899-12-31T18:00:00-06:00",
+          "format": "application/vnd.rar",
+          "language": "es"
+        },
+        {
+          "id": "4551",
+          "documentType": "ND",
+          "title": "ND",
+          "description": "ND",
+          "url": "http://si.nl.gob.mx/Acceso/DatosAbiertos/DocumentosPublicos/CONTRATO-20180620123451.pdf",
+          "datePublished": "2018-03-02T18:00:00-06:00",
+          "dateModified": "1899-12-31T18:00:00-06:00",
+          "format": "application/pdf",
+          "language": "es"
+        }
+      ],
+      "implementation": {
+        "transactions": [
+          {
+            "id": "EST-2017-05-656",
+            "date": "2017-05-25T05:34:37.37-05:00",
+            "value": {
+              "amount": 3273615.25,
+              "currency": "MXN"
+            },
+            "payer": {
+              "name": "SFYTGE",
+              "id": "RFC-GEN620601DTA"
+            },
+            "payee": {
+              "name": "CONSTRUCCIONES MALDONADO OVIEDO Y ASOCIADOS, S.A. DE C.V.",
+              "id": "CMO040217HK2"
+            }
+          },
+          {
+            "id": "EST-2017-09-210",
+            "date": "2017-09-26T08:17:41.41-05:00",
+            "value": {
+              "amount": 639811.59,
+              "currency": "MXN"
+            },
+            "payer": {
+              "name": "SFYTGE",
+              "id": "RFC-GEN620601DTA"
+            },
+            "payee": {
+              "name": "CONSTRUCCIONES MALDONADO OVIEDO Y ASOCIADOS, S.A. DE C.V.",
+              "id": "CMO040217HK2"
+            }
+          },
+          {
+            "id": "EST-2017-11-497",
+            "date": "2017-11-15T06:56:38.38-06:00",
+            "value": {
+              "amount": 1054061.17,
+              "currency": "MXN"
+            },
+            "payer": {
+              "name": "SFYTGE",
+              "id": "RFC-GEN620601DTA"
+            },
+            "payee": {
+              "name": "CONSTRUCCIONES MALDONADO OVIEDO Y ASOCIADOS, S.A. DE C.V.",
+              "id": "CMO040217HK2"
+            }
+          },
+          {
+            "id": "EST-2018-08-827",
+            "date": "2018-07-31T09:01:51.51-05:00",
+            "value": {
+              "amount": 1068402.32,
+              "currency": "MXN"
+            },
+            "payer": {
+              "name": "SFYTGE",
+              "id": "RFC-GEN620601DTA"
+            },
+            "payee": {
+              "name": "CONSTRUCCIONES MALDONADO OVIEDO Y ASOCIADOS, S.A. DE C.V.",
+              "id": "CMO040217HK2"
+            }
+          },
+          {
+            "id": "EST-2018-08-927",
+            "date": "2018-08-20T09:17:58.58-05:00",
+            "value": {
+              "amount": 1645610.38,
+              "currency": "MXN"
+            },
+            "payer": {
+              "name": "SFYTGE",
+              "id": "RFC-GEN620601DTA"
+            },
+            "payee": {
+              "name": "CONSTRUCCIONES MALDONADO OVIEDO Y ASOCIADOS, S.A. DE C.V.",
+              "id": "CMO040217HK2"
+            }
+          },
+          {
+            "id": "EST-2018-12-422",
+            "date": "2018-12-05T07:02:54.54-06:00",
+            "value": {
+              "amount": 1016435.41,
+              "currency": "MXN"
+            },
+            "payer": {
+              "name": "SFYTGE",
+              "id": "RFC-GEN620601DTA"
+            },
+            "payee": {
+              "name": "CONSTRUCCIONES MALDONADO OVIEDO Y ASOCIADOS, S.A. DE C.V.",
+              "id": "CMO040217HK2"
+            }
+          },
+          {
+            "id": "EST-2018-12-615",
+            "date": "2018-12-21T07:08:24.24-06:00",
+            "value": {
+              "amount": 1446010.57,
+              "currency": "MXN"
+            },
+            "payer": {
+              "name": "SFYTGE",
+              "id": "RFC-GEN620601DTA"
+            },
+            "payee": {
+              "name": "CONSTRUCCIONES MALDONADO OVIEDO Y ASOCIADOS, S.A. DE C.V.",
+              "id": "CMO040217HK2"
+            }
+          },
+          {
+            "id": "EST-2017-10-391",
+            "date": "2017-10-27T07:07:44.44-05:00",
+            "value": {
+              "amount": 194441.28,
+              "currency": "MXN"
+            },
+            "payer": {
+              "name": "SFYTGE",
+              "id": "RFC-GEN620601DTA"
+            },
+            "payee": {
+              "name": "CONSTRUCCIONES MALDONADO OVIEDO Y ASOCIADOS, S.A. DE C.V.",
+              "id": "CMO040217HK2"
+            }
+          },
+          {
+            "id": "EST-2017-11-437",
+            "date": "2017-11-02T03:31:36.36-06:00",
+            "value": {
+              "amount": 2560172.87,
+              "currency": "MXN"
+            },
+            "payer": {
+              "name": "SFYTGE",
+              "id": "RFC-GEN620601DTA"
+            },
+            "payee": {
+              "name": "CONSTRUCCIONES MALDONADO OVIEDO Y ASOCIADOS, S.A. DE C.V.",
+              "id": "CMO040217HK2"
+            }
+          },
+          {
+            "id": "EST-2017-11-498",
+            "date": "2017-11-16T03:28:46.46-06:00",
+            "value": {
+              "amount": 712281.83,
+              "currency": "MXN"
+            },
+            "payer": {
+              "name": "SFYTGE",
+              "id": "RFC-GEN620601DTA"
+            },
+            "payee": {
+              "name": "CONSTRUCCIONES MALDONADO OVIEDO Y ASOCIADOS, S.A. DE C.V.",
+              "id": "CMO040217HK2"
+            }
+          },
+          {
+            "id": "EST-2017-12-761",
+            "date": "2017-12-14T06:03:19.19-06:00",
+            "value": {
+              "amount": 345287.91,
+              "currency": "MXN"
+            },
+            "payer": {
+              "name": "SFYTGE",
+              "id": "RFC-GEN620601DTA"
+            },
+            "payee": {
+              "name": "CONSTRUCCIONES MALDONADO OVIEDO Y ASOCIADOS, S.A. DE C.V.",
+              "id": "CMO040217HK2"
+            }
+          },
+          {
+            "id": "EST-2017-12-852",
+            "date": "2017-12-28T05:43:14.14-06:00",
+            "value": {
+              "amount": 915735.57,
+              "currency": "MXN"
+            },
+            "payer": {
+              "name": "SFYTGE",
+              "id": "RFC-GEN620601DTA"
+            },
+            "payee": {
+              "name": "CONSTRUCCIONES MALDONADO OVIEDO Y ASOCIADOS, S.A. DE C.V.",
+              "id": "CMO040217HK2"
+            }
+          },
+          {
+            "id": "EST-2018-02-034",
+            "date": "2018-02-15T06:59:19.19-06:00",
+            "value": {
+              "amount": 478673.14,
+              "currency": "MXN"
+            },
+            "payer": {
+              "name": "SFYTGE",
+              "id": "RFC-GEN620601DTA"
+            },
+            "payee": {
+              "name": "CONSTRUCCIONES MALDONADO OVIEDO Y ASOCIADOS, S.A. DE C.V.",
+              "id": "CMO040217HK2"
+            }
+          },
+          {
+            "id": "EST-2018-03-160",
+            "date": "2018-03-07T05:17:00-06:00",
+            "value": {
+              "amount": 966930.92,
+              "currency": "MXN"
+            },
+            "payer": {
+              "name": "SFYTGE",
+              "id": "RFC-GEN620601DTA"
+            },
+            "payee": {
+              "name": "CONSTRUCCIONES MALDONADO OVIEDO Y ASOCIADOS, S.A. DE C.V.",
+              "id": "CMO040217HK2"
+            }
+          },
+          {
+            "id": "EST-2018-04-453",
+            "date": "2018-04-12T06:44:42.42-05:00",
+            "value": {
+              "amount": 1548116.21,
+              "currency": "MXN"
+            },
+            "payer": {
+              "name": "SFYTGE",
+              "id": "RFC-GEN620601DTA"
+            },
+            "payee": {
+              "name": "CONSTRUCCIONES MALDONADO OVIEDO Y ASOCIADOS, S.A. DE C.V.",
+              "id": "CMO040217HK2"
+            }
+          },
+          {
+            "id": "EST-2018-05-632",
+            "date": "2018-05-22T11:00:10.1-05:00",
+            "value": {
+              "amount": 1200369.09,
+              "currency": "MXN"
+            },
+            "payer": {
+              "name": "SFYTGE",
+              "id": "RFC-GEN620601DTA"
+            },
+            "payee": {
+              "name": "CONSTRUCCIONES MALDONADO OVIEDO Y ASOCIADOS, S.A. DE C.V.",
+              "id": "CMO040217HK2"
+            }
+          },
+          {
+            "id": "EST-2018-10-179",
+            "date": "2018-10-17T06:48:09.09-05:00",
+            "value": {
+              "amount": 1393265.65,
+              "currency": "MXN"
+            },
+            "payer": {
+              "name": "SFYTGE",
+              "id": "RFC-GEN620601DTA"
+            },
+            "payee": {
+              "name": "CONSTRUCCIONES MALDONADO OVIEDO Y ASOCIADOS, S.A. DE C.V.",
+              "id": "CMO040217HK2"
+            }
+          }
+        ]
+      },
+      "milestones": [
+        {
+          "id": "1704001-04836517-C4F4-4BF1-BCEE-825069BBEC06",
+          "title": "ACTA-ENTREGA RECEPCION",
+          "type": "delivery",
+          "description": "ACTA ENTREGA RECEPCIÓN DE LOS TRABAJOS",
+          "dueDate": "2019-02-11T18:00:00-06:00",
+          "dateMet": "2019-02-11T18:00:00-06:00",
+          "status": "met"
+        }
+      ]
+    }
+  ],
+  "language": "es"
+}

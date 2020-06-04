@@ -1,0 +1,1548 @@
+{
+  "ocid": "ocds-7wj9x5-LO-919009986-E52-2016-v0001",
+  "id": "ocds-7wj9x5-LO-919009986-E52-2016-v0001-contract",
+  "date": "2019-11-11T15:22:38.38-06:00",
+  "tag": [
+    "planning",
+    "tender",
+    "award",
+    "contract"
+  ],
+  "initiationType": "tender",
+  "parties": [
+    {
+      "name": "SECRETARIA DE INFRAESTRUCTURA",
+      "id": "CAGMNL-211113110100001",
+      "identifier": {
+        "scheme": "CAGMNL",
+        "legalName": "CLASIFICACIÓN ADMINISTRATIVA Y GEOGRÁFICA MUNICIPAL DEL ESTADO DE NUEVO LEON"
+      },
+      "address": {
+        "streetAddress": "WASHIGTON 648 OTE",
+        "locality": "MONTERREY",
+        "region": "NUEVO LEÓN",
+        "postalCode": "64000",
+        "countryName": "MÉXICO"
+      },
+      "contactPoint": {
+        "name": "EMILIO RODRÍGUEZ CERDA",
+        "telephone": "20206779"
+      },
+      "roles": [
+        "procuringEntity"
+      ]
+    },
+    {
+      "name": "SECRETARIA DE FINANZAS Y TESORERIA GENERAL DEL ESTADO DE NUEVO LEON",
+      "id": "CAGMNL-211113040100001",
+      "identifier": {
+        "scheme": "CAGMNL",
+        "legalName": "CLASIFICACIÓN ADMINISTRATIVA Y GEOGRÁFICA MUNICIPAL DEL ESTADO DE NUEVO LEON"
+      },
+      "address": {
+        "streetAddress": "ESCOBEDO SUR PISO 3 333",
+        "locality": "MONTERREY",
+        "region": "NUEVO LEÓN",
+        "postalCode": "64000",
+        "countryName": "MÉXICO"
+      },
+      "contactPoint": {},
+      "roles": [
+        "payer"
+      ]
+    },
+    {
+      "name": "CONSTRUCTORA MOYEDA, S.A. DE C.V.",
+      "id": "RFC-CMO960710BR4",
+      "identifier": {
+        "scheme": "RFC",
+        "id": "CMO960710BR4",
+        "legalName": "REGISTRO FEDERAL DE CONTRIBUYENTES",
+        "uri": "https://www.sat.gob.mx"
+      },
+      "address": {
+        "streetAddress": "AV, MANUEL GOMEZ MORIN  1101 LOCAL 202-1",
+        "locality": "SAN PEDRO GARZA GARCIA",
+        "postalCode": "66254"
+      },
+      "contactPoint": {
+        "name": "ARTURO MOYEDA MORALES",
+        "telephone": "81 8345-2404"
+      },
+      "roles": [
+        "tenderer"
+      ]
+    },
+    {
+      "name": "DESARROLLO Y CONSTRUCCIONES URBANAS, S.A. DE C.V.",
+      "id": "RFC-DCU801124B41",
+      "identifier": {
+        "scheme": "RFC",
+        "id": "DCU801124B41",
+        "legalName": "REGISTRO FEDERAL DE CONTRIBUYENTES",
+        "uri": "https://www.sat.gob.mx"
+      },
+      "address": {
+        "streetAddress": "MANUEL J. CLOUTHIER  3112",
+        "locality": "MONTERREY",
+        "postalCode": "64650"
+      },
+      "contactPoint": {
+        "name": "JAVIER ILDEFONSO BALLI MARTINEZ",
+        "telephone": "8111584208"
+      },
+      "roles": [
+        "tenderer"
+      ]
+    },
+    {
+      "name": "GAR-REAL CONSTRUCCIONES DE TAMAULIPAS, S.A. DE C.V.",
+      "id": "RFC-GCT120531NJ1",
+      "identifier": {
+        "scheme": "RFC",
+        "id": "GCT120531NJ1",
+        "legalName": "REGISTRO FEDERAL DE CONTRIBUYENTES",
+        "uri": "https://www.sat.gob.mx"
+      },
+      "address": {
+        "streetAddress": "CUARTA  260",
+        "locality": "REYNOSA",
+        "postalCode": "88710"
+      },
+      "contactPoint": {
+        "name": "ALDO ALBERTO GARCIA RESENDEZ",
+        "telephone": "8180309796"
+      },
+      "roles": [
+        "tenderer"
+      ]
+    },
+    {
+      "name": "GUAJARDO Y ASOCIADOS CONSTRUCTORA, S.A. DE C.V.",
+      "id": "RFC-CGM741010KF3",
+      "identifier": {
+        "scheme": "RFC",
+        "id": "CGM741010KF3",
+        "legalName": "REGISTRO FEDERAL DE CONTRIBUYENTES",
+        "uri": "https://www.sat.gob.mx"
+      },
+      "address": {
+        "streetAddress": "AV. ESTANZUELA  7625",
+        "locality": "MONTERREY",
+        "postalCode": "64988"
+      },
+      "contactPoint": {
+        "name": "JOSE FRANCISCO GUAJARDO VALDEZ",
+        "telephone": "8123523586"
+      },
+      "roles": [
+        "tenderer"
+      ]
+    },
+    {
+      "name": "CEMEX CONCRETOS, S.A. DE C.V. y CEMEX OPERACIONES MEXICO, S.A. DE C.V. (PROPOSICÓN CONJUNTA)",
+      "id": "RFC-SIN DATO-B227F05C-1B18-44CD-A793-4008AAAEAC1B",
+      "identifier": {
+        "scheme": "RFC",
+        "id": "SIN DATO-B227F05C-1B18-44CD-A793-4008AAAEAC1B",
+        "legalName": "REGISTRO FEDERAL DE CONTRIBUYENTES",
+        "uri": "https://www.sat.gob.mx"
+      },
+      "address": {
+        "streetAddress": "SIN DATO",
+        "locality": "SIN DATO",
+        "postalCode": "SIN DATO"
+      },
+      "contactPoint": {
+        "name": "SIN DATO",
+        "telephone": "SIN DATO"
+      },
+      "roles": [
+        "tenderer"
+      ]
+    },
+    {
+      "name": "TORDEC, S.A. DE C.V. y HERCULES CONSTRUCCIONES DE MONTERREY, S.A. DE C.V. (PROPOSICÓN CONJUNTA)",
+      "id": "RFC-SIN DATO-55FB00AB-7B59-42D9-BD4F-044CD2BC169D",
+      "identifier": {
+        "scheme": "RFC",
+        "id": "SIN DATO-55FB00AB-7B59-42D9-BD4F-044CD2BC169D",
+        "legalName": "REGISTRO FEDERAL DE CONTRIBUYENTES",
+        "uri": "https://www.sat.gob.mx"
+      },
+      "address": {
+        "streetAddress": "SIN DATO",
+        "locality": "SIN DATO",
+        "postalCode": "SIN DATO"
+      },
+      "contactPoint": {
+        "name": "SIN DATO",
+        "telephone": "SIN DATO"
+      },
+      "roles": [
+        "tenderer"
+      ]
+    },
+    {
+      "name": "LAUNAK, S.A. DE C.V.",
+      "id": "RFC-LAU8210287I6",
+      "identifier": {
+        "scheme": "RFC",
+        "id": "LAU8210287I6",
+        "legalName": "REGISTRO FEDERAL DE CONTRIBUYENTES",
+        "uri": "https://www.sat.gob.mx"
+      },
+      "address": {
+        "streetAddress": "AV. AYUNTAMIENTO 142 PISO 3",
+        "locality": "TLALNEPANTLA DE BAZ",
+        "postalCode": "54000"
+      },
+      "contactPoint": {
+        "name": "RICARDO GONZALEZ MENESES",
+        "telephone": "5554032436"
+      },
+      "roles": [
+        "tenderer"
+      ]
+    }
+  ],
+  "buyer": {
+    "id": "CAGMNL-211113110100001",
+    "name": "SECRETARIA DE INFRAESTRUCTURA"
+  },
+  "planning": {
+    "rationale": "Programa integral de rehabilitación vial en Diaz Ordaz de Oriente a Poniente entre limite con Santa Catarina y Calzada San Pedro en Monterrey, Nuevo León.",
+    "budget": {
+      "id": "10139",
+      "description": "Fondo Metropolitano 2016",
+      "amount": {
+        "amount": 97175684.74,
+        "currency": "MXN"
+      },
+      "project": "Programa integral de rehabilitación vial en Diaz Ordaz",
+      "projectID": "SIE-0179/2016",
+      "uri": "http://si.nl.gob.mx"
+    }
+  },
+  "tender": {
+    "id": "LO-919009986-E52-2016",
+    "title": "Programa integral de rehabilitación vial en Diaz Ordaz",
+    "description": "Programa integral de rehabilitación vial en Diaz Ordaz de Oriente a Poniente entre limite con Santa Catarina y Calzada San Pedro en Monterrey, Nuevo León.",
+    "status": "complete",
+    "procuringEntity": {
+      "name": "?",
+      "id": "?"
+    },
+    "value": {
+      "amount": 97175684.74,
+      "currency": "MXN"
+    },
+    "minValue": {
+      "amount": 97175684.74,
+      "currency": "MXN"
+    },
+    "procurementMethod": "open",
+    "procurementMethodDetails": "Licitación Federal",
+    "procurementMethodRationale": "Justificación para el método de compra elegido",
+    "mainProcurementCategory": "goods",
+    "additionalProcurementCategories": [
+      "ND"
+    ],
+    "awardCriteria": "priceOnly",
+    "awardCriteriaDetails": "?",
+    "submissionMethod": [
+      "inPerson"
+    ],
+    "submissionMethodDetails": "El representante del licitante deberá presentar en persona su oferta escrita en sobre cerrado",
+    "tenderPeriod": {
+      "startDate": "2016-10-26T19:00:00-05:00",
+      "endDate": "2016-11-23T18:00:00-06:00",
+      "maxExtentDate": "0001-01-01T18:00:00-06:00",
+      "durationInDays": 28
+    },
+    "enquiryPeriod": {
+      "startDate": "2016-10-26T19:00:00-05:00",
+      "endDate": "2016-11-06T18:00:00-06:00",
+      "maxExtentDate": "0001-01-01T18:00:00-06:00",
+      "durationInDays": 11
+    },
+    "hasEnquiries": false,
+    "eligibilityCriteria": "El criterio establecido por el artículo 38 de la Ley de obras públicas y servicios relacionados con las mismas",
+    "awardPeriod": {
+      "startDate": "2016-11-14T18:00:00-06:00",
+      "endDate": "2016-11-23T18:00:00-06:00",
+      "maxExtentDate": "0001-01-01T18:00:00-06:00",
+      "durationInDays": 9
+    },
+    "contractPeriod": {
+      "startDate": "2016-11-23T18:00:00-06:00",
+      "endDate": "0001-01-01T18:00:00-06:00",
+      "maxExtentDate": "0001-01-01T18:00:00-06:00",
+      "durationInDays": 0
+    },
+    "numberOfTenderers": 7,
+    "tenderers": [
+      {
+        "name": "CONSTRUCTORA MOYEDA, S.A. DE C.V.",
+        "id": "CMO960710BR4"
+      },
+      {
+        "name": "DESARROLLO Y CONSTRUCCIONES URBANAS, S.A. DE C.V.",
+        "id": "DCU801124B41"
+      },
+      {
+        "name": "GAR-REAL CONSTRUCCIONES DE TAMAULIPAS, S.A. DE C.V.",
+        "id": "GCT120531NJ1"
+      },
+      {
+        "name": "GUAJARDO Y ASOCIADOS CONSTRUCTORA, S.A. DE C.V.",
+        "id": "CGM741010KF3"
+      },
+      {
+        "name": "CEMEX CONCRETOS, S.A. DE C.V. y CEMEX OPERACIONES MEXICO, S.A. DE C.V. (PROPOSICÓN CONJUNTA)",
+        "id": "SIN DATO-03CF3815-C68F-4A99-90A9-A537B8D51557"
+      },
+      {
+        "name": "TORDEC, S.A. DE C.V. y HERCULES CONSTRUCCIONES DE MONTERREY, S.A. DE C.V. (PROPOSICÓN CONJUNTA)",
+        "id": "SIN DATO-97771197-F33D-453D-A808-218C751ED09F"
+      },
+      {
+        "name": "LAUNAK, S.A. DE C.V.",
+        "id": "LAU8210287I6"
+      }
+    ],
+    "documents": [
+      {
+        "id": "7245",
+        "documentType": "ND",
+        "title": "ND",
+        "description": "ND",
+        "url": "http://si.nl.gob.mx/Acceso/DatosAbiertos/DocumentosPublicos/CONVOCATORIA-20180611110105.pdf",
+        "datePublished": "2018-05-15T13:01:00-05:00",
+        "dateModified": "1899-12-31T18:00:00-06:00",
+        "format": "application/pdf",
+        "language": "es"
+      },
+      {
+        "id": "7245",
+        "documentType": "ND",
+        "title": "ND",
+        "description": "ND",
+        "url": "http://si.nl.gob.mx/Acceso/DatosAbiertos/DocumentosPublicos/CONVOCATORIA-20180611110105.pdf",
+        "datePublished": "2018-05-15T13:01:00-05:00",
+        "dateModified": "1899-12-31T18:00:00-06:00",
+        "format": "application/pdf",
+        "language": "es"
+      },
+      {
+        "id": "5952",
+        "documentType": "ND",
+        "title": "ND",
+        "description": "ND",
+        "url": "http://si.nl.gob.mx/Acceso/DatosAbiertos/DocumentosPublicos/ANEXOSDELASBASES-20180518131505.exe",
+        "datePublished": "2018-03-02T18:00:00-06:00",
+        "dateModified": "1899-12-31T18:00:00-06:00",
+        "format": "ND",
+        "language": "es"
+      },
+      {
+        "id": "7245",
+        "documentType": "ND",
+        "title": "ND",
+        "description": "ND",
+        "url": "http://si.nl.gob.mx/Acceso/DatosAbiertos/DocumentosPublicos/CONVOCATORIA-20180611110105.pdf",
+        "datePublished": "2018-05-15T13:01:00-05:00",
+        "dateModified": "1899-12-31T18:00:00-06:00",
+        "format": "application/pdf",
+        "language": "es"
+      },
+      {
+        "id": "7245",
+        "documentType": "ND",
+        "title": "ND",
+        "description": "ND",
+        "url": "http://si.nl.gob.mx/Acceso/DatosAbiertos/DocumentosPublicos/CONVOCATORIA-20180611110105.pdf",
+        "datePublished": "2018-05-15T13:01:00-05:00",
+        "dateModified": "1899-12-31T18:00:00-06:00",
+        "format": "application/pdf",
+        "language": "es"
+      },
+      {
+        "id": "5952",
+        "documentType": "ND",
+        "title": "ND",
+        "description": "ND",
+        "url": "http://si.nl.gob.mx/Acceso/DatosAbiertos/DocumentosPublicos/ANEXOSDELASBASES-20180518131505.exe",
+        "datePublished": "2018-03-02T18:00:00-06:00",
+        "dateModified": "1899-12-31T18:00:00-06:00",
+        "format": "ND",
+        "language": "es"
+      },
+      {
+        "id": "7245",
+        "documentType": "ND",
+        "title": "ND",
+        "description": "ND",
+        "url": "http://si.nl.gob.mx/Acceso/DatosAbiertos/DocumentosPublicos/CONVOCATORIA-20180611110105.pdf",
+        "datePublished": "2018-05-15T13:01:00-05:00",
+        "dateModified": "1899-12-31T18:00:00-06:00",
+        "format": "application/pdf",
+        "language": "es"
+      },
+      {
+        "id": "7245",
+        "documentType": "ND",
+        "title": "ND",
+        "description": "ND",
+        "url": "http://si.nl.gob.mx/Acceso/DatosAbiertos/DocumentosPublicos/CONVOCATORIA-20180611110105.pdf",
+        "datePublished": "2018-05-15T13:01:00-05:00",
+        "dateModified": "1899-12-31T18:00:00-06:00",
+        "format": "application/pdf",
+        "language": "es"
+      },
+      {
+        "id": "7245",
+        "documentType": "ND",
+        "title": "ND",
+        "description": "ND",
+        "url": "http://si.nl.gob.mx/Acceso/DatosAbiertos/DocumentosPublicos/CONVOCATORIA-20180611110105.pdf",
+        "datePublished": "2018-05-15T13:01:00-05:00",
+        "dateModified": "1899-12-31T18:00:00-06:00",
+        "format": "application/pdf",
+        "language": "es"
+      },
+      {
+        "id": "7245",
+        "documentType": "ND",
+        "title": "ND",
+        "description": "ND",
+        "url": "http://si.nl.gob.mx/Acceso/DatosAbiertos/DocumentosPublicos/CONVOCATORIA-20180611110105.pdf",
+        "datePublished": "2018-05-15T13:01:00-05:00",
+        "dateModified": "1899-12-31T18:00:00-06:00",
+        "format": "application/pdf",
+        "language": "es"
+      }
+    ],
+    "milestones": [
+      {
+        "id": "LO-919009986-E52-2016-13982",
+        "title": "CONVOCATORIA",
+        "type": "preProcurement",
+        "description": "CONVOCATORIA",
+        "code": "CONVOCATORIA",
+        "dueDate": "2016-10-27T03:00:00-05:00",
+        "dateMet": "2016-10-27T03:00:00-05:00",
+        "dateModified": "2016-10-27T03:00:00-05:00",
+        "status": "scheduled"
+      },
+      {
+        "id": "LO-919009986-E52-2016-13984",
+        "title": "JUNTA DE ACLARACIONES",
+        "type": "preProcurement",
+        "description": "JUNTA DE ACLARACIONES",
+        "code": "JUNTA DE ACLARACIONES",
+        "dueDate": "2016-11-07T04:00:00-06:00",
+        "dateMet": "2016-11-07T04:00:00-06:00",
+        "dateModified": "2016-11-07T04:00:00-06:00",
+        "status": "scheduled"
+      },
+      {
+        "id": "LO-919009986-E52-2016-13983",
+        "title": "VISITA A LA OBRA",
+        "type": "preProcurement",
+        "description": "VISITA A LA OBRA",
+        "code": "VISITA A LA OBRA",
+        "dueDate": "2016-11-04T02:00:00-06:00",
+        "dateMet": "2016-11-04T02:00:00-06:00",
+        "dateModified": "2016-11-04T02:00:00-06:00",
+        "status": "scheduled"
+      },
+      {
+        "id": "LO-919009986-E52-2016-13985",
+        "title": "APERTURA",
+        "type": "assessment",
+        "description": "APERTURA",
+        "code": "APERTURA",
+        "dueDate": "2016-11-15T04:00:00-06:00",
+        "dateMet": "2016-11-15T04:00:00-06:00",
+        "dateModified": "2016-11-15T04:00:00-06:00",
+        "status": "scheduled"
+      },
+      {
+        "id": "LO-919009986-E52-2016-13988",
+        "title": "FALLO",
+        "type": "engagement",
+        "description": "FALLO",
+        "code": "FALLO",
+        "dueDate": "2016-11-24T04:00:00-06:00",
+        "dateMet": "2016-11-24T04:00:00-06:00",
+        "dateModified": "2016-11-24T04:00:00-06:00",
+        "status": "scheduled"
+      },
+      {
+        "id": "LO-919009986-E52-2016-13989",
+        "title": "FIRMA DEL CONTRATO",
+        "type": "approval",
+        "description": "FIRMA DEL CONTRATO",
+        "code": "FIRMA DEL CONTRATO",
+        "dueDate": "2016-12-27T09:00:00-06:00",
+        "dateMet": "2016-12-27T09:00:00-06:00",
+        "dateModified": "2016-12-27T09:00:00-06:00",
+        "status": "scheduled"
+      }
+    ]
+  },
+  "awards": [
+    {
+      "id": "LO-919009986-E52-2016",
+      "title": "Programa integral de rehabilitación vial en Diaz Ordaz",
+      "description": "Programa integral de rehabilitación vial en Diaz Ordaz de Oriente a Poniente entre limite con Santa Catarina y Calzada San Pedro en Monterrey, Nuevo León.",
+      "status": "active",
+      "date": "2016-11-23T18:00:00-06:00",
+      "value": {
+        "amount": 97175684.74,
+        "currency": "MXN"
+      },
+      "suppliers": [
+        {
+          "id": "1",
+          "name": "TORDEC, S.A. DE C.V. y HERCULES CONSTRUCCIONES DE MONTERREY, S.A. DE C.V. (PROPOSICÓN CONJUNTA)"
+        }
+      ],
+      "contractPeriod": {
+        "startDate": "2017-01-03T18:00:00-06:00",
+        "endDate": "2017-09-21T19:00:00-05:00",
+        "maxExtentDate": "2019-11-11T15:22:38.2095095-06:00",
+        "durationInDays": 261
+      },
+      "documents": [
+        {
+          "id": "7254",
+          "documentType": "ND",
+          "title": "ND",
+          "description": "ND",
+          "url": "http://si.nl.gob.mx/Acceso/DatosAbiertos/DocumentosPublicos/ACTADEFALLO-20180719095030.pdf",
+          "datePublished": "2018-05-15T13:01:00-05:00",
+          "dateModified": "1899-12-31T18:00:00-06:00",
+          "format": "application/pdf",
+          "language": "es"
+        }
+      ]
+    }
+  ],
+  "contracts": [
+    {
+      "id": "1612084",
+      "awardID": "LO-919009986-E52-2016",
+      "title": "Programa integral de rehabilitación vial en Diaz Ordaz",
+      "description": "Programa integral de rehabilitación vial en Diaz Ordaz de Oriente a Poniente entre limite con Santa Catarina y Calzada San Pedro en Monterrey, Nuevo León.",
+      "status": "active",
+      "period": {
+        "startDate": "2017-01-03T18:00:00-06:00",
+        "endDate": "2017-09-21T19:00:00-05:00",
+        "maxExtentDate": "0001-01-01T18:00:00-06:00",
+        "durationInDays": 261
+      },
+      "value": {
+        "amount": 149831.84,
+        "currency": "MXN"
+      },
+      "items": [
+        {
+          "id": "000004729",
+          "description": "001 PRELIMINARES",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000004729",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 2737816.967,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000002068",
+          "description": "002 TERRACERÍAS",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000002068",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 13580824.9613,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000007306",
+          "description": "003 PAVIMENTOS",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000007306",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 58373198.1762,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000008432",
+          "description": "004 GUARNICIONES",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000008432",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 7377805.463,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000000044",
+          "description": "005 BANQUETAS",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000000044",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 723020.1176,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000000708",
+          "description": "006 RAMPA PARA PERSONAS CON CAPACIDADES DIFERENTES",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000000708",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 108473.65,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000008094",
+          "description": "007 SEÑALAMIENTO HORIZONTAL",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000008094",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 3789820.8054,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000001447",
+          "description": "008 SEÑALAMIENTO VERTICAL",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000001447",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 1719861.54,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000001477",
+          "description": "009 SEMAFORIZACIÓN, OBRA CIVIL",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000001477",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 1056568.5472,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000008411",
+          "description": "010 OBRA ELÉCTRICA",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000008411",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 209994,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000005026",
+          "description": "011 SEMAFORIZACIÓN",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000005026",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 2901969.18,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000000159",
+          "description": "012 SISTEMA DE DETECCION",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000000159",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 2091495.75,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000002946",
+          "description": "013 RED DE COMUNICACIÓN",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000002946",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 1158.8,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000007434",
+          "description": "014 LIMPIEZA",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000007434",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 1592182.304,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000008974",
+          "description": "EXT 002",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000008974",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 38353694.3719,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        }
+      ],
+      "dateSigned": "2016-12-27T18:00:00-06:00",
+      "documents": [
+        {
+          "id": "5950",
+          "documentType": "ND",
+          "title": "ND",
+          "description": "ND",
+          "url": "http://si.nl.gob.mx/Acceso/DatosAbiertos/DocumentosPublicos/CONVOCATORIA-20180518133114.pdf",
+          "datePublished": "2018-03-02T18:00:00-06:00",
+          "dateModified": "1899-12-31T18:00:00-06:00",
+          "format": "application/pdf",
+          "language": "es"
+        },
+        {
+          "id": "5951",
+          "documentType": "ND",
+          "title": "ND",
+          "description": "ND",
+          "url": "http://si.nl.gob.mx/Acceso/DatosAbiertos/DocumentosPublicos/BASES-20180518131413.pdf",
+          "datePublished": "2018-03-02T18:00:00-06:00",
+          "dateModified": "1899-12-31T18:00:00-06:00",
+          "format": "application/pdf",
+          "language": "es"
+        },
+        {
+          "id": "5952",
+          "documentType": "ND",
+          "title": "ND",
+          "description": "ND",
+          "url": "http://si.nl.gob.mx/Acceso/DatosAbiertos/DocumentosPublicos/ANEXOSDELASBASES-20180518131505.exe",
+          "datePublished": "2018-03-02T18:00:00-06:00",
+          "dateModified": "1899-12-31T18:00:00-06:00",
+          "format": "ND",
+          "language": "es"
+        },
+        {
+          "id": "5953",
+          "documentType": "ND",
+          "title": "ND",
+          "description": "ND",
+          "url": "http://si.nl.gob.mx/Acceso/DatosAbiertos/DocumentosPublicos/ACTADEVISITAALAOBRA-20180518131520.pdf",
+          "datePublished": "2018-03-02T18:00:00-06:00",
+          "dateModified": "1899-12-31T18:00:00-06:00",
+          "format": "application/pdf",
+          "language": "es"
+        },
+        {
+          "id": "5954",
+          "documentType": "ND",
+          "title": "ND",
+          "description": "ND",
+          "url": "http://si.nl.gob.mx/Acceso/DatosAbiertos/DocumentosPublicos/MINUTAJUNTADEACLARACIONES-20180518131543.pdf",
+          "datePublished": "2018-03-02T18:00:00-06:00",
+          "dateModified": "1899-12-31T18:00:00-06:00",
+          "format": "application/pdf",
+          "language": "es"
+        },
+        {
+          "id": "5955",
+          "documentType": "ND",
+          "title": "ND",
+          "description": "ND",
+          "url": "http://si.nl.gob.mx/Acceso/DatosAbiertos/DocumentosPublicos/Anexosdejuntadeaclaraciones-20180518131952.exe",
+          "datePublished": "2018-03-02T18:00:00-06:00",
+          "dateModified": "1899-12-31T18:00:00-06:00",
+          "format": "ND",
+          "language": "es"
+        },
+        {
+          "id": "5956",
+          "documentType": "ND",
+          "title": "ND",
+          "description": "ND",
+          "url": "http://si.nl.gob.mx/Acceso/DatosAbiertos/DocumentosPublicos/ACTADEAPERTURA-20180518131611.pdf",
+          "datePublished": "2018-03-02T18:00:00-06:00",
+          "dateModified": "1899-12-31T18:00:00-06:00",
+          "format": "application/pdf",
+          "language": "es"
+        },
+        {
+          "id": "5959",
+          "documentType": "ND",
+          "title": "ND",
+          "description": "ND",
+          "url": "http://si.nl.gob.mx/Acceso/DatosAbiertos/DocumentosPublicos/ACTADEFALLO-20180518131659.pdf",
+          "datePublished": "2018-03-02T18:00:00-06:00",
+          "dateModified": "1899-12-31T18:00:00-06:00",
+          "format": "application/pdf",
+          "language": "es"
+        },
+        {
+          "id": "5960",
+          "documentType": "ND",
+          "title": "ND",
+          "description": "ND",
+          "url": "http://si.nl.gob.mx/Acceso/DatosAbiertos/DocumentosPublicos/DIFERIMIENTODEFALLO-20180518131712.pdf",
+          "datePublished": "2018-03-02T18:00:00-06:00",
+          "dateModified": "1899-12-31T18:00:00-06:00",
+          "format": "application/pdf",
+          "language": "es"
+        },
+        {
+          "id": "5961",
+          "documentType": "ND",
+          "title": "ND",
+          "description": "ND",
+          "url": "http://si.nl.gob.mx/Acceso/DatosAbiertos/DocumentosPublicos/CONTRATO-20180801104847.pdf",
+          "datePublished": "2018-03-02T18:00:00-06:00",
+          "dateModified": "1899-12-31T18:00:00-06:00",
+          "format": "application/pdf",
+          "language": "es"
+        }
+      ],
+      "implementation": {
+        "transactions": [
+          {
+            "id": "EST-2017-01-151",
+            "date": "2017-01-10T07:36:18.18-06:00",
+            "value": {
+              "amount": 12829966.36,
+              "currency": "MXN"
+            },
+            "payer": {
+              "name": "SFYTGE",
+              "id": "RFC-GEN620601DTA"
+            },
+            "payee": {
+              "name": "TORDEC, S.A. DE C.V. y HERCULES CONSTRUCCIONES DE MONTERREY, S.A. DE C.V. (PROPOSICÓN CONJUNTA)",
+              "id": "1"
+            }
+          },
+          {
+            "id": "EST-2017-07-871",
+            "date": "2017-07-28T09:19:06.06-05:00",
+            "value": {
+              "amount": 2423526.02,
+              "currency": "MXN"
+            },
+            "payer": {
+              "name": "SFYTGE",
+              "id": "RFC-GEN620601DTA"
+            },
+            "payee": {
+              "name": "TORDEC, S.A. DE C.V. y HERCULES CONSTRUCCIONES DE MONTERREY, S.A. DE C.V. (PROPOSICÓN CONJUNTA)",
+              "id": "1"
+            }
+          },
+          {
+            "id": "EST-2017-08-996",
+            "date": "2017-08-22T06:02:56.56-05:00",
+            "value": {
+              "amount": 348158.44,
+              "currency": "MXN"
+            },
+            "payer": {
+              "name": "SFYTGE",
+              "id": "RFC-GEN620601DTA"
+            },
+            "payee": {
+              "name": "TORDEC, S.A. DE C.V. y HERCULES CONSTRUCCIONES DE MONTERREY, S.A. DE C.V. (PROPOSICÓN CONJUNTA)",
+              "id": "1"
+            }
+          },
+          {
+            "id": "EST-2018-03-118",
+            "date": "2017-11-29T06:34:26.26-06:00",
+            "value": {
+              "amount": 179762.85,
+              "currency": "MXN"
+            },
+            "payer": {
+              "name": "SFYTGE",
+              "id": "RFC-GEN620601DTA"
+            },
+            "payee": {
+              "name": "TORDEC, S.A. DE C.V. y HERCULES CONSTRUCCIONES DE MONTERREY, S.A. DE C.V. (PROPOSICÓN CONJUNTA)",
+              "id": "1"
+            }
+          },
+          {
+            "id": "EST-2019-03-803",
+            "date": "2019-03-01T03:23:06.06-06:00",
+            "value": {
+              "amount": 2965098.13,
+              "currency": "MXN"
+            },
+            "payer": {
+              "name": "SFYTGE",
+              "id": "RFC-GEN620601DTA"
+            },
+            "payee": {
+              "name": "TORDEC, S.A. DE C.V. y HERCULES CONSTRUCCIONES DE MONTERREY, S.A. DE C.V. (PROPOSICÓN CONJUNTA)",
+              "id": "1"
+            }
+          },
+          {
+            "id": "EST-2017-08-954",
+            "date": "2017-08-15T09:23:02.02-05:00",
+            "value": {
+              "amount": 322760.84,
+              "currency": "MXN"
+            },
+            "payer": {
+              "name": "SFYTGE",
+              "id": "RFC-GEN620601DTA"
+            },
+            "payee": {
+              "name": "TORDEC, S.A. DE C.V. y HERCULES CONSTRUCCIONES DE MONTERREY, S.A. DE C.V. (PROPOSICÓN CONJUNTA)",
+              "id": "1"
+            }
+          },
+          {
+            "id": "EST-2017-08-997",
+            "date": "2017-08-22T06:20:08.08-05:00",
+            "value": {
+              "amount": 636375.31,
+              "currency": "MXN"
+            },
+            "payer": {
+              "name": "SFYTGE",
+              "id": "RFC-GEN620601DTA"
+            },
+            "payee": {
+              "name": "TORDEC, S.A. DE C.V. y HERCULES CONSTRUCCIONES DE MONTERREY, S.A. DE C.V. (PROPOSICÓN CONJUNTA)",
+              "id": "1"
+            }
+          },
+          {
+            "id": "EST-2018-03-121",
+            "date": "2017-11-29T07:48:01.01-06:00",
+            "value": {
+              "amount": 246039.99,
+              "currency": "MXN"
+            },
+            "payer": {
+              "name": "SFYTGE",
+              "id": "RFC-GEN620601DTA"
+            },
+            "payee": {
+              "name": "TORDEC, S.A. DE C.V. y HERCULES CONSTRUCCIONES DE MONTERREY, S.A. DE C.V. (PROPOSICÓN CONJUNTA)",
+              "id": "1"
+            }
+          },
+          {
+            "id": "EST-2017-08-955",
+            "date": "2017-08-15T09:27:43.43-05:00",
+            "value": {
+              "amount": 88268.94,
+              "currency": "MXN"
+            },
+            "payer": {
+              "name": "SFYTGE",
+              "id": "RFC-GEN620601DTA"
+            },
+            "payee": {
+              "name": "TORDEC, S.A. DE C.V. y HERCULES CONSTRUCCIONES DE MONTERREY, S.A. DE C.V. (PROPOSICÓN CONJUNTA)",
+              "id": "1"
+            }
+          },
+          {
+            "id": "EST-2017-08-998",
+            "date": "2017-08-22T06:29:23.23-05:00",
+            "value": {
+              "amount": 898798.12,
+              "currency": "MXN"
+            },
+            "payer": {
+              "name": "SFYTGE",
+              "id": "RFC-GEN620601DTA"
+            },
+            "payee": {
+              "name": "TORDEC, S.A. DE C.V. y HERCULES CONSTRUCCIONES DE MONTERREY, S.A. DE C.V. (PROPOSICÓN CONJUNTA)",
+              "id": "1"
+            }
+          },
+          {
+            "id": "EST-2018-03-122",
+            "date": "2017-11-29T07:57:36.36-06:00",
+            "value": {
+              "amount": 45817.4,
+              "currency": "MXN"
+            },
+            "payer": {
+              "name": "SFYTGE",
+              "id": "RFC-GEN620601DTA"
+            },
+            "payee": {
+              "name": "TORDEC, S.A. DE C.V. y HERCULES CONSTRUCCIONES DE MONTERREY, S.A. DE C.V. (PROPOSICÓN CONJUNTA)",
+              "id": "1"
+            }
+          },
+          {
+            "id": "EST-2017-08-995",
+            "date": "2017-08-22T05:44:52.52-05:00",
+            "value": {
+              "amount": -1114848.72,
+              "currency": "MXN"
+            },
+            "payer": {
+              "name": "SFYTGE",
+              "id": "RFC-GEN620601DTA"
+            },
+            "payee": {
+              "name": "TORDEC, S.A. DE C.V. y HERCULES CONSTRUCCIONES DE MONTERREY, S.A. DE C.V. (PROPOSICÓN CONJUNTA)",
+              "id": "1"
+            }
+          },
+          {
+            "id": "EST-2017-09-100",
+            "date": "2017-09-08T10:21:50.5-05:00",
+            "value": {
+              "amount": 1502622.94,
+              "currency": "MXN"
+            },
+            "payer": {
+              "name": "SFYTGE",
+              "id": "RFC-GEN620601DTA"
+            },
+            "payee": {
+              "name": "TORDEC, S.A. DE C.V. y HERCULES CONSTRUCCIONES DE MONTERREY, S.A. DE C.V. (PROPOSICÓN CONJUNTA)",
+              "id": "1"
+            }
+          },
+          {
+            "id": "EST-2018-03-123",
+            "date": "2017-11-29T08:00:54.54-06:00",
+            "value": {
+              "amount": 207634.1,
+              "currency": "MXN"
+            },
+            "payer": {
+              "name": "SFYTGE",
+              "id": "RFC-GEN620601DTA"
+            },
+            "payee": {
+              "name": "TORDEC, S.A. DE C.V. y HERCULES CONSTRUCCIONES DE MONTERREY, S.A. DE C.V. (PROPOSICÓN CONJUNTA)",
+              "id": "1"
+            }
+          },
+          {
+            "id": "EST-2017-09-098",
+            "date": "2017-09-08T10:01:04.04-05:00",
+            "value": {
+              "amount": 591107.6,
+              "currency": "MXN"
+            },
+            "payer": {
+              "name": "SFYTGE",
+              "id": "RFC-GEN620601DTA"
+            },
+            "payee": {
+              "name": "TORDEC, S.A. DE C.V. y HERCULES CONSTRUCCIONES DE MONTERREY, S.A. DE C.V. (PROPOSICÓN CONJUNTA)",
+              "id": "1"
+            }
+          },
+          {
+            "id": "EST-2017-09-149",
+            "date": "2017-09-18T07:41:10.1-05:00",
+            "value": {
+              "amount": 1573291.12,
+              "currency": "MXN"
+            },
+            "payer": {
+              "name": "SFYTGE",
+              "id": "RFC-GEN620601DTA"
+            },
+            "payee": {
+              "name": "TORDEC, S.A. DE C.V. y HERCULES CONSTRUCCIONES DE MONTERREY, S.A. DE C.V. (PROPOSICÓN CONJUNTA)",
+              "id": "1"
+            }
+          },
+          {
+            "id": "EST-2018-03-172",
+            "date": "2017-11-29T03:15:52.52-06:00",
+            "value": {
+              "amount": 664101.22,
+              "currency": "MXN"
+            },
+            "payer": {
+              "name": "SFYTGE",
+              "id": "RFC-GEN620601DTA"
+            },
+            "payee": {
+              "name": "TORDEC, S.A. DE C.V. y HERCULES CONSTRUCCIONES DE MONTERREY, S.A. DE C.V. (PROPOSICÓN CONJUNTA)",
+              "id": "1"
+            }
+          },
+          {
+            "id": "EST-2017-09-099",
+            "date": "2017-09-08T10:07:52.52-05:00",
+            "value": {
+              "amount": -488922.73,
+              "currency": "MXN"
+            },
+            "payer": {
+              "name": "SFYTGE",
+              "id": "RFC-GEN620601DTA"
+            },
+            "payee": {
+              "name": "TORDEC, S.A. DE C.V. y HERCULES CONSTRUCCIONES DE MONTERREY, S.A. DE C.V. (PROPOSICÓN CONJUNTA)",
+              "id": "1"
+            }
+          },
+          {
+            "id": "EST-2017-09-237",
+            "date": "2017-09-28T07:02:06.06-05:00",
+            "value": {
+              "amount": 2464193.94,
+              "currency": "MXN"
+            },
+            "payer": {
+              "name": "SFYTGE",
+              "id": "RFC-GEN620601DTA"
+            },
+            "payee": {
+              "name": "TORDEC, S.A. DE C.V. y HERCULES CONSTRUCCIONES DE MONTERREY, S.A. DE C.V. (PROPOSICÓN CONJUNTA)",
+              "id": "1"
+            }
+          },
+          {
+            "id": "EST-2017-09-238",
+            "date": "2017-09-28T07:23:22.22-05:00",
+            "value": {
+              "amount": 175726.52,
+              "currency": "MXN"
+            },
+            "payer": {
+              "name": "SFYTGE",
+              "id": "RFC-GEN620601DTA"
+            },
+            "payee": {
+              "name": "TORDEC, S.A. DE C.V. y HERCULES CONSTRUCCIONES DE MONTERREY, S.A. DE C.V. (PROPOSICÓN CONJUNTA)",
+              "id": "1"
+            }
+          },
+          {
+            "id": "EST-2017-10-373",
+            "date": "2017-10-25T06:45:32.32-05:00",
+            "value": {
+              "amount": 2331466.73,
+              "currency": "MXN"
+            },
+            "payer": {
+              "name": "SFYTGE",
+              "id": "RFC-GEN620601DTA"
+            },
+            "payee": {
+              "name": "TORDEC, S.A. DE C.V. y HERCULES CONSTRUCCIONES DE MONTERREY, S.A. DE C.V. (PROPOSICÓN CONJUNTA)",
+              "id": "1"
+            }
+          },
+          {
+            "id": "EST-2017-10-372",
+            "date": "2017-10-25T06:37:12.12-05:00",
+            "value": {
+              "amount": 156022.76,
+              "currency": "MXN"
+            },
+            "payer": {
+              "name": "SFYTGE",
+              "id": "RFC-GEN620601DTA"
+            },
+            "payee": {
+              "name": "TORDEC, S.A. DE C.V. y HERCULES CONSTRUCCIONES DE MONTERREY, S.A. DE C.V. (PROPOSICÓN CONJUNTA)",
+              "id": "1"
+            }
+          },
+          {
+            "id": "EST-2017-10-374",
+            "date": "2017-10-25T07:24:12.12-05:00",
+            "value": {
+              "amount": 17015.81,
+              "currency": "MXN"
+            },
+            "payer": {
+              "name": "SFYTGE",
+              "id": "RFC-GEN620601DTA"
+            },
+            "payee": {
+              "name": "TORDEC, S.A. DE C.V. y HERCULES CONSTRUCCIONES DE MONTERREY, S.A. DE C.V. (PROPOSICÓN CONJUNTA)",
+              "id": "1"
+            }
+          },
+          {
+            "id": "EST-2017-10-375",
+            "date": "2017-10-25T07:39:47.47-05:00",
+            "value": {
+              "amount": 296295.72,
+              "currency": "MXN"
+            },
+            "payer": {
+              "name": "SFYTGE",
+              "id": "RFC-GEN620601DTA"
+            },
+            "payee": {
+              "name": "TORDEC, S.A. DE C.V. y HERCULES CONSTRUCCIONES DE MONTERREY, S.A. DE C.V. (PROPOSICÓN CONJUNTA)",
+              "id": "1"
+            }
+          },
+          {
+            "id": "EST-2017-10-376",
+            "date": "2017-10-25T07:56:57.57-05:00",
+            "value": {
+              "amount": 302840.27,
+              "currency": "MXN"
+            },
+            "payer": {
+              "name": "SFYTGE",
+              "id": "RFC-GEN620601DTA"
+            },
+            "payee": {
+              "name": "TORDEC, S.A. DE C.V. y HERCULES CONSTRUCCIONES DE MONTERREY, S.A. DE C.V. (PROPOSICÓN CONJUNTA)",
+              "id": "1"
+            }
+          },
+          {
+            "id": "EST-2017-10-394",
+            "date": "2017-10-27T07:52:29.29-05:00",
+            "value": {
+              "amount": 429606.63,
+              "currency": "MXN"
+            },
+            "payer": {
+              "name": "SFYTGE",
+              "id": "RFC-GEN620601DTA"
+            },
+            "payee": {
+              "name": "TORDEC, S.A. DE C.V. y HERCULES CONSTRUCCIONES DE MONTERREY, S.A. DE C.V. (PROPOSICÓN CONJUNTA)",
+              "id": "1"
+            }
+          },
+          {
+            "id": "EST-2017-10-398",
+            "date": "2017-10-27T08:11:56.56-05:00",
+            "value": {
+              "amount": 6969278.42,
+              "currency": "MXN"
+            },
+            "payer": {
+              "name": "SFYTGE",
+              "id": "RFC-GEN620601DTA"
+            },
+            "payee": {
+              "name": "TORDEC, S.A. DE C.V. y HERCULES CONSTRUCCIONES DE MONTERREY, S.A. DE C.V. (PROPOSICÓN CONJUNTA)",
+              "id": "1"
+            }
+          },
+          {
+            "id": "EST-2017-11-462",
+            "date": "2017-11-08T03:32:30.3-06:00",
+            "value": {
+              "amount": 5978475.52,
+              "currency": "MXN"
+            },
+            "payer": {
+              "name": "SFYTGE",
+              "id": "RFC-GEN620601DTA"
+            },
+            "payee": {
+              "name": "TORDEC, S.A. DE C.V. y HERCULES CONSTRUCCIONES DE MONTERREY, S.A. DE C.V. (PROPOSICÓN CONJUNTA)",
+              "id": "1"
+            }
+          },
+          {
+            "id": "EST-2017-11-463",
+            "date": "2017-11-08T03:52:53.53-06:00",
+            "value": {
+              "amount": 475219.13,
+              "currency": "MXN"
+            },
+            "payer": {
+              "name": "SFYTGE",
+              "id": "RFC-GEN620601DTA"
+            },
+            "payee": {
+              "name": "TORDEC, S.A. DE C.V. y HERCULES CONSTRUCCIONES DE MONTERREY, S.A. DE C.V. (PROPOSICÓN CONJUNTA)",
+              "id": "1"
+            }
+          },
+          {
+            "id": "EST-2017-12-757",
+            "date": "2017-12-14T04:59:04.04-06:00",
+            "value": {
+              "amount": 9566277.34,
+              "currency": "MXN"
+            },
+            "payer": {
+              "name": "SFYTGE",
+              "id": "RFC-GEN620601DTA"
+            },
+            "payee": {
+              "name": "TORDEC, S.A. DE C.V. y HERCULES CONSTRUCCIONES DE MONTERREY, S.A. DE C.V. (PROPOSICÓN CONJUNTA)",
+              "id": "1"
+            }
+          },
+          {
+            "id": "EST-2018-02-993",
+            "date": "2017-11-29T06:49:31.31-06:00",
+            "value": {
+              "amount": 1463452.26,
+              "currency": "MXN"
+            },
+            "payer": {
+              "name": "SFYTGE",
+              "id": "RFC-GEN620601DTA"
+            },
+            "payee": {
+              "name": "TORDEC, S.A. DE C.V. y HERCULES CONSTRUCCIONES DE MONTERREY, S.A. DE C.V. (PROPOSICÓN CONJUNTA)",
+              "id": "1"
+            }
+          },
+          {
+            "id": "EST-2018-02-995",
+            "date": "2017-11-29T07:23:56.56-06:00",
+            "value": {
+              "amount": 5065566.62,
+              "currency": "MXN"
+            },
+            "payer": {
+              "name": "SFYTGE",
+              "id": "RFC-GEN620601DTA"
+            },
+            "payee": {
+              "name": "TORDEC, S.A. DE C.V. y HERCULES CONSTRUCCIONES DE MONTERREY, S.A. DE C.V. (PROPOSICÓN CONJUNTA)",
+              "id": "1"
+            }
+          },
+          {
+            "id": "EST-2018-03-171",
+            "date": "2017-11-29T02:45:04.04-06:00",
+            "value": {
+              "amount": 1015662.38,
+              "currency": "MXN"
+            },
+            "payer": {
+              "name": "SFYTGE",
+              "id": "RFC-GEN620601DTA"
+            },
+            "payee": {
+              "name": "TORDEC, S.A. DE C.V. y HERCULES CONSTRUCCIONES DE MONTERREY, S.A. DE C.V. (PROPOSICÓN CONJUNTA)",
+              "id": "1"
+            }
+          },
+          {
+            "id": "EST-2018-02-060",
+            "date": "2017-11-29T07:18:15.15-06:00",
+            "value": {
+              "amount": 4884495.44,
+              "currency": "MXN"
+            },
+            "payer": {
+              "name": "SFYTGE",
+              "id": "RFC-GEN620601DTA"
+            },
+            "payee": {
+              "name": "TORDEC, S.A. DE C.V. y HERCULES CONSTRUCCIONES DE MONTERREY, S.A. DE C.V. (PROPOSICÓN CONJUNTA)",
+              "id": "1"
+            }
+          },
+          {
+            "id": "EST-2018-03-170",
+            "date": "2017-11-29T04:46:02.02-06:00",
+            "value": {
+              "amount": -714916.97,
+              "currency": "MXN"
+            },
+            "payer": {
+              "name": "SFYTGE",
+              "id": "RFC-GEN620601DTA"
+            },
+            "payee": {
+              "name": "TORDEC, S.A. DE C.V. y HERCULES CONSTRUCCIONES DE MONTERREY, S.A. DE C.V. (PROPOSICÓN CONJUNTA)",
+              "id": "1"
+            }
+          }
+        ]
+      },
+      "milestones": []
+    }
+  ],
+  "language": "es"
+}

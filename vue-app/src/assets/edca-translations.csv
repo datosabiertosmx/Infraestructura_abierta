@@ -1,0 +1,345 @@
+label,translation
+rehabilitation,Rehabilitación
+health,Salud
+buyer,Entidad compradora
+procuringEntity,Entidad contratante
+supplier,Proveedor o contratista
+tenderer,Licitante
+funder,Entidad financiera
+enquirer,Persona que solicita aclaraciones
+payer,emisor del pago
+payee,Receptor del pago
+reviewBody,Revisor
+tenderNotice,Convocatoria
+awardNotice,Fallo o notificación de adjudicación
+contracNotice,Datos relevantes del contrato
+completionCertificate,Documento en el que conste la conclusión de la contratación
+procurementPlan,Proyecto de convocatoria
+biddingDocuments,Anexos de la convocatoria
+technicalSpecificitions,Anexo técnico
+evaluationCriteria,Criterios de evaluación
+evaluationsReports,Reporte de resultado de la evaluación
+contractDraft,Proyecto de contrato
+contractSigned,Contrato firmado
+contractArrangements,Acuerdos de terminación de contrato
+contractSchedule,Anexo del contrato
+physicalProgressReport,Informe de avance físico
+financialProgressReport,Informe de avance financiero
+finalAudit,Conclusión de la auditoría
+hearingNotice,Aviso de audiencia pública
+marketStudies,Investigación de mercado
+eligibilityCriteria,Criterios de elegibilidad
+clarifications,Acta de junta de aclaraciones
+shortlistedFirms,Empresas preseleccionadas
+environmentalImpact,Impacto ambiental
+assetAndLiabilityAssessment,Evaluación de los activos y responsabilidades del gobierno
+riskProvisions,Cláusulas de riesgos y responsabilidades
+winningBid,Proposición ganadora
+complaints,Quejas y aclaraciones
+contractAnnexe,Anexos del contrato
+contractGuarantees,Garantías del contrato
+subContract,Subcontratos
+needsAssessment,Justificación de la contratación
+feasibilityStudy,Estudio de factibilidad
+projectPlan,Plan del proyecto
+billOfQuantity,Especificación de cantidades
+bidders,Información del licitante
+conflictOfInterest,Conflicto de intereses
+debarments,Inhabilitaciones
+illustration,Imágenes
+submissionDocuments,Documentos de la proposición
+contractSummary,Resumen de contrato
+cancellationDetails,Detalles de la cancelación
+priceOnly,Binario
+costOnly,Sólo costo
+qualityOnly,Sólo calidad
+ratedCriteria,Puntos y porcentajes
+lowestCost,Precio más bajo
+bestProposal,Mejor propuesta
+bestValueToGovernment,Costo Beneficio
+singleBidOnly,Única oferta
+electronicSubmission,Electrónica
+electronicAuction,Subasta electrónica
+written,Mixto
+inPerson,Presencial
+framework,Primera etapa de un contrato marco
+planning,Proceso de planeación
+parent,Contrato principal (para subcontratos)
+prior,Procedimiento previo
+unsuccessfulProcess,Procedimiento no adjudicado
+subContract,Subcontrato
+replacementProcess,Procedimiento de reposición
+renewalProcess,Procedimiento de renovación
+ocid,Identificador OCID
+preProcurement,Hitos previos a la contratación
+approval,Hitos de aprobación
+engagement,Hitos de involucramiento
+assessment,Hitos de evaluación
+delivery,Hitos de entrega
+reporting,Hitos de reporte
+financing,Hitos de financiamiento
+goods,Bienes y suministros
+works,Obras públicas
+services,Servicios
+consultingServices,Servicios de consultoría
+planning,En planeación
+planningUpdate,Actualización de la planeación
+tender,Licitación
+tenderAmendment,Modificación a la convocatoria o invitación
+tenderUpdate,Actualización de licitación
+tenderCancellation,Cancelación de la licitación
+award,Adjudicación
+awardUpdate,Actualización de la adjudicación
+awardCancellation,Cancelación de la adjudicación
+contract,Contrato
+contractUpdate,Actualización del contrato
+contractAmendment,Modificación del Contrato
+implementation,Ejecución
+implementationUpdate,Actualización de la ejecución
+contractTermination,Terminación del contrato
+compiled,Registro compilado
+tender,Licitación
+planning,En planeación
+planned,Planeado
+active,Activo
+cancelled,Cancelado
+unsuccessful,No exitoso
+complete,Concluido
+withdrawn,Retirado
+open,Abierta
+selective,Selectiva
+limited,Limitada
+direct,Directa
+goods,Bienes y suministros
+works,Obras públicas
+services,Servicios
+pending,Pendiente
+active,Activo
+cancelled,Cancelado
+unsuccessful,No exitoso
+pending,Pendiente
+active,Activo
+cancelled,Cancelado
+terminated,Terminado
+scheduled,Programado
+met,Cumplido
+notMet,No cumplido
+partiallyMet,Parcialmente cumplido
+AED,Dirham de los Emiratos árabes Unidos
+AFN,Afgano
+ALL,Lek
+AMD,Dram Armenio
+ANG,Netherlands Antillian Guilder
+AOA,Kwanza
+ARS,Peso argentino
+AUD,Dólar australiano
+AWG,Aruban Guilder
+AZN,Manat Azerbaiyano
+BAM,Convertible Marks
+BBD,Dólar de Barbados
+BDT,Taka
+BGN,Lev búlgaro
+BHD,Dinar de Bahrein
+BIF,Franco de Burundi
+BMD,Dólar bermudeño
+BND,Dólar de Brunei
+BOB,Boliviano
+BOV,Mvdol
+BRL,Real brasileño
+BSD,Dólar de las Bahamas
+BTN,Ngultrum
+BWP,Pula
+BYR,Belarussian Ruble
+BZD,Dólar de Belice
+CAD,Dolar canadiense
+CDF,Franco Congolés
+CHF,Franco suizo
+CLF,Unidades de fomento
+CLP,Peso chileno
+CNY,Yuan Renminbi
+COP,Peso colombiano
+COU,Unidad de Valor Real
+CRC,Colón de Costa Rica
+CUC,Peso Convertible
+CUP,Peso cubano
+CVE,Cape Verde Escudo
+CZK,Corona Checa
+DJF,Franco de Djibouti
+DKK,Corona danesa
+DOP,Peso Dominicano
+DZD,Dinar argelino
+EEK,Corona
+EGP,Libra egipcia
+ERN,Nakfa
+ETB,Birr etíope
+EUR,Euro
+FJD,Dólar de Fiji
+FKP,Libra de las Islas Malvinas
+GBP,Libra esterlina
+GEL,Lari
+GHS,Cedi
+GIP,Libra de Gibraltar
+GMD,Dalasi
+GNF,Guinea Franc
+GTQ,Quetzal
+GYD,Dólar de Guyana
+HKD,Dolar de Hong Kong
+HNL,Lempira
+HRK,Kuna
+HTG,Gourde
+HUF,Forint
+IDR,Rupia
+ILS,Nuevo shekel israelí
+INR,Rupia india
+IQD,Dinar iraquí
+IRR,Rial iraní
+ISK,Corona de Islandia
+JMD,Dólar jamaicano
+JOD,Dinar jordano
+JPY,Yen
+KES,Chelín de Kenia
+KGS,Som
+KHR,Riel
+KMF,Comoro Franc
+KPW,Won de Corea del Norte
+KRW,Won
+KWD,Dinar kuwaití
+KYD,Dólar de las Islas Caimán
+KZT,Tenge
+LAK,Kip
+LBP,Libra libanesa
+LKR,Rupia de Sri Lanka
+LRD,Dólar liberiano
+LSL,Loti
+LTL,Litas de Lituana
+LVL,Lats letón
+LYD,Dinar libio
+MAD,Dirham marroquí
+MDL,Leu moldavo
+MGA,Ariary malgache
+MKD,Denar
+MMK,Kyat
+MNT,Tugrik
+MOP,Pataca
+MRO,Ouguiya
+MUR,Rupia de Mauricio
+MVR,Rufiyaa
+MWK,Malawi Kwacha
+MXN,Peso Mexicano
+MXV,Unidad de Inversión Mexicana (UDI)
+MYR,Ringgit malayo
+MZN,Metical
+NAD,Dólar de Namibia
+NGN,Naira
+NIO,Cordoba Oro
+NOK,Corona noruega
+NPR,Rupia nepalí
+NZD,Dolar de Nueva Zelanda
+OMR,Rial Omani PAB Balboa
+PEN,Nuevo Sol
+PGK,Kina
+PHP,Philippine Peso
+PKR,Rupia de Pakistán
+PLN,Zloty
+PYG,Guaraní
+QAR,Rial de Qatar
+RON,Leu rumano
+RSD,Dinar serbio
+RUB,Rublo ruso
+RWF, Franco ruanda
+SAR,Riyal saudita
+SBD,Dólar de las Islas Salomón
+SCR,Rupia de Seychelles
+SDG,Libra sudanesa
+SEK,Corona sueca
+SGD,Dolar de Singapur
+SHP,Libra de Santa Helena
+SLL,Leone
+SOS,Chelín somalí
+SSP,Libra sudanesa
+SRD,Dólar de Surinam
+STD,Dobra
+SVC,Colon de El Salvador
+SYP,Libra siria
+SZL,Lilangeni
+THB,Baht
+TJS,Somoni
+TMT,Manat
+TND,Dinar tunecino
+TOP,Paanga
+TRY,Lira turca
+TTD,Dólar de Trinidad y Tobago
+TWD,Nuevo dólar de Taiwán
+TZS,Chelín de Tanzania
+UAH,Hryvnia
+UGX,Chelín ugandés
+USD,Dólar estadounidense
+USN,Dólar estadounidense (día siguiente)
+USS,Dólar estadounidense (el mismo día)
+UYI,Uruguay Peso en Unidades Indexadas
+UYU,Peso uruguayo
+UZS,Suma de Uzbekistán
+VEF,Bolívar
+VND,Dong
+VUV,Vatu
+WST,Tala
+XAF,CFA Franc BEAC
+XBT,Bitcoin
+XCD,Dólar del Caribe Oriental
+XDR,International Monetary Fund (IMF) Special Drawing Right (SDR)
+XOF,CFA Franc BCEAO
+XPF,Franco CFP
+YER,Rial yemení
+ZAR,Rand
+ZMK,Kwacha zambiano
+ZWL,Dólar de Zimbabwe,
+education,Educación
+energy,Energía
+communications,comunicaciones
+waterAndWaste,Agua y residuos
+governance,Gobernancia
+economy,Economí­a
+cultureSportsAndRecreation,Cultura, deporte y recreación
+transport,Transporte
+transport.air,Transporte aéreo
+transport.water,Transporte de agua
+transport.rail,Transporte ferroviario
+transport.road,Transporte por carretera
+transport.urban,Transporte urbano
+socialHousing,Vivienda social,
+identification,Identificación
+preparation,Preparación
+implementation,implementación
+completion,Terminación
+completed,Terminado
+cancelled,Cancelado
+construction, Construcción,
+socialEnvironmentalImpactAssessment,Evaluaciones de impacto social y ambiental
+projectScope,Alcance del proyecto
+environmentalImpact,Evaluación de Impacto Ambiental
+needsAssessment,Evaluación de necesidad
+multi-yearProgramBudget,Programa y Presupuesto multianual
+landAndSettlementImpact,Evaluación de suelos y de asentamientos
+procurementPlan,Plan anual/ multianual de adquisiciones y contrataciones
+environmentalFeasibilityAnalysis,Análisis de factibilidad ambiental
+technicalFeasibilityAnalysis,Análisis de factibilidad técnica
+projectPlan,Plan financiero
+feasibilityStudy,Resumen de proyecto o estudio de factibilidad
+compensationAndRelocationPlan,Plan de compensación y de reubicación
+projectApprovalOpinion,Dictamen de aprobación del proyecto
+socialFeasibilityAnalysis,Análisis de factibilidad social
+economicFeasibilityAnalysis,Análisis de factibilidad económica
+legalFeasibilityAnalysis,Análisis de factibilidad legal
+progressReports,Reportes de progreso
+executiveReport,Informe ejecutivo de la ejecución de los contratos
+environmentalFeasibilityAnalysisUpdate,Actualización de análisis de factibilidad ambiental
+technicalFeasibilityAnalysisUpdate,Actualización de análisis de factibilidad técnica
+socialFeasibilityAnalysisUpdate,Actualización de análisis de factibilidad social
+economicFeasibilityAnalysisUpdate,Actualización de análisis de factibilidad económica
+legalFeasibilityAnalysisUpdate,Actualización de análisis de factibilidad legal
+closingReport,Reporte de cierre
+completionCertificate,Certificado de terminación (informe de conclusión)
+evaluationReports,Reporte de evaluación
+technicalAuditReports,Reportes de auditorías técnicas
+financialAuditReports,Reportes de auditorías financieras
+externalEvaluationReports,Informes de evaluación externa (seguimiento de rentabilidad de proyectos)

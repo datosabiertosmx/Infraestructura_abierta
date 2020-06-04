@@ -1,0 +1,345 @@
+﻿{
+  "uri": "https://standard.open-contracting.org/infrastructure/0.9/en/_static/example.json",
+  "publishedDate": "2018-12-10T15:53:00-05:00",
+  "version": "0.9",
+  "projects": [
+    {
+      "id": "oc4ids-f45geh-m75-junctions-4-to-5-smart-motorway",
+      "updated": "2018-12-10T15:53:00-05:00",
+      "title": "M75 Junctions 4 to 5 upgrade smart motorway",
+      "description": "Upgrading the 5km stretch of the M75 near Birmingham Airport, between junction 4 near Patcham and junction 5 at Windlesham, to an all-lane running smart motorway.",
+      "status": "completed",
+      "period": {
+        "startDate": "2016-01-01T00:00:00-05:00",
+        "endDate": "2018-12-10T00:00:00-05:00",
+        "maxExtentDate": "2018-12-10T00:00:00-05-00",
+        "durationInDays": 1074
+      },
+      "sector": [
+        "transport",
+        "transport.road"
+      ],
+      "purpose": "The upgrading of the M75 near Birminham Airport will reduce the traffic jam and, as a consecuence, will improve the airport operations.",
+      "type": "construction",
+      "assetLifetime": {
+        "startDate": "2018-07-01T00:00:00-05:00",
+        "endDate": "2040-07-01T00:00:00-05:00",
+        "maxExtentDate": "2040-07-01T00:00:00-05:00",
+        "durationInDays": 8027
+      },
+      "locations": [
+        {
+          "id": "001",
+          "description": "M75 J4 Patcham Interchange",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              52.2571843,
+              -0.1163333
+            ]
+          },
+          "uri": "https://www.openstreetmap.org/node/202995"
+        }
+      ],
+      "budget": {
+        "amount": {
+          "amount": 40000000,
+          "currency": "GBP"
+        },
+        "requestDate": "2015-06-24T00:00:00-05:00",
+        "approvalDate": "2015-06-24T00:00:00-05:00",
+        "budgetBreakdown": [
+          {
+            "id": "1",
+            "description": "2016 budget allocation",
+            "amount": {
+              "amount": 10000000,
+              "currency": "GBP"
+            },
+            "uri": "",
+            "period": {
+              "startDate": "2016-01-01T00:00:00Z",
+              "endDate": "2016-12-31T00:00:00Z",
+              "maxExtentDate": "2016-12-31T00:00:00Z",
+              "durationInDays": 1074
+            },
+            "sourceParty": {
+              "name": "Motorways UK",
+              "id": "GB-GOR-XX1234"
+            },
+            "budgetLines": [
+              {
+                "components": [
+                  {
+                    "name": "branch",
+                    "level": 1,
+                    "code": 44,
+                    "description": "Instituto Federal de Acceso a la Información y Protección de Datos"
+                  },
+                  {
+                    "name": "responsibleUnit",
+                    "level": 2,
+                    "code": 100,
+                    "description": "Presidencia"
+                  },
+                  {
+                    "name": "finality",
+                    "level": 3,
+                    "code": 1,
+                    "description": "Gobierno"
+                  },
+                  {
+                    "name": "function",
+                    "level": 4,
+                    "code": 8,
+                    "description": "Otros Servicios Generales"
+                  },
+                  {
+                    "name": "subFunction",
+                    "level": 5,
+                    "code": 4,
+                    "description": "Acceso a la Información Pública Gubernamental"
+                  },
+                  {
+                    "name": "institutionalActivity",
+                    "level": 6,
+                    "code": 10,
+                    "description": "ransparencia, acceso a la información y protección de datos personales"
+                  },
+                  {
+                    "name": "budgetProgram",
+                    "level": 7,
+                    "code": "E003",
+                    "description": "Coordinar el Sistema Nacional de Transparencia, Acceso a la Información y de Protección de Datos\nPersonales"
+                  },
+                  {
+                    "name": "spendingObject",
+                    "level": 8,
+                    "code": 22104,
+                    "description": "Productos alimenticios para el personal en las instalaciones de las dependencias y entidades"
+                  },
+                  {
+                    "name": "spendingType",
+                    "level": 9,
+                    "code": 1,
+                    "description": "Gasto Ordinario"
+                  },
+                  {
+                    "name": "budgetSource",
+                    "level": 10,
+                    "code": 1,
+                    "description": "Recursos fiscales"
+                  },
+                  {
+                    "name": "region",
+                    "level": 11,
+                    "code": "09",
+                    "description": "Ciudad de México"
+                  },
+                  {
+                    "name": "portfolioKey",
+                    "level": 12,
+                    "code": "345678",
+                    "description": 12345678901
+                  }
+                ],
+                "measures": [
+                  {
+                    "id": "approved",
+                    "value": {
+                      "amount": 100000,
+                      "currency": "MXN"
+                    },
+                    "update": "20180423T13:42:00-05:00"
+                  },
+                  {
+                    "id": "modified",
+                    "value": {
+                      "amount": 112000,
+                      "currency": "MXN"
+                    },
+                    "update": "20180521T23:42:00-05:00"
+                  },
+                  {
+                    "id": "reserved",
+                    "value": {
+                      "amount": 112000,
+                      "currency": "MXN"
+                    },
+                    "update": "20180522T10:42:00-05:00"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "parties": [
+        {
+          "name": "Motorways UK",
+          "id": "GB-GOR-XX1234",
+          "identifier": {
+            "scheme": "GB-COH",
+            "id": "11111111",
+            "legalName": "A1 Expert Smart Moto Design Ltd",
+            "uri": "https://beta.companieshouse.gov.uk/company/11111111"
+          },
+          "additionalIdentifiers": [
+            {
+              "scheme": "GB-GOR",
+              "id": "XX1234",
+              "legalName": "Motorways UK",
+              "uri": "https://government-organisation.register.gov.uk/records/XX1234"
+            }
+          ],
+          "address": {
+            "streetAddress": "8 Mountain Walk",
+            "locality": "Patcham",
+            "region": "Westshire",
+            "postalCode": "LL55 4NY",
+            "countryName": "UK"
+          },
+          "contactPoint": {
+            "name": "Motorways Manager",
+            "email": "EX12345@motorwaysuk.gov.uk",
+            "telephone": "+44 0123 456 7890",
+            "faxNumber": "+44 0123 456 7891",
+            "url": ""
+          },
+          "roles": [
+            "procuringEntity",
+            "buyer",
+            "administrativeEntity"
+          ]
+        },
+        {
+          "name": "Concrete Motorways Construction",
+          "id": "GB-COH-33333333",
+          "identifier": {
+            "scheme": "GB-COH",
+            "id": "GB-COH-33333333",
+            "legalName": "Concrete Motorways Construction Ltd",
+            "uri": "https://beta.companieshouse.gov.uk/company/33333333"
+          },
+          "address": {
+            "streetAddress": "5 Example Grove",
+            "locality": "London",
+            "region": "London",
+            "postalCode": "SW1A 1AA",
+            "countryName": "UK"
+          },
+          "contactPoint": {
+            "name": "Construction Manager",
+            "email": "construction.example@example.com",
+            "telephone": "+44 0123 456 7890",
+            "faxNumber": "+44 0123 456 7891",
+            "url": "https://www.example.com"
+          },
+          "roles": [
+            "supplier"
+          ]
+        }
+      ],
+      "documents": [
+        {
+          "id": "consultation-1234",
+          "documentType": "x_consultationResponses",
+          "title": "M75 Junction 4 to 5 Smart Motorway. Summary of Statutory Instrument consultation responses",
+          "description": "Summary of Statutory Instrument consultation responses",
+          "url": "https://example.com/he/M75-junctions-4-to-5-smart-motorway/results/M75J4-5responsereportforstatutoryinstrument-pbamendsjune18.pdf",
+          "datePublished": "2016-05-01T00:00:00Z",
+          "dateModified": "2016-05-11T00:00:00Z",
+          "format": "application/pdf",
+          "language": "en",
+          "pageStart": 1,
+          "pageEnd": 50,
+          "accessDetails": "None.",
+          "author": "Fred Consulter"
+        }
+      ],
+      "contractingProcesses": [
+        {
+          "id": "ocds-a1b1c1-a410a80d-adc8-11e6-9901-0019b9f3037b",
+          "summary": {
+            "ocid": "ocds-a1b1c1-a410a80d-adc8-11e6-9901-0019b9f3037b",
+            "externalReference": "2016-SMP-M75-J4_J5-design",
+            "nature": [
+              "design"
+            ],
+            "title": "Smart Motorway Design M75 J4-5",
+            "description": "Design of Smart Motorway upgrade M75 J4-5",
+            "status": "closed",
+            "tender": {
+              "procurementMethod": "direct",
+              "procurementMethodDetails": "Adjudación directa art.41",
+              "costEstimate": {
+                "amount": 2000000,
+                "currency": "GBP"
+              },
+              "numberOfTenderers": 3,
+              "procuringEntity": {
+                "name": "Motorways UK",
+                "id": "GB-GOR-XX1234"
+              },
+              "administrativeEntity": {
+                "name": "Motorways UK",
+                "id": "GB-GOR-XX1234"
+              }
+            },
+            "suppliers": [
+              {
+                "name": "A1 Expert Smart Moto Design",
+                "id": "GB-COH-11111111"
+              }
+            ],
+            "contractValue": {
+              "amount": 1950000,
+              "currency": "GBP"
+            },
+            "contractPeriod": {
+              "startDate": "2016-06-01T00:00:00Z",
+              "endDate": "2017-07-07T00:00:00Z",
+              "maxExtentDate": "2017-07-07T00:00:00Z",
+              "durationInDays": 1089
+            },
+            "finalValue": {
+              "amount": 1950000,
+              "currency": "GBP"
+            }
+          }
+        }
+      ],
+      "relatedProjects": [
+        {
+          "id": "id_relationship_032687624",
+          "relationship": [
+            "construction"
+          ],
+          "title": "Construction of a smart motorway to connect the Birminham Airport to the city.",
+          "scheme": "OC4IDS",
+          "identifier": "oc4ids-f45geh-0385487638",
+          "uri": "https://standard.open-contracting.org/infrastructure/0.9/en/_static/false_example.json"
+        }
+      ],
+      "completion": {
+        "endDate": "2018-12-10T00:00:00Z",
+        "endDateDetails": "Construction was delayed due to excavation problems when a watercourse was damaged.",
+        "finalValue": {
+          "amount": 42100000,
+          "currency": "GBP"
+        },
+        "finalValueDetails": "Budget increase due to construction delay.",
+        "finalScope": "Upgrade of Junctions 4 and 5 and repairs to the watercourse at Junction 5.",
+        "finalScopeDetails": "Scope was expanded to include repairs to a watercourse damaged during construction excavation."
+      }
+    }
+  ],
+  "publisher": {
+    "name": "Open Data Services Co-operative Limited",
+    "scheme": "GB-COH",
+    "uid": "9506232",
+    "uri": "http://data.companieshouse.gov.uk/doc/company/09506232"
+  },
+  "license": "http://opendatacommons.org/licenses/pddl/1.0/",
+  "publicationPolicy": "http://standard.open-contracting.org/latest/en/implementation/publication_policy/"
+}

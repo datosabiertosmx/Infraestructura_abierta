@@ -1,0 +1,1014 @@
+{
+  "uri": "http://localhost:61523/Acceso/DatosAbiertos/000001/ProjectRelease-ocds-7wj9x5-000001-v000006.json",
+  "publishDate": "/Date(1570227988261)/",
+  "version": "6",
+  "projects": [
+    {
+      "id": "1",
+      "updated": "/Date(1570227981053)/",
+      "title": "Hospital General de Montemorelos",
+      "description": "Descripción del Proyecto H.G.M.",
+      "status": "identification",
+      "period": {
+        "startDate": "/Date(1357020000000)/",
+        "endDate": "/Date(1609394400000)/",
+        "maxExtentDate": "/Date(1609394400000)/",
+        "durationInDays": 2921
+      },
+      "sector": [ "health", "socialHousing" ],
+      "purpose": "Propósito del Proyecto H.G.M.",
+      "additionalClassifications": null,
+      "type": "construction",
+      "assetLifetime": null,
+      "locations": [
+        {
+          "id": "24",
+          "description": null,
+          "geometry": {
+            "type": "point",
+            "coordinates": [ 25.142837, -99.811162 ]
+          },
+          "gazetteer": null,
+          "address": {
+            "streetAddress": null,
+            "locality": "Montemorelos",
+            "region": "Nuevo León",
+            "postalCode": null,
+            "countryName": "México"
+          },
+          "uri": "http://si.nl.gob.mx/concurso/13"
+        },
+        {
+          "id": "54",
+          "description": null,
+          "geometry": {
+            "type": "point",
+            "coordinates": [ 25.665, -100.311 ]
+          },
+          "gazetteer": null,
+          "address": {
+            "streetAddress": null,
+            "locality": "Montemorelos",
+            "region": "Nuevo León",
+            "postalCode": null,
+            "countryName": "México"
+          },
+          "uri": "http://si.nl.gob.mx/concurso/51"
+        },
+        {
+          "id": "471",
+          "description": "Carretera Montemorelos-La Herradura (La Curva) Km 2, Montemorelos, Nuevo León.  Latitud: 25.145029457986976 Longitud: -99.81172433955078",
+          "geometry": {
+            "type": null,
+            "coordinates": null
+          },
+          "gazetteer": null,
+          "address": {
+            "streetAddress": null,
+            "locality": "Montemorelos",
+            "region": "Nuevo León",
+            "postalCode": null,
+            "countryName": "México"
+          },
+          "uri": "http://si.nl.gob.mx/concurso/470"
+        },
+        {
+          "id": "471",
+          "description": "Carretera Montemorelos-La Herradura (La Curva) Km 2, Montemorelos, Nuevo León.  Latitud: 25.145029457986976 Longitud: -99.81172433955078",
+          "geometry": {
+            "type": null,
+            "coordinates": null
+          },
+          "gazetteer": null,
+          "address": {
+            "streetAddress": null,
+            "locality": "Montemorelos",
+            "region": "Nuevo León",
+            "postalCode": null,
+            "countryName": "México"
+          },
+          "uri": "http://si.nl.gob.mx/concurso/470"
+        },
+        {
+          "id": "694",
+          "description": "Antigua Carretera Nacional México - Laredo En La Sección Escobedo, Colonia \"La Parrita\" / Carretera Montemorelos - La Herradura (La Curva) Km 2",
+          "geometry": {
+            "type": null,
+            "coordinates": null
+          },
+          "gazetteer": null,
+          "address": {
+            "streetAddress": null,
+            "locality": "La Parrita",
+            "region": "Nuevo León",
+            "postalCode": null,
+            "countryName": "México"
+          },
+          "uri": "http://si.nl.gob.mx/concurso/609"
+        }
+      ],
+      "budget": {
+        "amount": {
+          "amount": 214755961.14,
+          "currency": null
+        },
+        "approvalDate": "/Date(1513576800000)/",
+        "budgetBreakdown": [
+          {
+            "id": "CNPSS-DGF-2382-2017",
+            "description": "Seguro Popular",
+            "amount": {
+              "amount": 214755961.14,
+              "currency": null
+            },
+            "uri": "http://si.nl.gob.mx",
+            "period": null,
+            "sourceParty": {
+              "name": "Por definir",
+              "id": "CNPSS-DGF-2382-2017"
+            }
+          }
+        ]
+      },
+      "parties": [
+        {
+          "name": "SECRETARIA DE INFRAESTRUCTURA",
+          "id": "RFC-GEN620601-DTA",
+          "identifier": {
+            "scheme": "RFC",
+            "id": "GEN620601-DTA",
+            "legalName": "REGISTRO FEDERAL DE CONTRIBUYENTES",
+            "uri": "https://www.sat.gob.mx"
+          },
+          "address": {
+            "streetAddress": "WASHIGTON 648 OTE",
+            "locality": "MONTERREY",
+            "region": "NUEVO LEÓN",
+            "postalCode": "64000",
+            "countryName": "MÉXICO"
+          },
+          "contactPoint": {
+            "name": "EMILIO RODRÍGUEZ CERDA",
+            "email": null,
+            "telephone": "20206779",
+            "faxNumber": null,
+            "url": null
+          },
+          "roles": [ "procuringEntity" ]
+        },
+        {
+          "name": "SECRETARIA DE FINANZAS Y TESORERIA GENERAL DEL ESTADO DE NUEVO LEON",
+          "id": "RFC-SIN DATO.01",
+          "identifier": {
+            "scheme": "RFC",
+            "id": "SIN DATO.01",
+            "legalName": "REGISTRO FEDERAL DE CONTRIBUYENTES",
+            "uri": "https://www.sat.gob.mx"
+          },
+          "address": {
+            "streetAddress": "ESCOBEDO SUR PISO 3 333",
+            "locality": "MONTERREY",
+            "region": "NUEVO LEÓN",
+            "postalCode": "64000",
+            "countryName": "MÉXICO"
+          },
+          "contactPoint": {
+            "name": null,
+            "email": null,
+            "telephone": null,
+            "faxNumber": null,
+            "url": null
+          },
+          "roles": [ "payer" ]
+        },
+        {
+          "name": "ALEAR CONSTRUCCIONES, S.A. DE C.V. y PRODUCTOS Y SERVICIOS MADA, S.A. DE C.V.  (PROPUESTA CONJUNTA)",
+          "id": "MX-RFC-SIN DATO-3BA7D0C4-38D1-4E67-A54B-94C49CC5E01E",
+          "identifier": {
+            "scheme": "RFC",
+            "id": "SIN DATO-3BA7D0C4-38D1-4E67-A54B-94C49CC5E01E",
+            "legalName": "ALEAR CONSTRUCCIONES, S.A. DE C.V. y PRODUCTOS Y SERVICIOS MADA, S.A. DE C.V.  (PROPUESTA CONJUNTA)",
+            "uri": "https://pagina.com"
+          },
+          "address": {
+            "streetAddress": "SIN DATO",
+            "locality": "SIN DATO",
+            "region": null,
+            "postalCode": "SIN DATO",
+            "countryName": "México"
+          },
+          "contactPoint": {
+            "name": "ALEAR CONSTRUCCIONES, S.A. DE C.V. y PRODUCTOS Y SERVICIOS MADA, S.A. DE C.V.  (PROPUESTA CONJUNTA)",
+            "email": "SIN DATO",
+            "telephone": "SIN DATO",
+            "faxNumber": null,
+            "url": null
+          },
+          "roles": [ "tenderer" ]
+        },
+        {
+          "name": "DESARROLLO Y CONSTRUCCIONES URBANAS, S.A. DE C.V.",
+          "id": "MX-RFC-DCU801124B41",
+          "identifier": {
+            "scheme": "RFC",
+            "id": "DCU801124B41",
+            "legalName": "DESARROLLO Y CONSTRUCCIONES URBANAS, S.A. DE C.V.",
+            "uri": "https://pagina.com"
+          },
+          "address": {
+            "streetAddress": "MANUEL J. CLOUTHIER  3112",
+            "locality": "MONTERREY",
+            "region": null,
+            "postalCode": "64650",
+            "countryName": "México"
+          },
+          "contactPoint": {
+            "name": "DESARROLLO Y CONSTRUCCIONES URBANAS, S.A. DE C.V.",
+            "email": "dirobras@dycusa.com",
+            "telephone": "8111584208",
+            "faxNumber": null,
+            "url": null
+          },
+          "roles": [ "tenderer", "supplier" ]
+        },
+        {
+          "name": "ANAHUAC ORGANIZACION CONSTRUCTORA, S.A. DE C.V. y KAANS ADMINISTRACION, S.A. DE C.V.  (PROPUESTA CONJUNTA)",
+          "id": "MX-RFC-SIN DATO-2F4A9F6D-020A-4593-B9EC-2A3E26BB4BE5",
+          "identifier": {
+            "scheme": "RFC",
+            "id": "SIN DATO-2F4A9F6D-020A-4593-B9EC-2A3E26BB4BE5",
+            "legalName": "ANAHUAC ORGANIZACION CONSTRUCTORA, S.A. DE C.V. y KAANS ADMINISTRACION, S.A. DE C.V.  (PROPUESTA CONJUNTA)",
+            "uri": "https://pagina.com"
+          },
+          "address": {
+            "streetAddress": "SIN DATO",
+            "locality": "SIN DATO",
+            "region": null,
+            "postalCode": "SIN DATO",
+            "countryName": "México"
+          },
+          "contactPoint": {
+            "name": "ANAHUAC ORGANIZACION CONSTRUCTORA, S.A. DE C.V. y KAANS ADMINISTRACION, S.A. DE C.V.  (PROPUESTA CONJUNTA)",
+            "email": "SIN DATO",
+            "telephone": "SIN DATO",
+            "faxNumber": null,
+            "url": null
+          },
+          "roles": [ "tenderer" ]
+        },
+        {
+          "name": "LAUNAK, S.A. DE C.V.",
+          "id": "MX-RFC-LAU8210287I6",
+          "identifier": {
+            "scheme": "RFC",
+            "id": "LAU8210287I6",
+            "legalName": "LAUNAK, S.A. DE C.V.",
+            "uri": "https://pagina.com"
+          },
+          "address": {
+            "streetAddress": "AV. AYUNTAMIENTO 142 PISO 3",
+            "locality": "TLALNEPANTLA DE BAZ",
+            "region": null,
+            "postalCode": "54000",
+            "countryName": "México"
+          },
+          "contactPoint": {
+            "name": "LAUNAK, S.A. DE C.V.",
+            "email": "rgonzalez@launak.mx",
+            "telephone": "5554032436",
+            "faxNumber": null,
+            "url": null
+          },
+          "roles": [ "tenderer" ]
+        },
+        {
+          "name": "TORDEC, S.A. DE C.V.  ",
+          "id": "MX-RFC-TOR050912KD6",
+          "identifier": {
+            "scheme": "RFC",
+            "id": "TOR050912KD6",
+            "legalName": "TORDEC, S.A. DE C.V.  ",
+            "uri": "https://pagina.com"
+          },
+          "address": {
+            "streetAddress": "SIN DATO",
+            "locality": "SAN PEDRO GARZA GARCÍA",
+            "region": null,
+            "postalCode": "66267",
+            "countryName": "México"
+          },
+          "contactPoint": {
+            "name": "TORDEC, S.A. DE C.V.  ",
+            "email": "si@nuevoleon.gob.mx",
+            "telephone": "SIN DATO",
+            "faxNumber": null,
+            "url": null
+          },
+          "roles": [ "tenderer" ]
+        },
+        {
+          "name": "BUFETTE DE OBRAS SERVICIOS Y SUMINISTROS, S.A. DE C.V.",
+          "id": "MX-RFC-BOS920528KI9",
+          "identifier": {
+            "scheme": "RFC",
+            "id": "BOS920528KI9",
+            "legalName": "BUFETTE DE OBRAS SERVICIOS Y SUMINISTROS, S.A. DE C.V.",
+            "uri": "https://pagina.com"
+          },
+          "address": {
+            "streetAddress": "SIN DATO",
+            "locality": "MONTERREY",
+            "region": null,
+            "postalCode": "64540",
+            "countryName": "México"
+          },
+          "contactPoint": {
+            "name": "BUFETTE DE OBRAS SERVICIOS Y SUMINISTROS, S.A. DE C.V.",
+            "email": "jorge.garza@bossmty.com.mx",
+            "telephone": "8184763051",
+            "faxNumber": null,
+            "url": null
+          },
+          "roles": [ "tenderer" ]
+        },
+        {
+          "name": "COMAR CONSTRUCCIONES, S.A. DE C.V.",
+          "id": "MX-RFC-CCO970305AZ3",
+          "identifier": {
+            "scheme": "RFC",
+            "id": "CCO970305AZ3",
+            "legalName": "COMAR CONSTRUCCIONES, S.A. DE C.V.",
+            "uri": "https://pagina.com"
+          },
+          "address": {
+            "streetAddress": "CALANDRIA  5027",
+            "locality": "GUADALUPE",
+            "region": null,
+            "postalCode": "67183",
+            "countryName": "México"
+          },
+          "contactPoint": {
+            "name": "COMAR CONSTRUCCIONES, S.A. DE C.V.",
+            "email": "comar97@hotmail.com",
+            "telephone": "8183934452",
+            "faxNumber": null,
+            "url": null
+          },
+          "roles": [ "tenderer" ]
+        },
+        {
+          "name": "DESARROLLO Y CONSTRUCCIONES URBANAS, S.A. DE C.V.",
+          "id": "MX-RFC-DCU801124B41",
+          "identifier": {
+            "scheme": "RFC",
+            "id": "DCU801124B41",
+            "legalName": "DESARROLLO Y CONSTRUCCIONES URBANAS, S.A. DE C.V.",
+            "uri": "https://pagina.com"
+          },
+          "address": {
+            "streetAddress": "MANUEL J. CLOUTHIER  3112",
+            "locality": "MONTERREY",
+            "region": null,
+            "postalCode": "64650",
+            "countryName": "México"
+          },
+          "contactPoint": {
+            "name": "DESARROLLO Y CONSTRUCCIONES URBANAS, S.A. DE C.V.",
+            "email": "dirobras@dycusa.com",
+            "telephone": "8111584208",
+            "faxNumber": null,
+            "url": null
+          },
+          "roles": [ "tenderer" ]
+        },
+        {
+          "name": "CONSTRUCCIONES DYNAMO, S.A. DE C.V.",
+          "id": "MX-RFC-CDY980323MA8",
+          "identifier": {
+            "scheme": "RFC",
+            "id": "CDY980323MA8",
+            "legalName": "CONSTRUCCIONES DYNAMO, S.A. DE C.V.",
+            "uri": "https://pagina.com"
+          },
+          "address": {
+            "streetAddress": "SIN DATO",
+            "locality": "MONTERREY",
+            "region": null,
+            "postalCode": "64800",
+            "countryName": "México"
+          },
+          "contactPoint": {
+            "name": "CONSTRUCCIONES DYNAMO, S.A. DE C.V.",
+            "email": "dynamo27@prodigy.net.mx",
+            "telephone": "52 81 83550589 ",
+            "faxNumber": null,
+            "url": null
+          },
+          "roles": [ "tenderer" ]
+        },
+        {
+          "name": "COMAR CONSTRUCCIONES, S.A. DE C.V.",
+          "id": "MX-RFC-CCO970305AZ3",
+          "identifier": {
+            "scheme": "RFC",
+            "id": "CCO970305AZ3",
+            "legalName": "COMAR CONSTRUCCIONES, S.A. DE C.V.",
+            "uri": "https://pagina.com"
+          },
+          "address": {
+            "streetAddress": "CALANDRIA  5027",
+            "locality": "GUADALUPE",
+            "region": null,
+            "postalCode": "67183",
+            "countryName": "México"
+          },
+          "contactPoint": {
+            "name": "COMAR CONSTRUCCIONES, S.A. DE C.V.",
+            "email": "comar97@hotmail.com",
+            "telephone": "8183934452",
+            "faxNumber": null,
+            "url": null
+          },
+          "roles": [ "tenderer" ]
+        },
+        {
+          "name": "BUFETE URBANISTICO, S.A. DE C.V.",
+          "id": "MX-RFC-BUR001114GL6",
+          "identifier": {
+            "scheme": "RFC",
+            "id": "BUR001114GL6",
+            "legalName": "BUFETE URBANISTICO, S.A. DE C.V.",
+            "uri": "https://pagina.com"
+          },
+          "address": {
+            "streetAddress": "SIN DATO",
+            "locality": "MONTERREY",
+            "region": null,
+            "postalCode": "64100",
+            "countryName": "México"
+          },
+          "contactPoint": {
+            "name": "BUFETE URBANISTICO, S.A. DE C.V.",
+            "email": "cmendez@burban.mx",
+            "telephone": "83919881",
+            "faxNumber": null,
+            "url": null
+          },
+          "roles": [ "tenderer" ]
+        },
+        {
+          "name": "BUFETTE DE OBRAS SERVICIOS Y SUMINISTROS, S.A. DE C.V.",
+          "id": "MX-RFC-BOS920528KI9",
+          "identifier": {
+            "scheme": "RFC",
+            "id": "BOS920528KI9",
+            "legalName": "BUFETTE DE OBRAS SERVICIOS Y SUMINISTROS, S.A. DE C.V.",
+            "uri": "https://pagina.com"
+          },
+          "address": {
+            "streetAddress": "SIN DATO",
+            "locality": "MONTERREY",
+            "region": null,
+            "postalCode": "64540",
+            "countryName": "México"
+          },
+          "contactPoint": {
+            "name": "BUFETTE DE OBRAS SERVICIOS Y SUMINISTROS, S.A. DE C.V.",
+            "email": "jorge.garza@bossmty.com.mx",
+            "telephone": "8184763051",
+            "faxNumber": null,
+            "url": null
+          },
+          "roles": [ "tenderer" ]
+        },
+        {
+          "name": "INGENIERIA SERVINDUSTRIAL DE LINARES, S.A. DE C.V.",
+          "id": "MX-RFC-ISL0403308Q6",
+          "identifier": {
+            "scheme": "RFC",
+            "id": "ISL0403308Q6",
+            "legalName": "INGENIERIA SERVINDUSTRIAL DE LINARES, S.A. DE C.V.",
+            "uri": "https://pagina.com"
+          },
+          "address": {
+            "streetAddress": "SIN DATO",
+            "locality": "LINARES",
+            "region": null,
+            "postalCode": "67778",
+            "countryName": "México"
+          },
+          "contactPoint": {
+            "name": "INGENIERIA SERVINDUSTRIAL DE LINARES, S.A. DE C.V.",
+            "email": "inserlisa@prodigy.net.mx",
+            "telephone": "8212127054",
+            "faxNumber": null,
+            "url": null
+          },
+          "roles": [ "tenderer" ]
+        },
+        {
+          "name": "SERVICIOS Y CONFORT MONTERREY, S.A. DE C.V.",
+          "id": "MX-RFC-GENE180322A61",
+          "identifier": {
+            "scheme": "RFC",
+            "id": "GENE180322A61",
+            "legalName": "SERVICIOS Y CONFORT MONTERREY, S.A. DE C.V.",
+            "uri": "https://pagina.com"
+          },
+          "address": {
+            "streetAddress": "SIN DATO",
+            "locality": "MONTERREY",
+            "region": null,
+            "postalCode": "64810",
+            "countryName": "México"
+          },
+          "contactPoint": {
+            "name": "SERVICIOS Y CONFORT MONTERREY, S.A. DE C.V.",
+            "email": "si@nuevoleon.gob.mx",
+            "telephone": "SIN DATO",
+            "faxNumber": null,
+            "url": null
+          },
+          "roles": [ "tenderer" ]
+        },
+        {
+          "name": "CKT EDIFICACIONES, S.A. DE C.V.",
+          "id": "MX-RFC-CED160218FH6",
+          "identifier": {
+            "scheme": "RFC",
+            "id": "CED160218FH6",
+            "legalName": "CKT EDIFICACIONES, S.A. DE C.V.",
+            "uri": "https://pagina.com"
+          },
+          "address": {
+            "streetAddress": "AVE. CENTRAL  LOTE N.2",
+            "locality": "SABINAS HIDALGO",
+            "region": null,
+            "postalCode": "65240",
+            "countryName": "México"
+          },
+          "contactPoint": {
+            "name": "CKT EDIFICACIONES, S.A. DE C.V.",
+            "email": "gerencia@construktor.org",
+            "telephone": "8110633704",
+            "faxNumber": null,
+            "url": null
+          },
+          "roles": [ "tenderer" ]
+        },
+        {
+          "name": "DESARROLLO CONSTRUCTIVO Y URBANISTICO, S.A. DE C.V.",
+          "id": "MX-RFC-DCU910719R58",
+          "identifier": {
+            "scheme": "RFC",
+            "id": "DCU910719R58",
+            "legalName": "DESARROLLO CONSTRUCTIVO Y URBANISTICO, S.A. DE C.V.",
+            "uri": "https://pagina.com"
+          },
+          "address": {
+            "streetAddress": "SIN DATO",
+            "locality": "Guadalupe",
+            "region": null,
+            "postalCode": "67140",
+            "countryName": "México"
+          },
+          "contactPoint": {
+            "name": "DESARROLLO CONSTRUCTIVO Y URBANISTICO, S.A. DE C.V.",
+            "email": "si@nuevoleon.gob.mx",
+            "telephone": "SIN DATO",
+            "faxNumber": null,
+            "url": null
+          },
+          "roles": [ "tenderer" ]
+        },
+        {
+          "name": "Constructora Capry, S.A. de C.V.",
+          "id": "MX-RFC-CCA980116FQ8",
+          "identifier": {
+            "scheme": "RFC",
+            "id": "CCA980116FQ8",
+            "legalName": "Constructora Capry, S.A. de C.V.",
+            "uri": "https://pagina.com"
+          },
+          "address": {
+            "streetAddress": "FÉLIX U. GÓMEZ  1050 D 105",
+            "locality": "MONTERREY",
+            "region": null,
+            "postalCode": "64000",
+            "countryName": "México"
+          },
+          "contactPoint": {
+            "name": "Constructora Capry, S.A. de C.V.",
+            "email": "si@nuevoleon.gob.mx",
+            "telephone": "SIN DATO",
+            "faxNumber": null,
+            "url": null
+          },
+          "roles": [ "tenderer" ]
+        },
+        {
+          "name": "OV CONSTRUCCION, DISEÑO Y REMODELACION, SA DE CV",
+          "id": "MX-RFC-SIN DATO-121824FD-E7C1-4C8C-933A-92A584F70B68",
+          "identifier": {
+            "scheme": "RFC",
+            "id": "SIN DATO-121824FD-E7C1-4C8C-933A-92A584F70B68",
+            "legalName": "OV CONSTRUCCION, DISEÑO Y REMODELACION, SA DE CV",
+            "uri": "https://pagina.com"
+          },
+          "address": {
+            "streetAddress": "SIN DATO",
+            "locality": "SIN DATO",
+            "region": null,
+            "postalCode": "SIN DATO",
+            "countryName": "México"
+          },
+          "contactPoint": {
+            "name": "OV CONSTRUCCION, DISEÑO Y REMODELACION, SA DE CV",
+            "email": "SIN DATO",
+            "telephone": "SIN DATO",
+            "faxNumber": null,
+            "url": null
+          },
+          "roles": [ "tenderer" ]
+        },
+        {
+          "name": "Q CONTROLLER LABORATORIOS, S. DE R.L. DE C.V.",
+          "id": "MX-RFC-QLA110329UL1",
+          "identifier": {
+            "scheme": "RFC",
+            "id": "QLA110329UL1",
+            "legalName": "Q CONTROLLER LABORATORIOS, S. DE R.L. DE C.V.",
+            "uri": "https://pagina.com"
+          },
+          "address": {
+            "streetAddress": "JESUS GONZALEZ ORTEGA 243 A",
+            "locality": "MONTERREY",
+            "region": null,
+            "postalCode": "64000",
+            "countryName": "México"
+          },
+          "contactPoint": {
+            "name": "Q CONTROLLER LABORATORIOS, S. DE R.L. DE C.V.",
+            "email": "si@nuevoleon.gob.mx",
+            "telephone": "55 15 40 15  Y  19 31 44 18",
+            "faxNumber": null,
+            "url": null
+          },
+          "roles": [ "tenderer" ]
+        },
+        {
+          "name": "DESARROLLO Y CONSTRUCCIONES URBANAS, S.A. DE C.V.",
+          "id": "MX-RFC-DCU801124B41",
+          "identifier": {
+            "scheme": "RFC",
+            "id": "DCU801124B41",
+            "legalName": "DESARROLLO Y CONSTRUCCIONES URBANAS, S.A. DE C.V.",
+            "uri": "https://pagina.com"
+          },
+          "address": {
+            "streetAddress": "MANUEL J. CLOUTHIER  3112",
+            "locality": "MONTERREY",
+            "region": null,
+            "postalCode": "64650",
+            "countryName": "México"
+          },
+          "contactPoint": {
+            "name": "DESARROLLO Y CONSTRUCCIONES URBANAS, S.A. DE C.V.",
+            "email": "dirobras@dycusa.com",
+            "telephone": "8111584208",
+            "faxNumber": null,
+            "url": null
+          },
+          "roles": [ "tenderer", "supplier" ]
+        },
+        {
+          "name": "MEDALSA CONSTRUCCIONES, S.A. DE C.V.",
+          "id": "MX-RFC-MCO130227IG2",
+          "identifier": {
+            "scheme": "RFC",
+            "id": "MCO130227IG2",
+            "legalName": "MEDALSA CONSTRUCCIONES, S.A. DE C.V.",
+            "uri": "https://pagina.com"
+          },
+          "address": {
+            "streetAddress": "SIN DATO",
+            "locality": "LINARES",
+            "region": null,
+            "postalCode": "67700",
+            "countryName": "México"
+          },
+          "contactPoint": {
+            "name": "MEDALSA CONSTRUCCIONES, S.A. DE C.V.",
+            "email": "medalsa@outlook.com",
+            "telephone": "8119906151",
+            "faxNumber": null,
+            "url": null
+          },
+          "roles": [ "tenderer" ]
+        },
+        {
+          "name": "DESARROLLO Y CONSTRUCCIONES URBANAS, S.A. DE C.V.",
+          "id": "MX-RFC-DCU801124B41",
+          "identifier": {
+            "scheme": "RFC",
+            "id": "DCU801124B41",
+            "legalName": "DESARROLLO Y CONSTRUCCIONES URBANAS, S.A. DE C.V.",
+            "uri": "https://pagina.com"
+          },
+          "address": {
+            "streetAddress": "MANUEL J. CLOUTHIER  3112",
+            "locality": "MONTERREY",
+            "region": null,
+            "postalCode": "64650",
+            "countryName": "México"
+          },
+          "contactPoint": {
+            "name": "DESARROLLO Y CONSTRUCCIONES URBANAS, S.A. DE C.V.",
+            "email": "dirobras@dycusa.com",
+            "telephone": "8111584208",
+            "faxNumber": null,
+            "url": null
+          },
+          "roles": [ "tenderer" ]
+        },
+        {
+          "name": "VIAS Y DESARROLLOS, S.A. DE C.V.",
+          "id": "MX-RFC-VDE970512PX0",
+          "identifier": {
+            "scheme": "RFC",
+            "id": "VDE970512PX0",
+            "legalName": "VIAS Y DESARROLLOS, S.A. DE C.V.",
+            "uri": "https://pagina.com"
+          },
+          "address": {
+            "streetAddress": "SIMON DE HERRERA Y LEYVA  216",
+            "locality": "MONTERREY",
+            "region": null,
+            "postalCode": "64380",
+            "countryName": "México"
+          },
+          "contactPoint": {
+            "name": "VIAS Y DESARROLLOS, S.A. DE C.V.",
+            "email": "oscartorres@vydsa.com",
+            "telephone": "8113148529",
+            "faxNumber": null,
+            "url": null
+          },
+          "roles": [ "tenderer" ]
+        },
+        {
+          "name": "KAANS ADMINISTRACION, S.A. DE C.V.",
+          "id": "MX-RFC-KAD1003298I6",
+          "identifier": {
+            "scheme": "RFC",
+            "id": "KAD1003298I6",
+            "legalName": "KAANS ADMINISTRACION, S.A. DE C.V.",
+            "uri": "https://pagina.com"
+          },
+          "address": {
+            "streetAddress": "Santa Cristina  1317",
+            "locality": "GUADALUPE",
+            "region": null,
+            "postalCode": "67129",
+            "countryName": "México"
+          },
+          "contactPoint": {
+            "name": "KAANS ADMINISTRACION, S.A. DE C.V.",
+            "email": "lmata@grupokaans.com",
+            "telephone": "38493182",
+            "faxNumber": null,
+            "url": null
+          },
+          "roles": [ "tenderer" ]
+        },
+        {
+          "name": "CONSTRUCCIONES DYNAMO, S.A. DE C.V.",
+          "id": "MX-RFC-CDY980323MA8",
+          "identifier": {
+            "scheme": "RFC",
+            "id": "CDY980323MA8",
+            "legalName": "CONSTRUCCIONES DYNAMO, S.A. DE C.V.",
+            "uri": "https://pagina.com"
+          },
+          "address": {
+            "streetAddress": "SIN DATO",
+            "locality": "MONTERREY",
+            "region": null,
+            "postalCode": "64800",
+            "countryName": "México"
+          },
+          "contactPoint": {
+            "name": "CONSTRUCCIONES DYNAMO, S.A. DE C.V.",
+            "email": "dynamo27@prodigy.net.mx",
+            "telephone": "52 81 83550589 ",
+            "faxNumber": null,
+            "url": null
+          },
+          "roles": [ "tenderer" ]
+        },
+        {
+          "name": "CKT EDIFICACIONES, S.A. DE C.V.",
+          "id": "MX-RFC-CED160218FH6",
+          "identifier": {
+            "scheme": "RFC",
+            "id": "CED160218FH6",
+            "legalName": "CKT EDIFICACIONES, S.A. DE C.V.",
+            "uri": "https://pagina.com"
+          },
+          "address": {
+            "streetAddress": "AVE. CENTRAL  LOTE N.2",
+            "locality": "SABINAS HIDALGO",
+            "region": null,
+            "postalCode": "65240",
+            "countryName": "México"
+          },
+          "contactPoint": {
+            "name": "CKT EDIFICACIONES, S.A. DE C.V.",
+            "email": "gerencia@construktor.org",
+            "telephone": "8110633704",
+            "faxNumber": null,
+            "url": null
+          },
+          "roles": [ "tenderer" ]
+        }
+      ],
+      "documents": null,
+      "contractingProcesses": [
+        {
+          "id": "Release-ocds-7wj9x5-LO-919009986-E9-2018",
+          "summary": null,
+          "releases": [
+            {
+              "id": "ocds-7wj9x5-LO-919009986-E9-2018001",
+              "tag": "planning,tender,award,contract",
+              "date": "/Date(1569351893863)/",
+              "url": "http://localhost:61523/Acceso/DatosAbiertos/000001/LO-919009986-E9-2018/v0001/Release-ocds-7wj9x5-LO-919009986-E9-2018-v0001-contract.json"
+            },
+            {
+              "id": "ocds-7wj9x5-LO-919009986-E9-2018-v0002",
+              "tag": "planning,tender,award,contract",
+              "date": "/Date(1570032168010)/",
+              "url": "http://localhost:61523/Acceso/DatosAbiertos/000001/LO-919009986-E9-2018/v0002/Release-ocds-7wj9x5-LO-919009986-E9-2018-v0002-contract.json"
+            },
+            {
+              "id": "ocds-7wj9x5-LO-919009986-E9-2018-v0003",
+              "tag": "planning,tender,award,contract",
+              "date": "/Date(1570032949193)/",
+              "url": "http://localhost:61523/Acceso/DatosAbiertos/000001/LO-919009986-E9-2018/v0003/Release-ocds-7wj9x5-LO-919009986-E9-2018-v0003-contract.json"
+            },
+            {
+              "id": "ocds-7wj9x5-LO-919009986-E9-2018-v0004",
+              "tag": "planning,tender,award,contract",
+              "date": "/Date(1570139412810)/",
+              "url": "http://localhost:61523/Acceso/DatosAbiertos/000001/LO-919009986-E9-2018/v0004/Release-ocds-7wj9x5-LO-919009986-E9-2018-v0004-contract.json"
+            },
+            {
+              "id": "ocds-7wj9x5-LO-919009986-E9-2018-v0005",
+              "tag": "planning,tender,award,contract",
+              "date": "/Date(1570139483150)/",
+              "url": "http://localhost:61523/Acceso/DatosAbiertos/000001/LO-919009986-E9-2018/v0005/Release-ocds-7wj9x5-LO-919009986-E9-2018-v0005-contract.json"
+            },
+            {
+              "id": "ocds-7wj9x5-LO-919009986-E9-2018-v0006",
+              "tag": "planning,tender,award,contract",
+              "date": "/Date(1570225702583)/",
+              "url": "http://localhost:61523/Acceso/DatosAbiertos/000001/LO-919009986-E9-2018/v0006/Release-ocds-7wj9x5-LO-919009986-E9-2018-v0006-contract.json"
+            },
+            {
+              "id": "ocds-7wj9x5-LO-919009986-E9-2018-v0007",
+              "tag": "planning,tender,award,contract",
+              "date": "/Date(1570226104223)/",
+              "url": "http://localhost:61523/Acceso/DatosAbiertos/000001/LO-919009986-E9-2018/v0007/Release-ocds-7wj9x5-LO-919009986-E9-2018-v0007-contract.json"
+            },
+            {
+              "id": "ocds-7wj9x5-LO-919009986-E9-2018-v0008",
+              "tag": "planning,tender,award,contract",
+              "date": "/Date(1570226507997)/",
+              "url": "http://localhost:61523/Acceso/DatosAbiertos/000001/LO-919009986-E9-2018/v0008/Release-ocds-7wj9x5-LO-919009986-E9-2018-v0008-contract.json"
+            },
+            {
+              "id": "ocds-7wj9x5-LO-919009986-E9-2018-v0009",
+              "tag": "planning,tender,award,contract",
+              "date": "/Date(1570226799940)/",
+              "url": "http://localhost:61523/Acceso/DatosAbiertos/000001/LO-919009986-E9-2018/v0009/Release-ocds-7wj9x5-LO-919009986-E9-2018-v0009-contract.json"
+            },
+            {
+              "id": "ocds-7wj9x5-LO-919009986-E9-2018-v0010",
+              "tag": "planning,tender,award,contract",
+              "date": "/Date(1570227184600)/",
+              "url": "http://localhost:61523/Acceso/DatosAbiertos/000001/LO-919009986-E9-2018/v0010/Release-ocds-7wj9x5-LO-919009986-E9-2018-v0010-contract.json"
+            },
+            {
+              "id": "ocds-7wj9x5-LO-919009986-E9-2018-v0011",
+              "tag": "planning,tender,award,contract",
+              "date": "/Date(1570227976640)/",
+              "url": "http://localhost:61523/Acceso/DatosAbiertos/000001/LO-919009986-E9-2018/v0011/Release-ocds-7wj9x5-LO-919009986-E9-2018-v0011-contract.json"
+            }
+          ]
+        },
+        {
+          "id": "Release-ocds-7wj9x5-PENDIENTE",
+          "summary": null,
+          "releases": null
+        },
+        {
+          "id": "Release-ocds-7wj9x5-SINL-CPE-024-2018",
+          "summary": null,
+          "releases": [
+            {
+              "id": "ocds-7wj9x5-SINL-CPE-024-2018-v0001",
+              "tag": "planning,award,contract",
+              "date": "/Date(1569967738887)/",
+              "url": "http://localhost:61523/Acceso/DatosAbiertos/000001/SINL-CPE-024-2018/v0001/Release-ocds-7wj9x5-SINL-CPE-024-2018-v0001-contract.json"
+            },
+            {
+              "id": "ocds-7wj9x5-SINL-CPE-024-2018-v0002",
+              "tag": "planning,award,contract",
+              "date": "/Date(1569967777657)/",
+              "url": "http://localhost:61523/Acceso/DatosAbiertos/000001/SINL-CPE-024-2018/v0002/Release-ocds-7wj9x5-SINL-CPE-024-2018-v0002-contract.json"
+            },
+            {
+              "id": "ocds-7wj9x5-SINL-CPE-024-2018-v0003",
+              "tag": "planning,award,contract",
+              "date": "/Date(1570030851483)/",
+              "url": "http://localhost:61523/Acceso/DatosAbiertos/000001/SINL-CPE-024-2018/v0003/Release-ocds-7wj9x5-SINL-CPE-024-2018-v0003-contract.json"
+            },
+            {
+              "id": "ocds-7wj9x5-SINL-CPE-024-2018-v0004",
+              "tag": "planning,award,contract",
+              "date": "/Date(1570031809970)/",
+              "url": "http://localhost:61523/Acceso/DatosAbiertos/000001/SINL-CPE-024-2018/v0004/Release-ocds-7wj9x5-SINL-CPE-024-2018-v0004-contract.json"
+            },
+            {
+              "id": "ocds-7wj9x5-SINL-CPE-024-2018-v0005",
+              "tag": "planning,award,contract",
+              "date": "/Date(1570050495840)/",
+              "url": "http://localhost:61523/Acceso/DatosAbiertos/000001/SINL-CPE-024-2018/v0005/Release-ocds-7wj9x5-SINL-CPE-024-2018-v0005-contract.json"
+            },
+            {
+              "id": "ocds-7wj9x5-SINL-CPE-024-2018-v0006",
+              "tag": "planning,award,contract",
+              "date": "/Date(1570050561793)/",
+              "url": "http://localhost:61523/Acceso/DatosAbiertos/000001/SINL-CPE-024-2018/v0006/Release-ocds-7wj9x5-SINL-CPE-024-2018-v0006-contract.json"
+            },
+            {
+              "id": "ocds-7wj9x5-SINL-CPE-024-2018-v0007",
+              "tag": "planning,award,contract",
+              "date": "/Date(1570051101687)/",
+              "url": "http://localhost:61523/Acceso/DatosAbiertos/000001/SINL-CPE-024-2018/v0007/Release-ocds-7wj9x5-SINL-CPE-024-2018-v0007-contract.json"
+            },
+            {
+              "id": "ocds-7wj9x5-SINL-CPE-024-2018-v0008",
+              "tag": "planning,award,contract",
+              "date": "/Date(1570139931593)/",
+              "url": "http://localhost:61523/Acceso/DatosAbiertos/000001/SINL-CPE-024-2018/v0008/Release-ocds-7wj9x5-SINL-CPE-024-2018-v0008-contract.json"
+            },
+            {
+              "id": "ocds-7wj9x5-SINL-CPE-024-2018-v0009",
+              "tag": "planning,award,contract",
+              "date": "/Date(1570140226327)/",
+              "url": "http://localhost:61523/Acceso/DatosAbiertos/000001/SINL-CPE-024-2018/v0009/Release-ocds-7wj9x5-SINL-CPE-024-2018-v0009-contract.json"
+            },
+            {
+              "id": "ocds-7wj9x5-SINL-CPE-024-2018-v0010",
+              "tag": "planning,award,contract",
+              "date": "/Date(1570225191580)/",
+              "url": "http://localhost:61523/Acceso/DatosAbiertos/000001/SINL-CPE-024-2018/v0010/Release-ocds-7wj9x5-SINL-CPE-024-2018-v0010-contract.json"
+            },
+            {
+              "id": "ocds-7wj9x5-SINL-CPE-024-2018-v0011",
+              "tag": "planning,award,contract",
+              "date": "/Date(1570225427643)/",
+              "url": "http://localhost:61523/Acceso/DatosAbiertos/000001/SINL-CPE-024-2018/v0011/Release-ocds-7wj9x5-SINL-CPE-024-2018-v0011-contract.json"
+            },
+            {
+              "id": "ocds-7wj9x5-SINL-CPE-024-2018-v0012",
+              "tag": "planning,award,contract",
+              "date": "/Date(1570225470987)/",
+              "url": "http://localhost:61523/Acceso/DatosAbiertos/000001/SINL-CPE-024-2018/v0012/Release-ocds-7wj9x5-SINL-CPE-024-2018-v0012-contract.json"
+            }
+          ]
+        },
+        {
+          "id": "Release-ocds-7wj9x5-SINL-CPE-033-2018",
+          "summary": null,
+          "releases": null
+        },
+        {
+          "id": "Release-ocds-7wj9x5-SINL-CPE-015-2019",
+          "summary": null,
+          "releases": null
+        }
+      ],
+      "completion": null
+    }
+  ],
+  "publisher": {
+    "scheme": "Instituciones Gubernamentales",
+    "uid": "GENL-SI",
+    "name": "Secretaría de Infraestructura del Estado de Nuevo León",
+    "uri": "http://si.nl.gob.mx"
+  },
+  "license": "http://si.nl.gob.mx",
+  "publicationPolicy": "http://si.nl.gob.mx"
+}

@@ -1,0 +1,1991 @@
+{
+  "ocid": "ocds-7wj9x5-LO-919009986-E126-2016-v0001",
+  "id": "ocds-7wj9x5-LO-919009986-E126-2016-v0001-contract",
+  "date": "2019-11-11T15:23:01.01-06:00",
+  "tag": [
+    "planning",
+    "tender",
+    "award",
+    "contract"
+  ],
+  "initiationType": "tender",
+  "parties": [
+    {
+      "name": "SECRETARIA DE INFRAESTRUCTURA",
+      "id": "CAGMNL-211113110100001",
+      "identifier": {
+        "scheme": "CAGMNL",
+        "legalName": "CLASIFICACIÓN ADMINISTRATIVA Y GEOGRÁFICA MUNICIPAL DEL ESTADO DE NUEVO LEON"
+      },
+      "address": {
+        "streetAddress": "WASHIGTON 648 OTE",
+        "locality": "MONTERREY",
+        "region": "NUEVO LEÓN",
+        "postalCode": "64000",
+        "countryName": "MÉXICO"
+      },
+      "contactPoint": {
+        "name": "EMILIO RODRÍGUEZ CERDA",
+        "telephone": "20206779"
+      },
+      "roles": [
+        "procuringEntity"
+      ]
+    },
+    {
+      "name": "SECRETARIA DE FINANZAS Y TESORERIA GENERAL DEL ESTADO DE NUEVO LEON",
+      "id": "CAGMNL-211113040100001",
+      "identifier": {
+        "scheme": "CAGMNL",
+        "legalName": "CLASIFICACIÓN ADMINISTRATIVA Y GEOGRÁFICA MUNICIPAL DEL ESTADO DE NUEVO LEON"
+      },
+      "address": {
+        "streetAddress": "ESCOBEDO SUR PISO 3 333",
+        "locality": "MONTERREY",
+        "region": "NUEVO LEÓN",
+        "postalCode": "64000",
+        "countryName": "MÉXICO"
+      },
+      "contactPoint": {},
+      "roles": [
+        "payer"
+      ]
+    },
+    {
+      "name": "HACE CONSTRUCTORA Y URBANIZADORA, S.A. DE C.V.",
+      "id": "RFC-HCU080307RG0",
+      "identifier": {
+        "scheme": "RFC",
+        "id": "HCU080307RG0",
+        "legalName": "REGISTRO FEDERAL DE CONTRIBUYENTES",
+        "uri": "https://www.sat.gob.mx"
+      },
+      "address": {
+        "streetAddress": "BOULEVARD TOTECO  511",
+        "locality": "REYNOSA",
+        "postalCode": "88680"
+      },
+      "contactPoint": {
+        "name": "RICARDO QUINTANILLA GALLEGOS",
+        "telephone": "8991605031"
+      },
+      "roles": [
+        "tenderer"
+      ]
+    },
+    {
+      "name": "JMB CONSTRUCTORES ASOCIADOS, S.A. DE C.V.",
+      "id": "RFC-JCA061213CT1",
+      "identifier": {
+        "scheme": "RFC",
+        "id": "JCA061213CT1",
+        "legalName": "REGISTRO FEDERAL DE CONTRIBUYENTES",
+        "uri": "https://www.sat.gob.mx"
+      },
+      "address": {
+        "streetAddress": "SIN DATO",
+        "locality": "SAN NICOLÁS DE LOS GARZA",
+        "postalCode": "SIN DATO"
+      },
+      "contactPoint": {
+        "name": "SIN DATO",
+        "telephone": "+52 (81) 1870-4306"
+      },
+      "roles": [
+        "tenderer"
+      ]
+    },
+    {
+      "name": "CORPORACION CONSTRUCTORA GC, S.A. DE C.V.",
+      "id": "RFC-CCG9401241P5",
+      "identifier": {
+        "scheme": "RFC",
+        "id": "CCG9401241P5",
+        "legalName": "REGISTRO FEDERAL DE CONTRIBUYENTES",
+        "uri": "https://www.sat.gob.mx"
+      },
+      "address": {
+        "streetAddress": "VERACRUZ  368-B",
+        "locality": "MONTERREY",
+        "postalCode": "64780"
+      },
+      "contactPoint": {
+        "name": "SIN DATO",
+        "telephone": "83654602"
+      },
+      "roles": [
+        "tenderer"
+      ]
+    },
+    {
+      "name": "BUFETTE DE OBRAS SERVICIOS Y SUMINISTROS, S.A. DE C.V.",
+      "id": "RFC-BOS920528KI9",
+      "identifier": {
+        "scheme": "RFC",
+        "id": "BOS920528KI9",
+        "legalName": "REGISTRO FEDERAL DE CONTRIBUYENTES",
+        "uri": "https://www.sat.gob.mx"
+      },
+      "address": {
+        "streetAddress": "SIN DATO",
+        "locality": "MONTERREY",
+        "postalCode": "64540"
+      },
+      "contactPoint": {
+        "name": "JORGE ALEJANDRO ALVARADO GUERRERO",
+        "telephone": "8184763051"
+      },
+      "roles": [
+        "tenderer"
+      ]
+    },
+    {
+      "name": "INTERPLANOS 130, S.A. DE C.V.",
+      "id": "RFC-ICT9805134W9",
+      "identifier": {
+        "scheme": "RFC",
+        "id": "ICT9805134W9",
+        "legalName": "REGISTRO FEDERAL DE CONTRIBUYENTES",
+        "uri": "https://www.sat.gob.mx"
+      },
+      "address": {
+        "streetAddress": "SIN DATO",
+        "locality": "MONTERREY",
+        "postalCode": "64299"
+      },
+      "contactPoint": {
+        "name": "GERARDO FLORES FERNANDEZ",
+        "telephone": "8111656282"
+      },
+      "roles": [
+        "tenderer"
+      ]
+    },
+    {
+      "name": "KAANS ADMINISTRACION, S.A. DE C.V.",
+      "id": "RFC-KAD1003298I6",
+      "identifier": {
+        "scheme": "RFC",
+        "id": "KAD1003298I6",
+        "legalName": "REGISTRO FEDERAL DE CONTRIBUYENTES",
+        "uri": "https://www.sat.gob.mx"
+      },
+      "address": {
+        "streetAddress": "Santa Cristina  1317",
+        "locality": "GUADALUPE",
+        "postalCode": "67129"
+      },
+      "contactPoint": {
+        "name": "LUIS ALBERTO MATA MARTINEZ",
+        "telephone": "38493182"
+      },
+      "roles": [
+        "tenderer"
+      ]
+    },
+    {
+      "name": "PH CONSTRUCCIONES Y DESARROLLOS, S.A. DE C.V.",
+      "id": "RFC-SIN DATO-1F0E524B-1D69-43E4-ACF3-C1A776913A3A",
+      "identifier": {
+        "scheme": "RFC",
+        "id": "SIN DATO-1F0E524B-1D69-43E4-ACF3-C1A776913A3A",
+        "legalName": "REGISTRO FEDERAL DE CONTRIBUYENTES",
+        "uri": "https://www.sat.gob.mx"
+      },
+      "address": {
+        "streetAddress": "SIN DATO",
+        "locality": "SAN PEDRO GARZA GARCÍA",
+        "postalCode": "66220"
+      },
+      "contactPoint": {
+        "name": "SIN DATO",
+        "telephone": "(81) 8356.2675"
+      },
+      "roles": [
+        "tenderer"
+      ]
+    },
+    {
+      "name": "PROVEEDORA PARA LA CONSTRUCCION REGIOMONTANA, S.A. DE C.V.",
+      "id": "RFC-PCR970808MT3",
+      "identifier": {
+        "scheme": "RFC",
+        "id": "PCR970808MT3",
+        "legalName": "REGISTRO FEDERAL DE CONTRIBUYENTES",
+        "uri": "https://www.sat.gob.mx"
+      },
+      "address": {
+        "streetAddress": "SIN DATO",
+        "locality": "MONTERREY",
+        "postalCode": "64000"
+      },
+      "contactPoint": {
+        "name": "SIN DATO",
+        "telephone": "83750357"
+      },
+      "roles": [
+        "tenderer"
+      ]
+    },
+    {
+      "name": "L.G. CONSTRUCCIONES Y SERVICIOS SA DE CV",
+      "id": "RFC-SIN DATO-8D7CEF53-4597-408E-A051-1C99817F8A51",
+      "identifier": {
+        "scheme": "RFC",
+        "id": "SIN DATO-8D7CEF53-4597-408E-A051-1C99817F8A51",
+        "legalName": "REGISTRO FEDERAL DE CONTRIBUYENTES",
+        "uri": "https://www.sat.gob.mx"
+      },
+      "address": {
+        "streetAddress": "SIN DATO",
+        "locality": "TAMPICO",
+        "postalCode": "89350"
+      },
+      "contactPoint": {
+        "name": "SIN DATO",
+        "telephone": "833-162-31-10"
+      },
+      "roles": [
+        "tenderer"
+      ]
+    },
+    {
+      "name": "LATITUDE CONSTRUCTORA, S.A. DE C.V.",
+      "id": "RFC-SIN DATO-772BA2BB-D6D0-48CE-874F-DCCF7FE4D7AC",
+      "identifier": {
+        "scheme": "RFC",
+        "id": "SIN DATO-772BA2BB-D6D0-48CE-874F-DCCF7FE4D7AC",
+        "legalName": "REGISTRO FEDERAL DE CONTRIBUYENTES",
+        "uri": "https://www.sat.gob.mx"
+      },
+      "address": {
+        "streetAddress": "SIN DATO",
+        "locality": "MONTERREY",
+        "postalCode": "64060"
+      },
+      "contactPoint": {
+        "name": "SIN DATO",
+        "telephone": "+(52) 81.2126.4343"
+      },
+      "roles": [
+        "tenderer"
+      ]
+    },
+    {
+      "name": "GRUPO LOGUINEXT, S.A. DE C.V.",
+      "id": "RFC-GLO121030MB9",
+      "identifier": {
+        "scheme": "RFC",
+        "id": "GLO121030MB9",
+        "legalName": "REGISTRO FEDERAL DE CONTRIBUYENTES",
+        "uri": "https://www.sat.gob.mx"
+      },
+      "address": {
+        "streetAddress": "SIN DATO",
+        "locality": "CADEREYTA JIMENEZ",
+        "postalCode": "67480"
+      },
+      "contactPoint": {
+        "name": "SIN DATO",
+        "telephone": "SIN DATO"
+      },
+      "roles": [
+        "tenderer"
+      ]
+    }
+  ],
+  "buyer": {
+    "id": "CAGMNL-211113110100001",
+    "name": "SECRETARIA DE INFRAESTRUCTURA"
+  },
+  "planning": {
+    "rationale": "Unidad Deportiva Polivalente ubicada en Cerro de la Campana entre Av. 20 de Noviembre y Av. 16 de Septiembre en la colonia Alianza Real, en el municipio del Carmen, N.L.",
+    "budget": {
+      "id": "10140",
+      "description": "Fortalecimiento Financiero 2016",
+      "amount": {
+        "amount": 31086479.12,
+        "currency": "MXN"
+      },
+      "project": "Unidad Deportiva Polivalente",
+      "projectID": "SIE-201/2016",
+      "uri": "http://si.nl.gob.mx"
+    }
+  },
+  "tender": {
+    "id": "LO-919009986-E126-2016",
+    "title": "Unidad Deportiva Polivalente",
+    "description": "Unidad Deportiva Polivalente ubicada en Cerro de la Campana entre Av. 20 de Noviembre y Av. 16 de Septiembre en la colonia Alianza Real, en el municipio del Carmen, N.L.",
+    "status": "complete",
+    "procuringEntity": {
+      "name": "?",
+      "id": "?"
+    },
+    "value": {
+      "amount": 31086479.12,
+      "currency": "MXN"
+    },
+    "minValue": {
+      "amount": 31086479.12,
+      "currency": "MXN"
+    },
+    "procurementMethod": "open",
+    "procurementMethodDetails": "Licitación Federal",
+    "procurementMethodRationale": "Justificación para el método de compra elegido",
+    "mainProcurementCategory": "goods",
+    "additionalProcurementCategories": [
+      "ND"
+    ],
+    "awardCriteria": "priceOnly",
+    "awardCriteriaDetails": "?",
+    "submissionMethod": [
+      "inPerson"
+    ],
+    "submissionMethodDetails": "El representante del licitante deberá presentar en persona su oferta escrita en sobre cerrado",
+    "tenderPeriod": {
+      "startDate": "2016-11-14T18:00:00-06:00",
+      "endDate": "2016-12-19T18:00:00-06:00",
+      "maxExtentDate": "0001-01-01T18:00:00-06:00",
+      "durationInDays": 35
+    },
+    "enquiryPeriod": {
+      "startDate": "2016-11-14T18:00:00-06:00",
+      "endDate": "2016-11-27T18:00:00-06:00",
+      "maxExtentDate": "0001-01-01T18:00:00-06:00",
+      "durationInDays": 13
+    },
+    "hasEnquiries": false,
+    "eligibilityCriteria": "El criterio establecido por el artículo 38 de la Ley de obras públicas y servicios relacionados con las mismas",
+    "awardPeriod": {
+      "startDate": "2016-12-05T18:00:00-06:00",
+      "endDate": "2016-12-19T18:00:00-06:00",
+      "maxExtentDate": "0001-01-01T18:00:00-06:00",
+      "durationInDays": 14
+    },
+    "contractPeriod": {
+      "startDate": "2016-12-19T18:00:00-06:00",
+      "endDate": "0001-01-01T18:00:00-06:00",
+      "maxExtentDate": "0001-01-01T18:00:00-06:00",
+      "durationInDays": 0
+    },
+    "numberOfTenderers": 11,
+    "tenderers": [
+      {
+        "name": "HACE CONSTRUCTORA Y URBANIZADORA, S.A. DE C.V.",
+        "id": "HCU080307RG0"
+      },
+      {
+        "name": "JMB CONSTRUCTORES ASOCIADOS, S.A. DE C.V.",
+        "id": "JCA061213CT1"
+      },
+      {
+        "name": "CORPORACION CONSTRUCTORA GC, S.A. DE C.V.",
+        "id": "CCG9401241P5"
+      },
+      {
+        "name": "BUFETTE DE OBRAS SERVICIOS Y SUMINISTROS, S.A. DE C.V.",
+        "id": "BOS920528KI9"
+      },
+      {
+        "name": "INTERPLANOS 130, S.A. DE C.V.",
+        "id": "ICT9805134W9"
+      },
+      {
+        "name": "KAANS ADMINISTRACION, S.A. DE C.V.",
+        "id": "KAD1003298I6"
+      },
+      {
+        "name": "PH CONSTRUCCIONES Y DESARROLLOS, S.A. DE C.V.",
+        "id": "SIN DATO-7634A972-4490-48C7-9FB9-A9CF4AE2803D"
+      },
+      {
+        "name": "PROVEEDORA PARA LA CONSTRUCCION REGIOMONTANA, S.A. DE C.V.",
+        "id": "PCR970808MT3"
+      },
+      {
+        "name": "L.G. CONSTRUCCIONES Y SERVICIOS SA DE CV",
+        "id": "SIN DATO-B4F3947B-AF67-41D5-AE5B-9DB7A90DC9C6"
+      },
+      {
+        "name": "LATITUDE CONSTRUCTORA, S.A. DE C.V.",
+        "id": "SIN DATO-81920A03-C5F1-4084-B59E-E24B2DC789D3"
+      },
+      {
+        "name": "GRUPO LOGUINEXT, S.A. DE C.V.",
+        "id": "GLO121030MB9"
+      }
+    ],
+    "documents": [
+      {
+        "id": "7245",
+        "documentType": "ND",
+        "title": "ND",
+        "description": "ND",
+        "url": "http://si.nl.gob.mx/Acceso/DatosAbiertos/DocumentosPublicos/CONVOCATORIA-20180611110105.pdf",
+        "datePublished": "2018-05-15T13:01:00-05:00",
+        "dateModified": "1899-12-31T18:00:00-06:00",
+        "format": "application/pdf",
+        "language": "es"
+      },
+      {
+        "id": "7245",
+        "documentType": "ND",
+        "title": "ND",
+        "description": "ND",
+        "url": "http://si.nl.gob.mx/Acceso/DatosAbiertos/DocumentosPublicos/CONVOCATORIA-20180611110105.pdf",
+        "datePublished": "2018-05-15T13:01:00-05:00",
+        "dateModified": "1899-12-31T18:00:00-06:00",
+        "format": "application/pdf",
+        "language": "es"
+      },
+      {
+        "id": "7244",
+        "documentType": "ND",
+        "title": "ND",
+        "description": "ND",
+        "url": "http://si.nl.gob.mx/Acceso/DatosAbiertos/DocumentosPublicos/ANEXOSDELASPREBASES-20180529123917.zip",
+        "datePublished": "2018-05-15T13:01:00-05:00",
+        "dateModified": "1899-12-31T18:00:00-06:00",
+        "format": "application/zip",
+        "language": "es"
+      },
+      {
+        "id": "7245",
+        "documentType": "ND",
+        "title": "ND",
+        "description": "ND",
+        "url": "http://si.nl.gob.mx/Acceso/DatosAbiertos/DocumentosPublicos/CONVOCATORIA-20180611110105.pdf",
+        "datePublished": "2018-05-15T13:01:00-05:00",
+        "dateModified": "1899-12-31T18:00:00-06:00",
+        "format": "application/pdf",
+        "language": "es"
+      },
+      {
+        "id": "7245",
+        "documentType": "ND",
+        "title": "ND",
+        "description": "ND",
+        "url": "http://si.nl.gob.mx/Acceso/DatosAbiertos/DocumentosPublicos/CONVOCATORIA-20180611110105.pdf",
+        "datePublished": "2018-05-15T13:01:00-05:00",
+        "dateModified": "1899-12-31T18:00:00-06:00",
+        "format": "application/pdf",
+        "language": "es"
+      },
+      {
+        "id": "7244",
+        "documentType": "ND",
+        "title": "ND",
+        "description": "ND",
+        "url": "http://si.nl.gob.mx/Acceso/DatosAbiertos/DocumentosPublicos/ANEXOSDELASPREBASES-20180529123917.zip",
+        "datePublished": "2018-05-15T13:01:00-05:00",
+        "dateModified": "1899-12-31T18:00:00-06:00",
+        "format": "application/zip",
+        "language": "es"
+      },
+      {
+        "id": "7245",
+        "documentType": "ND",
+        "title": "ND",
+        "description": "ND",
+        "url": "http://si.nl.gob.mx/Acceso/DatosAbiertos/DocumentosPublicos/CONVOCATORIA-20180611110105.pdf",
+        "datePublished": "2018-05-15T13:01:00-05:00",
+        "dateModified": "1899-12-31T18:00:00-06:00",
+        "format": "application/pdf",
+        "language": "es"
+      },
+      {
+        "id": "7245",
+        "documentType": "ND",
+        "title": "ND",
+        "description": "ND",
+        "url": "http://si.nl.gob.mx/Acceso/DatosAbiertos/DocumentosPublicos/CONVOCATORIA-20180611110105.pdf",
+        "datePublished": "2018-05-15T13:01:00-05:00",
+        "dateModified": "1899-12-31T18:00:00-06:00",
+        "format": "application/pdf",
+        "language": "es"
+      },
+      {
+        "id": "7245",
+        "documentType": "ND",
+        "title": "ND",
+        "description": "ND",
+        "url": "http://si.nl.gob.mx/Acceso/DatosAbiertos/DocumentosPublicos/CONVOCATORIA-20180611110105.pdf",
+        "datePublished": "2018-05-15T13:01:00-05:00",
+        "dateModified": "1899-12-31T18:00:00-06:00",
+        "format": "application/pdf",
+        "language": "es"
+      },
+      {
+        "id": "7245",
+        "documentType": "ND",
+        "title": "ND",
+        "description": "ND",
+        "url": "http://si.nl.gob.mx/Acceso/DatosAbiertos/DocumentosPublicos/CONVOCATORIA-20180611110105.pdf",
+        "datePublished": "2018-05-15T13:01:00-05:00",
+        "dateModified": "1899-12-31T18:00:00-06:00",
+        "format": "application/pdf",
+        "language": "es"
+      }
+    ],
+    "milestones": [
+      {
+        "id": "LO-919009986-E126-2016-14399",
+        "title": "FIRMA DEL CONTRATO",
+        "type": "approval",
+        "description": "FIRMA DEL CONTRATO",
+        "code": "FIRMA DEL CONTRATO",
+        "dueDate": "2016-12-22T06:00:00-06:00",
+        "dateMet": "2016-12-22T06:00:00-06:00",
+        "dateModified": "2016-12-22T06:00:00-06:00",
+        "status": "scheduled"
+      },
+      {
+        "id": "LO-919009986-E126-2016-14394",
+        "title": "JUNTA DE ACLARACIONES",
+        "type": "preProcurement",
+        "description": "JUNTA DE ACLARACIONES",
+        "code": "JUNTA DE ACLARACIONES",
+        "dueDate": "2016-11-28T09:00:00-06:00",
+        "dateMet": "2016-11-28T09:00:00-06:00",
+        "dateModified": "2016-11-28T09:00:00-06:00",
+        "status": "scheduled"
+      },
+      {
+        "id": "LO-919009986-E126-2016-14393",
+        "title": "VISITA A LA OBRA",
+        "type": "preProcurement",
+        "description": "VISITA A LA OBRA",
+        "code": "VISITA A LA OBRA",
+        "dueDate": "2016-11-25T02:00:00-06:00",
+        "dateMet": "2016-11-25T02:00:00-06:00",
+        "dateModified": "2016-11-25T02:00:00-06:00",
+        "status": "scheduled"
+      },
+      {
+        "id": "LO-919009986-E126-2016-14392",
+        "title": "CONVOCATORIA",
+        "type": "preProcurement",
+        "description": "CONVOCATORIA",
+        "code": "CONVOCATORIA",
+        "dueDate": "2016-11-15T02:00:00-06:00",
+        "dateMet": "2016-11-15T02:00:00-06:00",
+        "dateModified": "2016-11-15T02:00:00-06:00",
+        "status": "scheduled"
+      },
+      {
+        "id": "LO-919009986-E126-2016-14395",
+        "title": "APERTURA",
+        "type": "assessment",
+        "description": "APERTURA",
+        "code": "APERTURA",
+        "dueDate": "2016-12-06T09:00:00-06:00",
+        "dateMet": "2016-12-06T09:00:00-06:00",
+        "dateModified": "2016-12-06T09:00:00-06:00",
+        "status": "scheduled"
+      },
+      {
+        "id": "LO-919009986-E126-2016-14398",
+        "title": "FALLO",
+        "type": "engagement",
+        "description": "FALLO",
+        "code": "FALLO",
+        "dueDate": "2016-12-20T09:00:00-06:00",
+        "dateMet": "2016-12-20T09:00:00-06:00",
+        "dateModified": "2016-12-20T09:00:00-06:00",
+        "status": "scheduled"
+      }
+    ]
+  },
+  "awards": [
+    {
+      "id": "LO-919009986-E126-2016",
+      "title": "Unidad Deportiva Polivalente",
+      "description": "Unidad Deportiva Polivalente ubicada en Cerro de la Campana entre Av. 20 de Noviembre y Av. 16 de Septiembre en la colonia Alianza Real, en el municipio del Carmen, N.L.",
+      "status": "active",
+      "date": "2016-12-19T18:00:00-06:00",
+      "value": {
+        "amount": 31086479.12,
+        "currency": "MXN"
+      },
+      "suppliers": [
+        {
+          "id": "JCA061213CT1",
+          "name": "JMB CONSTRUCTORES ASOCIADOS, S.A. DE C.V."
+        }
+      ],
+      "contractPeriod": {
+        "startDate": "2017-01-03T18:00:00-06:00",
+        "endDate": "2017-06-11T19:00:00-05:00",
+        "maxExtentDate": "2019-11-11T15:23:00.7735507-06:00",
+        "durationInDays": 159
+      },
+      "documents": [
+        {
+          "id": "7254",
+          "documentType": "ND",
+          "title": "ND",
+          "description": "ND",
+          "url": "http://si.nl.gob.mx/Acceso/DatosAbiertos/DocumentosPublicos/ACTADEFALLO-20180719095030.pdf",
+          "datePublished": "2018-05-15T13:01:00-05:00",
+          "dateModified": "1899-12-31T18:00:00-06:00",
+          "format": "application/pdf",
+          "language": "es"
+        }
+      ]
+    }
+  ],
+  "contracts": [
+    {
+      "id": "1612085",
+      "awardID": "LO-919009986-E126-2016",
+      "title": "Unidad Deportiva Polivalente",
+      "description": "Unidad Deportiva Polivalente ubicada en Cerro de la Campana entre Av. 20 de Noviembre y Av. 16 de Septiembre en la colonia Alianza Real, en el municipio del Carmen, N.L.",
+      "status": "active",
+      "period": {
+        "startDate": "2017-01-03T18:00:00-06:00",
+        "endDate": "2017-06-11T19:00:00-05:00",
+        "maxExtentDate": "0001-01-01T18:00:00-06:00",
+        "durationInDays": 159
+      },
+      "value": {
+        "amount": 320814.36,
+        "currency": "MXN"
+      },
+      "items": [
+        {
+          "id": "000001862",
+          "description": "001 OBRAS EXTERIORES    PRELIMINARES",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000001862",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 3540856.5546,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000004421",
+          "description": "002 ESTACIONAMIENTO",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000004421",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 837244.9665,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000008864",
+          "description": "003   MALLA PERIMETRAL",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000008864",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 574206.6355,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000006206",
+          "description": "004  ALBAÑILERIA EXTERIOR",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000006206",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 2251183.288,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000008352",
+          "description": "005  INFRAESTRUCTURA Y SERVICIOS URBANOS",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000008352",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 1064568.7046,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000008755",
+          "description": "006 JARDINERIA Y ARBORIZACION",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000008755",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 1643842.5532,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000003451",
+          "description": "007   MOBILIARIO URBANO",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000003451",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 325656.28,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000007845",
+          "description": "008  MODULO DE BAÑOS   PRELIMINARES",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000007845",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 9522.0643,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000005479",
+          "description": "009   CIMENTACION",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000005479",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 71694.0548,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000006380",
+          "description": "010 ALBAÑILERÍA Y ACABADOS",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000006380",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 75768.1045,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000005958",
+          "description": "011 LOSA",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000005958",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 38104.9501,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000007366",
+          "description": "012  IMPERMEABILIZACION",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000007366",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 14928.6216,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000001087",
+          "description": "013 HERRERIA",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000001087",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 36128.19,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000005071",
+          "description": "014  INSTALACIÓN ELECTRICA",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000005071",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 7010.87,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000008685",
+          "description": "015  MODULO CASETA PRELIMINARES",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000008685",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 7684.1986,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000002051",
+          "description": "016 CIMENTACION",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000002051",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 29905.6954,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000000630",
+          "description": "017 ALBAÑILERÍA Y ACABADOS",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000000630",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 37611.2154,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000005995",
+          "description": "018 LOSA",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000005995",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 36892.1586,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000002263",
+          "description": "019 IMPERMEABILIZACION",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000002263",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 11402.665,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000001567",
+          "description": "020 HERRERIA",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000001567",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 27356.68,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000001604",
+          "description": "021 INSTALACIÓN ELECTRICA",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000001604",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 4934.91,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000000216",
+          "description": "022  MODULO INSTALACIONES       PRELIMINARES",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000000216",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 7787.88,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000005021",
+          "description": "023 CIMENTACION",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000005021",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 29905.6954,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000006410",
+          "description": "024  ALBAÑILERÍA Y ACABADOS",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000006410",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 33010.7022,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000006636",
+          "description": "025 LOSA",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000006636",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 33202.424,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000008016",
+          "description": "026  IMPERMEABILIZACION",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000008016",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 11645.825,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000002480",
+          "description": "027 HERRERIA",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000002480",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 3997.87,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000005331",
+          "description": "028 INSTALACIÓN ELECTRICA",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000005331",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 3289.94,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000008594",
+          "description": "029  VARIOS",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000008594",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 186410.4766,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000000726",
+          "description": "030 CANCHA DE FUTBOL 7    MOVIMIENTO DE TIERRAS",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000000726",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 1090611.3204,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000002987",
+          "description": "031 INFRAESTRUCTURA Y SERVICIOS URBANOS",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000002987",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 311595.6,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000008617",
+          "description": "032 ALBAÑILERIA",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000008617",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 453024.4056,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000003686",
+          "description": "033 JARDINERIA Y ARBORIZACION",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000003686",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 31723.8748,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000005587",
+          "description": "034  GIMNASIO POLIDEPORTIVO PRELIMINARES",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000005587",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 12720.104,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000002052",
+          "description": "034 EQUIPAMIENTO URBANO",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000002052",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 132295.38,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000008618",
+          "description": "035  MOVIMIENTO DE TIERRAS",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000008618",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 375889.3576,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000002208",
+          "description": "036 CIMENTACION",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000002208",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 1377008.8056,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000006932",
+          "description": "037 ALBAÑILERÍA Y ACABADOS",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000006932",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 2018868.588,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000001969",
+          "description": "038 TECHUMBRE",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000001969",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 2958837.3946,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000008500",
+          "description": "039  HERRERIA",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000008500",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 937785.9834,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000007120",
+          "description": "040 ESTRUCTURA METALICA",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000007120",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 3938952.0225,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000000803",
+          "description": "041 INSTALACIÓN HIDROSANITARIA",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000000803",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 95489.71,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000007911",
+          "description": "042 INSTALACION HIDRAULICA",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000007911",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 105203.335,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000006102",
+          "description": "043  INSTALACION ELECTRICA",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000006102",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 558762.66,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000001893",
+          "description": "044 INSTALACION PLUVIAL",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000001893",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 54781.52,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000003917",
+          "description": "045 MUEBLES SANITARIOS",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000003917",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 145553.38,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000000052",
+          "description": "046 VARIOS",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000000052",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 116447.658,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000005082",
+          "description": "047 CANCHA BASQUETBOL    PRELIMINARES",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000005082",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 50010.0748,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000008688",
+          "description": "048 BANQUETAS Y RAMPAS",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000008688",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 331976.1369,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000004236",
+          "description": "049  INSTALACIÓN ELECTRICA",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000004236",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 7010.87,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000006779",
+          "description": "050 INFRAESTRUCTURA Y SERVICIOS URBANOS",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000006779",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 69832.16,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000004988",
+          "description": "051 JARDINERIA Y ARBORIZACION",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000004988",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 176227.42,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000004639",
+          "description": "052 EQUIPAMIENTO URBANO",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000004639",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 108444.2,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        },
+        {
+          "id": "000008333",
+          "description": "053 AREA DE CANCHAS",
+          "classification": {
+            "scheme": "UNCEFACT",
+            "id": "000008333",
+            "description": "Catálogo de Conceptos Universal de la Secretaría de Infraestructura del Estado de Nuevo León",
+            "uri": "http://si.nl.gob.mx/CatalogoDeConceptosUniversal"
+          },
+          "quantity": 0,
+          "unit": {
+            "scheme": "SINL-CU",
+            "id": "000000221",
+            "name": "LOTE",
+            "value": {
+              "amount": 383882.7668,
+              "currency": "MXN"
+            },
+            "uri": "http://si.nl.gob.mx/CatalogoUnidades"
+          }
+        }
+      ],
+      "dateSigned": "2016-12-28T18:00:00-06:00",
+      "documents": [
+        {
+          "id": "6565",
+          "documentType": "ND",
+          "title": "ND",
+          "description": "ND",
+          "url": "http://si.nl.gob.mx/Acceso/DatosAbiertos/DocumentosPublicos/CONVOCATORIA-20180521125400.pdf",
+          "datePublished": "2018-03-02T18:00:00-06:00",
+          "dateModified": "1899-12-31T18:00:00-06:00",
+          "format": "application/pdf",
+          "language": "es"
+        },
+        {
+          "id": "6566",
+          "documentType": "ND",
+          "title": "ND",
+          "description": "ND",
+          "url": "http://si.nl.gob.mx/Acceso/DatosAbiertos/DocumentosPublicos/BASES-20180521125409.pdf",
+          "datePublished": "2018-03-02T18:00:00-06:00",
+          "dateModified": "1899-12-31T18:00:00-06:00",
+          "format": "application/pdf",
+          "language": "es"
+        },
+        {
+          "id": "6567",
+          "documentType": "ND",
+          "title": "ND",
+          "description": "ND",
+          "url": "http://si.nl.gob.mx/Acceso/DatosAbiertos/DocumentosPublicos/ANEXOSDELASBASES-20180521125425.zip",
+          "datePublished": "2018-03-02T18:00:00-06:00",
+          "dateModified": "1899-12-31T18:00:00-06:00",
+          "format": "application/zip",
+          "language": "es"
+        },
+        {
+          "id": "6568",
+          "documentType": "ND",
+          "title": "ND",
+          "description": "ND",
+          "url": "http://si.nl.gob.mx/Acceso/DatosAbiertos/DocumentosPublicos/ACTADEVISITAALAOBRA-20180521125450.pdf",
+          "datePublished": "2018-03-02T18:00:00-06:00",
+          "dateModified": "1899-12-31T18:00:00-06:00",
+          "format": "application/pdf",
+          "language": "es"
+        },
+        {
+          "id": "6569",
+          "documentType": "ND",
+          "title": "ND",
+          "description": "ND",
+          "url": "http://si.nl.gob.mx/Acceso/DatosAbiertos/DocumentosPublicos/MINUTAJUNTADEACLARACIONES-20180521125501.pdf",
+          "datePublished": "2018-03-02T18:00:00-06:00",
+          "dateModified": "1899-12-31T18:00:00-06:00",
+          "format": "application/pdf",
+          "language": "es"
+        },
+        {
+          "id": "6570",
+          "documentType": "ND",
+          "title": "ND",
+          "description": "ND",
+          "url": "http://si.nl.gob.mx/Acceso/DatosAbiertos/DocumentosPublicos/Anexosdejuntadeaclaraciones-20180521125517.zip",
+          "datePublished": "2018-03-02T18:00:00-06:00",
+          "dateModified": "1899-12-31T18:00:00-06:00",
+          "format": "application/zip",
+          "language": "es"
+        },
+        {
+          "id": "6571",
+          "documentType": "ND",
+          "title": "ND",
+          "description": "ND",
+          "url": "http://si.nl.gob.mx/Acceso/DatosAbiertos/DocumentosPublicos/ACTADEAPERTURA-20180521125550.pdf",
+          "datePublished": "2018-03-02T18:00:00-06:00",
+          "dateModified": "1899-12-31T18:00:00-06:00",
+          "format": "application/pdf",
+          "language": "es"
+        },
+        {
+          "id": "6574",
+          "documentType": "ND",
+          "title": "ND",
+          "description": "ND",
+          "url": "http://si.nl.gob.mx/Acceso/DatosAbiertos/DocumentosPublicos/ACTADEFALLO-20180521125600.pdf",
+          "datePublished": "2018-03-02T18:00:00-06:00",
+          "dateModified": "1899-12-31T18:00:00-06:00",
+          "format": "application/pdf",
+          "language": "es"
+        },
+        {
+          "id": "6575",
+          "documentType": "ND",
+          "title": "ND",
+          "description": "ND",
+          "url": "http://si.nl.gob.mx/Acceso/DatosAbiertos/DocumentosPublicos/DIFERIMIENTODEFALLO-20180521125611.pdf",
+          "datePublished": "2018-03-02T18:00:00-06:00",
+          "dateModified": "1899-12-31T18:00:00-06:00",
+          "format": "application/pdf",
+          "language": "es"
+        },
+        {
+          "id": "6576",
+          "documentType": "ND",
+          "title": "ND",
+          "description": "ND",
+          "url": "http://si.nl.gob.mx/Acceso/DatosAbiertos/DocumentosPublicos/CONTRATO-20180801104935.pdf",
+          "datePublished": "2018-03-02T18:00:00-06:00",
+          "dateModified": "1899-12-31T18:00:00-06:00",
+          "format": "application/pdf",
+          "language": "es"
+        }
+      ],
+      "implementation": {
+        "transactions": [
+          {
+            "id": "EST-2017-01-172",
+            "date": "2017-01-17T07:52:19.19-06:00",
+            "value": {
+              "amount": 4264162.88,
+              "currency": "MXN"
+            },
+            "payer": {
+              "name": "SFYTGE",
+              "id": "RFC-GEN620601DTA"
+            },
+            "payee": {
+              "name": "JMB CONSTRUCTORES ASOCIADOS, S.A. DE C.V.",
+              "id": "JCA061213CT1"
+            }
+          },
+          {
+            "id": "EST-2017-06-706",
+            "date": "2017-06-12T05:46:13.13-05:00",
+            "value": {
+              "amount": 1176461.42,
+              "currency": "MXN"
+            },
+            "payer": {
+              "name": "SFYTGE",
+              "id": "RFC-GEN620601DTA"
+            },
+            "payee": {
+              "name": "JMB CONSTRUCTORES ASOCIADOS, S.A. DE C.V.",
+              "id": "JCA061213CT1"
+            }
+          },
+          {
+            "id": "EST-2017-06-786",
+            "date": "2017-06-30T06:26:04.04-05:00",
+            "value": {
+              "amount": 445778.14,
+              "currency": "MXN"
+            },
+            "payer": {
+              "name": "SFYTGE",
+              "id": "RFC-GEN620601DTA"
+            },
+            "payee": {
+              "name": "JMB CONSTRUCTORES ASOCIADOS, S.A. DE C.V.",
+              "id": "JCA061213CT1"
+            }
+          },
+          {
+            "id": "EST-2017-07-812",
+            "date": "2017-07-12T07:53:43.43-05:00",
+            "value": {
+              "amount": 305487.21,
+              "currency": "MXN"
+            },
+            "payer": {
+              "name": "SFYTGE",
+              "id": "RFC-GEN620601DTA"
+            },
+            "payee": {
+              "name": "JMB CONSTRUCTORES ASOCIADOS, S.A. DE C.V.",
+              "id": "JCA061213CT1"
+            }
+          },
+          {
+            "id": "EST-2017-07-813",
+            "date": "2017-07-12T08:13:35.35-05:00",
+            "value": {
+              "amount": 55567.32,
+              "currency": "MXN"
+            },
+            "payer": {
+              "name": "SFYTGE",
+              "id": "RFC-GEN620601DTA"
+            },
+            "payee": {
+              "name": "JMB CONSTRUCTORES ASOCIADOS, S.A. DE C.V.",
+              "id": "JCA061213CT1"
+            }
+          }
+        ]
+      },
+      "milestones": []
+    }
+  ],
+  "language": "es"
+}

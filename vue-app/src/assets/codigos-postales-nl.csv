@@ -1,0 +1,4708 @@
+codigo,asentamiento,tipo,clave_tipo,municipio
+64000,Monterrey Centro,Colonia,9,39
+64000,La Finca,Condominio,10,39
+64004,Amway,Gran usuario,22,39
+64007,Secretaría de Hacienda y Crédito Público,Gran usuario,22,39
+64009,Palacio de Gobierno Del Estado de Nuevo León,Gran usuario,22,39
+64010,Obrera,Colonia,9,39
+64018,Nuevo Centro de Monterrey,Equipamiento,17,39
+64018,Desarrollo Urbano Reforma,Unidad habitacional,31,39
+64019,Condominios Constitución,Unidad habitacional,31,39
+64020,Mitras Sur,Colonia,9,39
+64020,Gonzalitos,Colonia,9,39
+64030,Chepevera,Colonia,9,39
+64030,Lomas,Colonia,9,39
+64040,María Luisa,Colonia,9,39
+64040,Deportivo Obispado,Colonia,9,39
+64040,Unidad Aldama,Colonia,9,39
+64049,Exseminario,Colonia,9,39
+64050,Jardines del Cerro,Colonia,9,39
+64050,Jardín,Colonia,9,39
+64060,Obispado,Colonia,9,39
+64070,Mirador,Colonia,9,39
+64100,Barrio Antiguo,Colonia,9,39
+64100,San Bernabé,Colonia,9,39
+64102,Barrio Puerta del Sol,Colonia,9,39
+64102,Barrio Alameda,Fraccionamiento,21,39
+64102,Urbi Villa Bonita,Fraccionamiento,21,39
+64102,Urbi Villa del Cedro Primer Sector,Fraccionamiento,21,39
+64102,Barrio de la Industria,Colonia,9,39
+64102,Mirasol Sector 3 (San Felipe),Barrio,2,39
+64102,Barrio Margaritas,Colonia,9,39
+64102,Privadas de Lincoln,Fraccionamiento,21,39
+64102,Mirasol,Barrio,2,39
+64102,Barrio Aztlán,Colonia,9,39
+64102,Barrio Santa Isabel,Colonia,9,39
+64102,Urbi Villa del Cedro Segundo Sector,Fraccionamiento,21,39
+64102,Las Plazas,Fraccionamiento,21,39
+64102,Barrio Estrella Norte y Sur,Colonia,9,39
+64102,Arcos del Sol Elite,Fraccionamiento,21,39
+64102,Barrio Moderna,Colonia,9,39
+64102,Barrio del Prado,Colonia,9,39
+64102,Barrio San Pedro,Colonia,9,39
+64102,Arcos del Sol,Fraccionamiento,21,39
+64102,Barrio San Carlos,Colonia,9,39
+64102,Barrio Topo Chico,Colonia,9,39
+64102,Barrio Acero,Colonia,9,39
+64102,Barrio Chapultepec Norte,Colonia,9,39
+64102,Jardines del Rey,Fraccionamiento,21,39
+64102,Reserva Cumbres,Fraccionamiento,21,39
+64102,Villas de San Bernabé,Colonia,9,39
+64102,Barrio Chapultepec Sur,Colonia,9,39
+64102,Barrio del Parque,Colonia,9,39
+64102,Barrio San Luis,Colonia,9,39
+64102,Urbi Villa del Rey,Fraccionamiento,21,39
+64102,Las Estaciones,Fraccionamiento,21,39
+64103,Real de San Bernabé,Fraccionamiento,21,39
+64103,Profesor Miguel Ramos Arizpe,Colonia,9,39
+64103,Lorenzo Garza (P-1),Colonia,9,39
+64103,Alfonso Reyes (P-38),Colonia,9,39
+64103,Arboledas de Escobedo (P-44),Colonia,9,39
+64103,Cerradas del Poniente,Fraccionamiento,21,39
+64103,La Alianza Sector D (P-94),Fraccionamiento,21,39
+64103,"La Alianza Sector E (P-47,48)",Fraccionamiento,21,39
+64103,"La Alianza Sector H (P-140,192)",Fraccionamiento,21,39
+64103,La Alianza Sector T (P-24),Fraccionamiento,21,39
+64103,María Leija Briones,Colonia,9,39
+64103,Cuauhtémoc,Colonia,9,39
+64103,José María Morelos,Colonia,9,39
+64103,La Alianza Trazo Mao (P- 46),Colonia,9,39
+64103,Valles de San Bernabé I,Colonia,9,39
+64103,Los Nogales III (P-102),Colonia,9,39
+64103,La Alianza Sector F (P-142),Fraccionamiento,21,39
+64103,Paseo de San Bernabé,Colonia,9,39
+64103,Villas de la Alianza,Colonia,9,39
+64103,Martín de Zavala (P-34),Colonia,9,39
+64103,San Antonio (P-37),Colonia,9,39
+64103,Las Torres,Colonia,9,39
+64103,La Alianza Sector M (P-61),Fraccionamiento,21,39
+64103,La Alianza Sector Q (P-90),Fraccionamiento,21,39
+64103,Homero López Ortiz,Colonia,9,39
+64103,Villas de San Agustín,Colonia,9,39
+64103,Madero,Colonia,9,39
+64103,Santa Ana (P-63),Colonia,9,39
+64103,Valles de San Bernabé III,Colonia,9,39
+64103,"Los Nogales I y II (P-98, 109)",Colonia,9,39
+64103,Arboledas de San Bernabe,Colonia,9,39
+64103,Ampliación Nogales (P-87),Colonia,9,39
+64103,La Alianza Trazo de A (P-28),Colonia,9,39
+64103,Villas de San Sebastián,Colonia,9,39
+64103,La Alianza P-128,Fraccionamiento,21,39
+64103,"San Rodolfo Uno (P-89, 139)",Colonia,9,39
+64103,Ignacio Manuel Altamirano,Colonia,9,39
+64103,Valle de la Esperanza,Fraccionamiento,21,39
+64103,San Gabriel,Colonia,9,39
+64103,Urbi Villa Colonial,Colonia,9,39
+64103,La Alianza Sector B,Fraccionamiento,21,39
+64103,"La Alianza Sector I (P-58,68)",Fraccionamiento,21,39
+64103,"La Alianza Sector J (P-79,137,87)",Fraccionamiento,21,39
+64103,"La Alianza Sector K (P-43,51)",Fraccionamiento,21,39
+64103,La Alianza Sector V (P-68),Fraccionamiento,21,39
+64103,Balcones de San Bernabé,Colonia,9,39
+64103,Villas del Carmen,Colonia,9,39
+64103,La Alianza Sector C,Fraccionamiento,21,39
+64103,San David I (P-33),Colonia,9,39
+64103,Venustiano Carranza Sector la Alianza,Colonia,9,39
+64103,Vicente Suárez,Colonia,9,39
+64103,Portales de San Bernabé,Colonia,9,39
+64103,San Isidro (P-108),Colonia,9,39
+64103,"La Alianza Sector N (P-71,74)",Fraccionamiento,21,39
+64103,Periodistas de México Primera Etapa,Colonia,9,39
+64103,Misión San Bernabé,Colonia,9,39
+64103,La Alianza Trazo Marcelino (P-130),Colonia,9,39
+64103,Periodistas,Colonia,9,39
+64103,Unión Antorchista,Colonia,9,39
+64103,Aniceto Corpus,Colonia,9,39
+64103,"Las Fuentes (P-53, 54, 134)",Colonia,9,39
+64103,Jerónimo Treviño (P-35),Colonia,9,39
+64103,"El Palmar (P-96, 141)",Colonia,9,39
+64103,La Alianza Trazo Rosario (P- 90),Colonia,9,39
+64103,Ingeniero José María Maldonado Tijerina,Colonia,9,39
+64103,La Alianza Sector O (P-67),Fraccionamiento,21,39
+64103,La Alianza Sector R (P-8-9),Fraccionamiento,21,39
+64103,"Los Ángeles (P-49, 50, 133)",Colonia,9,39
+64103,Comercial Lincoln Poniente,Zona industrial,37,39
+64103,Diego de Montemayor,Colonia,9,39
+64103,La Alianza Trazo Marco (P- 52),Colonia,9,39
+64103,"San Pedro (P-72, 76, 736)",Colonia,9,39
+64103,La Alianza Trazo Barrón (P- 93),Colonia,9,39
+64103,Jardines de la Alianza,Colonia,9,39
+64103,La Alianza Sector L (P-107),Fraccionamiento,21,39
+64103,La Alianza Sector P (P-88),Fraccionamiento,21,39
+64103,La Alianza Sector S (P-28),Fraccionamiento,21,39
+64103,Prados San Bernabé,Colonia,9,39
+64104,San Bernabé II (F-120),Colonia,9,39
+64104,San Bernabé IV (F-124),Colonia,9,39
+64104,San Bernabé III,Colonia,9,39
+64105,San Bernabé XI (F-114),Fraccionamiento,21,39
+64105,San Bernabé X (F-113),Colonia,9,39
+64105,San Bernabé XII (F-115),Colonia,9,39
+64105,San Bernabé IX  (F-112),Colonia,9,39
+64106,San Bernabé XV (F-119),Colonia,9,39
+64106,San Bernabé XIV (F-109),Colonia,9,39
+64106,San Bernabé XIII (F-116),Colonia,9,39
+64107,Colina de San Bernabé (F-25),Colonia,9,39
+64108,Plutarco Elías Calles,Colonia,9,39
+64109,San Bernabé (F-51),Colonia,9,39
+64109,San Bernabé (F-105),Colonia,9,39
+64109,3 de Febrero,Colonia,9,39
+64110,Madre Selva,Colonia,9,39
+64110,Misión Lincoln,Fraccionamiento,21,39
+64116,Cumbre Alta,Fraccionamiento,21,39
+64116,Lomas de Cumbres,Colonia,9,39
+64116,Villa Cumbres,Colonia,9,39
+64117,Balcones de las Mitras,Colonia,9,39
+64117,Valle Verde Segundo Sector,Colonia,9,39
+64117,Colinas de Valle Verde,Colonia,9,39
+64118,Paseo de las Mitras,Colonia,9,39
+64119,Fidel Velázquez (SNAT),Colonia,9,39
+64120,Loma Linda,Colonia,9,39
+64130,Lomas de Villa Alegre,Colonia,9,39
+64130,Villa Alegre,Colonia,9,39
+64140,Valle de Santa Lucía (Granja Sanitaria),Colonia,9,39
+64140,Lomas Modelo,Colonia,9,39
+64140,Unidad Modelo,Unidad habitacional,31,39
+64145,Paso del Águila,Colonia,9,39
+64148,Genaro Rojas Vázquez,Colonia,9,39
+64150,Santa Cecilia,Colonia,9,39
+64150,Villa Santa Cecilia,Colonia,9,39
+64150,Álvaro Obregón,Colonia,9,39
+64157,Rincón Santa Cecilia,Colonia,9,39
+64157,Valle Santa Cecilia,Colonia,9,39
+64158,Lomas de Santa Cecilia,Colonia,9,39
+64159,Mitra Dorada,Colonia,9,39
+64159,Cerritos Modelo (F-76),Colonia,9,39
+64159,Lomas Modelo Norte,Colonia,9,39
+64160,Nueva Modelo (F-8),Colonia,9,39
+64160,16 de Septiembre,Colonia,9,39
+64160,Nueva Galicia,Colonia,9,39
+64160,Santa Cruz (F- 10),Colonia,9,39
+64160,Esperanza o Peña Elizondo,Colonia,9,39
+64160,15 de Marzo,Colonia,9,39
+64160,Jardín Modelo,Colonia,9,39
+64165,Residencial Raúl Rangel Frías,Colonia,9,39
+64165,Unión de Fierreros,Colonia,9,39
+64167,Lomas de La Unidad Modelo,Colonia,9,39
+64168,Abelardo Zapata,Colonia,9,39
+64170,Condocasa Mitras,Colonia,9,39
+64170,Felipe Ángeles,Colonia,9,39
+64170,San Francisco de Asís,Colonia,9,39
+64170,Villa Mitras,Colonia,9,39
+64178,Bortoní,Colonia,9,39
+64180,Del Maestro,Colonia,9,39
+64180,Torres Pravia,Fraccionamiento,21,39
+64180,Nueva Morelos,Colonia,9,39
+64180,Privada Cumbres,Condominio,10,39
+64180,Valle Morelos,Colonia,9,39
+64180,Morelos,Colonia,9,39
+64186,5 de Mayo,Colonia,9,39
+64190,Central,Colonia,9,39
+64200,CROC,Unidad habitacional,31,39
+64204,Valle de San Martín (F-24),Colonia,9,39
+64205,Lomas de Topo Chico,Colonia,9,39
+64206,El Porvenir,Colonia,9,39
+64206,Laderas del Topo Chico (F-23),Colonia,9,39
+64208,Conquistadores,Colonia,9,39
+64209,Tierra Propia (F-35),Unidad habitacional,31,39
+64210,7 de Noviembre (F-82),Colonia,9,39
+64210,Dif (F-15),Colonia,9,39
+64210,Articulo 27 (F-96),Colonia,9,39
+64210,Fomerrey,Colonia,9,39
+64210,San Martín,Colonia,9,39
+64215,Libertadores de América,Colonia,9,39
+64215,23 de Marzo,Colonia,9,39
+64215,René Álvarez,Colonia,9,39
+64215,Balcones de Aztlán,Colonia,9,39
+64217,Municipal (Popular Municipal),Unidad habitacional,31,39
+64217,San Bernabé VIII (F-125),Colonia,9,39
+64217,PROVILEON San Bernabé,Colonia,9,39
+64217,Popular,Fraccionamiento,21,39
+64218,Benito Juárez (Tiraderos de Basura),Colonia,9,39
+64218,Municipal Ampliación,Colonia,9,39
+64219,Felipe Zambrano,Colonia,9,39
+64219,Gloria Mendiola (Tierra Propia),Colonia,9,39
+64220,Lomas de San Martín,Colonia,9,39
+64220,1 de Mayo (F-97),Colonia,9,39
+64225,5 de Mayo (F-93),Colonia,9,39
+64226,La Amistad,Colonia,9,39
+64227,Villa San Ángel Topo Chico,Colonia,9,39
+64228,Francisco Villa,Colonia,9,39
+64229,19 de Abril,Colonia,9,39
+64229,Oscar Herrera Hosking,Colonia,9,39
+64230,San Ángel (F-78),Colonia,9,39
+64233,Fray Servando Teresa de Mier (F-6),Colonia,9,39
+64234,18 de Febrero,Colonia,9,39
+64235,Las Pedreras,Colonia,9,39
+64235,Unidad del Pueblo,Unidad habitacional,31,39
+64236,Tierra y Libertad Sector Heróico,Colonia,9,39
+64237,La Esperanza (Tierra Propia),Colonia,9,39
+64237,Fomerrey Sector Poniente,Colonia,9,39
+64238,Predio Zapata,Colonia,9,39
+64240,Los Dorados,Colonia,9,39
+64240,Rafael Buelna,Colonia,9,39
+64240,Moctezuma,Colonia,9,39
+64240,Francisco González Bocanegra,Colonia,9,39
+64240,Mártires de San Cosme,Colonia,9,39
+64240,21 de Marzo 2 Sector,Colonia,9,39
+64244,Tierra y Libertad Sector Sur,Colonia,9,39
+64245,CNOP,Colonia,9,39
+64246,Tierra y Libertad Sector Centro,Colonia,9,39
+64247,Plan de San Luis,Colonia,9,39
+64248,Madero,Colonia,9,39
+64249,Tierra y Libertad Sector Norte,Colonia,9,39
+64249,Unidad Reforma Urbana,Colonia,9,39
+64250,Valle del Topo Chico Sexto Sector,Colonia,9,39
+64250,Ferrocarrilera,Colonia,9,39
+64250,Josefa Ortiz de Domínguez,Colonia,9,39
+64250,Loma Bonita,Colonia,9,39
+64250,Flores Magón 3 Sector,Colonia,9,39
+64250,Pablo González,Colonia,9,39
+64250,Residencial Aztlán,Colonia,9,39
+64250,Unión Benito Garza Cantú,Colonia,9,39
+64258,Carmen Serdán,Colonia,9,39
+64259,Valle del Topo Chico,Colonia,9,39
+64260,Monterrey Conjunto Habitacional,Fraccionamiento,21,39
+64260,Kennedy,Colonia,9,39
+64260,Lomas de Anáhuac,Colonia,9,39
+64260,Constituyentes del 57,Colonia,9,39
+64260,Luis Echeverría (F-75),Colonia,9,39
+64260,Héroe de Nacozari,Colonia,9,39
+64260,Hogares Ferrocarrileros,Colonia,9,39
+64260,Topo Chico,Colonia,9,39
+64260,Nogales Topo Chico,Colonia,9,39
+64260,INFONAVIT Hogares Ferrocarrileros,Colonia,9,39
+64264,La Meseta,Colonia,9,39
+64265,Unión Benito Juárez,Colonia,9,39
+64265,Cándido Díaz,Colonia,9,39
+64265,Ávila Camacho,Colonia,9,39
+64266,Belisario Domínguez,Colonia,9,39
+64266,Nueva Topo Chico,Colonia,9,39
+64268,Unión Cuauhtémoc,Colonia,9,39
+64268,División del Norte,Colonia,9,39
+64268,4 de Diciembre,Colonia,9,39
+64268,Primero de Junio,Colonia,9,39
+64268,10 de Junio,Colonia,9,39
+64269,Lázaro Cárdenas,Colonia,9,39
+64270,Santa Fe Nor Poniente,Colonia,9,39
+64270,Simón Bolívar,Colonia,9,39
+64270,Plaza Insurgentes,Colonia,9,39
+64270,San José,Colonia,9,39
+64280,Narciso Mendoza,Colonia,9,39
+64280,Bernardo Reyes,Fraccionamiento,21,39
+64280,Niño Artillero,Colonia,9,39
+64280,Pueblo Quieto,Colonia,9,39
+64290,Hidalgo,Colonia,9,39
+64290,Regina,Colonia,9,39
+64290,Popular,Colonia,9,39
+64299,Predio Estrella,Colonia,9,39
+64299,Industrial,Zona industrial,37,39
+64299,AKRA,Zona industrial,37,39
+64300,Jardín de las Mitras,Colonia,9,39
+64300,Valle de las Mitras,Colonia,9,39
+64310,Torres Lincoln,Colonia,9,39
+64310,Residencial Abraham Lincoln,Colonia,9,39
+64310,Premier Lincoln,Colonia,9,39
+64310,Industrial Abraham Lincoln,Zona industrial,37,39
+64320,Mitras Norte,Colonia,9,39
+64330,San Jorge,Colonia,9,39
+64330,Francisco García Naranjo (PROVILEON),Colonia,9,39
+64330,Francisco García Naranjo (INDECO),Colonia,9,39
+64339,Valle Verde Tercer Sector,Colonia,9,39
+64340,Cumbres Elite Sector la Hacienda,Colonia,9,39
+64340,Cumbres Elite Sector Villas,Fraccionamiento,21,39
+64340,Privadas de Cumbres,Fraccionamiento,21,39
+64340,Hacienda Mitras,Colonia,9,39
+64340,Cumbres Le Fontaine,Fraccionamiento,21,39
+64344,Pedregal Cumbres,Colonia,9,39
+64345,Cumbre Allegro,Fraccionamiento,21,39
+64345,Cumbres Elite Premier Privadas Alpes y Everest,Fraccionamiento,21,39
+64346,Cumbres Renacimiento,Fraccionamiento,21,39
+64346,Cumbres Rodeo,Fraccionamiento,21,39
+64346,Cumbres Jade,Fraccionamiento,21,39
+64346,Cumbres Providencia,Colonia,9,39
+64346,Cumbres San Ángel,Fraccionamiento,21,39
+64346,Real de Cumbres,Fraccionamiento,21,39
+64346,Privadas Cumbres Diamante,Fraccionamiento,21,39
+64346,Hacienda Santa Clara,Colonia,9,39
+64346,Cima del Bosque,Fraccionamiento,21,39
+64346,Paseo de Cumbres,Fraccionamiento,21,39
+64347,Valle de las Cumbres Primer Sector,Colonia,9,39
+64347,Cumbres Oro Residencial,Colonia,9,39
+64347,Misión Cumbres 2 Sector,Colonia,9,39
+64347,Valle de las Cumbres Segundo Sector,Colonia,9,39
+64347,Cumbres Oro Sector Regency,Colonia,9,39
+64347,Jardines de las Cumbres,Colonia,9,39
+64347,Cumbres Quinta Real,Colonia,9,39
+64348,Mirador de las Mitras,Colonia,9,39
+64348,Misión de las Cumbres,Colonia,9,39
+64348,Portal de Cumbres,Colonia,9,39
+64349,Cumbres Antares,Fraccionamiento,21,39
+64349,Cumbres del Sol,Fraccionamiento,21,39
+64349,Cumbres Madeira,Fraccionamiento,21,39
+64349,Cumbres Elite,Fraccionamiento,21,39
+64349,Puerta de Hierro,Fraccionamiento,21,39
+64349,Privadas Cumbres Elite,Fraccionamiento,21,39
+64349,Cumbres Santa Clara,Fraccionamiento,21,39
+64349,Cumbres San Agustín,Fraccionamiento,21,39
+64349,Cumbres Callejuelas,Fraccionamiento,21,39
+64349,Cumbres las Palmas,Colonia,9,39
+64349,Espacio Cumbres,Fraccionamiento,21,39
+64349,Cerradas de Cumbres,Fraccionamiento,21,39
+64349,Colonial Cumbres,Colonia,9,39
+64349,Cumbres Platinum,Colonia,9,39
+64350,Valle del INFONAVIT,Unidad habitacional,31,39
+64360,Valle Verde Primer Sector,Colonia,9,39
+64360,Villa Dorada,Colonia,9,39
+64360,Cumbres Campanario,Colonia,9,39
+64365,Patronato Cruz Verde,Colonia,9,39
+64366,Condocasas Cumbres,Unidad habitacional,31,39
+64366,Cima de las Cumbres,Colonia,9,39
+64366,Cumbrescondido,Fraccionamiento,21,39
+64367,La Escondida Centro Urbano,Colonia,9,39
+64367,Cumbres Sector la Esperanza,Colonia,9,39
+64367,La Esperanza,Colonia,9,39
+64368,Rincón de las Cumbres,Colonia,9,39
+64369,Valle de los Cedros,Colonia,9,39
+64370,Los Cedros,Colonia,9,39
+64370,Los Altos,Colonia,9,39
+64380,Burócratas Federales,Colonia,9,39
+64380,Burócratas del Estado,Colonia,9,39
+64390,Zapata,Colonia,9,39
+64390,Antonio I Villarreal,Colonia,9,39
+64390,UH.Lázaro Cárdenas,Colonia,9,39
+64400,Estrella,Colonia,9,39
+64410,Del Prado,Colonia,9,39
+64410,Bella Vista,Colonia,9,39
+64420,Garza Nieto,Colonia,9,39
+64420,Benito Juárez,Colonia,9,39
+64420,Pedro Lozano,Colonia,9,39
+64420,Progreso,Colonia,9,39
+64429,Heriberto Jara,Colonia,9,39
+64430,Urdiales,Colonia,9,39
+64440,Industrial,Colonia,9,39
+64440,Ferrocarrilero (Predio 21),Fraccionamiento,21,39
+64442,Cevecería Cuauhtémoc SA,Gran usuario,22,39
+64450,15 de Mayo (Larralde),Colonia,9,39
+64460,Tijerina,Colonia,9,39
+64460,Mitras Centro,Colonia,9,39
+64470,Obrerista,Colonia,9,39
+64480,Talleres,Colonia,9,39
+64488,10 de Marzo,Colonia,9,39
+64489,Rubén Jaramillo,Colonia,9,39
+64490,Sarabia,Colonia,9,39
+64500,Del Norte,Colonia,9,39
+64508,Residencial Vidriera,Colonia,9,39
+64510,Juana de Arco,Colonia,9,39
+64510,Mariano Escobedo,Colonia,9,39
+64510,Coyoacán,Colonia,9,39
+64510,Unión Mariano Escobedo,Colonia,9,39
+64517,Industrial Benito Juárez,Colonia,9,39
+64520,Céntrika Victoria Elite,Fraccionamiento,21,39
+64520,Céntrika del Lago,Fraccionamiento,21,39
+64520,Céntrika Victoria,Fraccionamiento,21,39
+64520,Cementos,Colonia,9,39
+64520,Vidriera,Colonia,9,39
+64520,Victoria,Colonia,9,39
+64520,Céntrika Crisoles,Fraccionamiento,21,39
+64530,Madero Norte,Colonia,9,39
+64530,Las Flores,Colonia,9,39
+64530,Moderna,Colonia,9,39
+64536,Jardines de la Moderna,Colonia,9,39
+64540,Villas de Linda Vista,Colonia,9,39
+64540,Parque Industrial Regiomontano,Zona industrial,37,39
+64540,Santa Fe,Colonia,9,39
+64540,Los Fresnos,Colonia,9,39
+64540,Fontanares Churubusco Sur,Fraccionamiento,21,39
+64549,Industrias del Vidrio,Colonia,9,39
+64550,Asarco,Colonia,9,39
+64550,Tampico,Colonia,9,39
+64550,MartÍnez,Colonia,9,39
+64550,Argentina,Colonia,9,39
+64550,U C Martínez,Colonia,9,39
+64550,Jardines de Churubusco,Colonia,9,39
+64550,Cantú,Colonia,9,39
+64550,Fabriles,Colonia,9,39
+64550,Reforma,Colonia,9,39
+64550,Privada Pinos,Fraccionamiento,21,39
+64560,Nueva Madero,Colonia,9,39
+64560,Venustiano Carranza,Colonia,9,39
+64560,Francisco I Madero,Colonia,9,39
+64568,Almaguer,Colonia,9,39
+64570,Treviño,Colonia,9,39
+64571,Vidriera Monterrey SA,Gran usuario,22,39
+64580,Modelo,Colonia,9,39
+64580,Acero,Colonia,9,39
+64580,Terminal,Colonia,9,39
+64580,Pablo A de la Garza,Colonia,9,39
+64590,Álamos Corregidora,Colonia,9,39
+64590,Fierro,Colonia,9,39
+64590,Agrícola Acero,Colonia,9,39
+64590,Agrícola,Colonia,9,39
+64590,Churubusco,Colonia,9,39
+64600,Leones,Colonia,9,39
+64610,Las Cumbres,Colonia,9,39
+64618,Llave de Oro,Colonia,9,39
+64619,Cumbres Mediterráneo,Fraccionamiento,21,39
+64619,Residencial Cumbres,Fraccionamiento,21,39
+64619,Colinas de las Cumbres,Fraccionamiento,21,39
+64619,Bosques de las Cumbres,Colonia,9,39
+64619,Cumbres Paraíso,Fraccionamiento,21,39
+64620,Vista Hermosa,Colonia,9,39
+64623,Balcones de Galerías,Colonia,9,39
+64630,Colinas de San Jerónimo,Colonia,9,39
+64630,San Jemo,Colonia,9,39
+64632,Jardines de San Jerónimo,Colonia,9,39
+64633,Rincón de las Colinas,Colonia,9,39
+64634,Villas de San Jerónimo,Fraccionamiento,21,39
+64634,Colinas de Liverpool,Colonia,9,39
+64634,Valle de San Jerónimo,Colonia,9,39
+64634,Colonial San Francisco,Colonia,9,39
+64634,Prados de San Jerónimo,Fraccionamiento,21,39
+64634,Colinas de San Jerónimo,Zona comercial,33,39
+64634,Real de San Jerónimo,Colonia,9,39
+64634,Colonial San Jerónimo,Fraccionamiento,21,39
+64634,La Vereda Privada Residencial,Fraccionamiento,21,39
+64634,Lomas de San Jerónimo,Colonia,9,39
+64635,Residencial San Jerónimo II,Colonia,9,39
+64635,Colinas Diamante,Fraccionamiento,21,39
+64636,Misión de San Jerónimo,Colonia,9,39
+64636,Colinas de San Jerónimo Sector Lomas,Colonia,9,39
+64637,Hacienda San Jerónimo,Fraccionamiento,21,39
+64637,Colinas de San Jerónimo Sector Panorama 2 Sector,Colonia,9,39
+64637,Villas de San Jerónimo,Colonia,9,39
+64637,Rincón de San Jerónimo,Colonia,9,39
+64637,Rincón de San Jemo,Colonia,9,39
+64638,Cantera,Fraccionamiento,21,39
+64638,Colinas de San Gerardo,Colonia,9,39
+64638,Las Lajas,Fraccionamiento,21,39
+64638,Balcones de Colinas de San Jerónimo,Colonia,9,39
+64639,San Jemo Tercer Sector,Colonia,9,39
+64639,Residencial Dinastía,Fraccionamiento,21,39
+64639,Monteleón,Fraccionamiento,21,39
+64639,Residencial las Colinas,Colonia,9,39
+64640,San Jerónimo,Colonia,9,39
+64649,Residencial Galerías,Colonia,9,39
+64650,La Escondida,Colonia,9,39
+64650,Rincón de Santa María,Colonia,9,39
+64650,Santa María,Colonia,9,39
+64650,Cumbres del Valle,Fraccionamiento,21,39
+64650,Cooperativa Cuauhtémoc,Colonia,9,39
+64650,Colinas del Valle,Fraccionamiento,21,39
+64659,Sendero San Jerónimo,Colonia,9,39
+64660,Rincón del Valle,Colonia,9,39
+64660,Miravalle,Colonia,9,39
+64700,Roma Sur,Colonia,9,39
+64700,Nuevo Repueblo,Colonia,9,39
+64700,Roma,Colonia,9,39
+64700,Tecnológico,Colonia,9,39
+64710,Pío X,Colonia,9,39
+64710,Hacienda San Francisco,Fraccionamiento,21,39
+64710,El Maguey,Colonia,9,39
+64710,Unión Francisco I Madero,Colonia,9,39
+64710,Loma Larga,Colonia,9,39
+64710,Nuevas Colonias,Colonia,9,39
+64710,Comercial Ampliación Doctores,Zona comercial,33,39
+64710,Balcones del Carmen,Colonia,9,39
+64710,Del Carmen,Colonia,9,39
+64710,Los Doctores,Colonia,9,39
+64710,Lomas de San Francisco,Colonia,9,39
+64715,Los Magueyes,Fraccionamiento,21,39
+64715,Loma Larga,Fraccionamiento,21,39
+64718,Sertoma,Colonia,9,39
+64720,Centro,Fraccionamiento,21,39
+64720,Unión Miguel Barrera,Colonia,9,39
+64720,Independencia,Fraccionamiento,21,39
+64720,Unión de Colonos A Reyes,Colonia,9,39
+64720,Ancira,Colonia,9,39
+64720,Benito Juárez (F-96),Colonia,9,39
+64723,Predio Francisco Zarco,Colonia,9,39
+64723,Unión Luis Echeverría,Colonia,9,39
+64723,Unión J Carlos Camacho,Colonia,9,39
+64723,Unión Francisco Zarco,Colonia,9,39
+64723,Unión Loma Larga,Colonia,9,39
+64730,Tanque de Guadalupe,Colonia,9,39
+64730,América Número Dos,Colonia,9,39
+64730,Arturo B de la Garza,Colonia,9,39
+64730,La Pedrera,Colonia,9,39
+64730,Alfonso Reyes,Colonia,9,39
+64740,Roma Privada,Colonia,9,39
+64740,Jardines Roma,Colonia,9,39
+64740,México,Colonia,9,39
+64740,Arroyo Seco,Colonia,9,39
+64740,Altavista Sur,Colonia,9,39
+64740,Las Retamas,Colonia,9,39
+64750,Luis Echeverría Sur,Colonia,9,39
+64750,Altamira (Manz 20),Colonia,9,39
+64750,Las Canteras,Colonia,9,39
+64750,Haciendas de la Sierra,Fraccionamiento,21,39
+64750,Valle del Mirador,Colonia,9,39
+64750,Altamira,Colonia,9,39
+64753,Privanzas Quinto Sector,Colonia,9,39
+64753,Las Privanzas Mallorca,Colonia,9,39
+64753,Alfareros,Colonia,9,39
+64753,Los Ángeles Bosque Residencial,Fraccionamiento,21,39
+64754,Jardín de las Torres,Colonia,9,39
+64760,Ruíz Cortines,Colonia,9,39
+64760,Cerro de la Campana,Colonia,9,39
+64760,15 de Septiembre,Colonia,9,39
+64760,Unión el Rinconcito,Colonia,9,39
+64760,Desarrollo las Torres 91,Colonia,9,39
+64760,Martínez Domínguez A Unión (La Campana),Colonia,9,39
+64764,Los Rosales,Colonia,9,39
+64764,Valparaíso,Colonia,9,39
+64765,Antigua,Fraccionamiento,21,39
+64765,Laderas del Mirador (F-XXI),Colonia,9,39
+64769,Burócratas Municipales,Colonia,9,39
+64770,Altavista Invernadero,Colonia,9,39
+64770,Villa los Pinos,Colonia,9,39
+64770,Altavista Sector Lomas,Colonia,9,39
+64770,Balcones de Altavista,Colonia,9,39
+64780,Las Brisas,Colonia,9,39
+64780,Mártires de Tlatelolco,Colonia,9,39
+64780,18 de Marzo,Colonia,9,39
+64780,Sierra Ventana,Colonia,9,39
+64780,Brisas Diamante,Colonia,9,39
+64780,Más Palomas (Valle de Santiago),Colonia,9,39
+64780,13 de Junio,Colonia,9,39
+64780,Las Brisas Sector la Punta,Colonia,9,39
+64783,25 de Marzo (Sierra Ventana),Colonia,9,39
+64788,Sierra Ventana (Revolución Proletaria),Colonia,9,39
+64790,Valle de las Brisas,Colonia,9,39
+64790,Torres Brisas,Colonia,9,39
+64790,Balcones del Mirador,Colonia,9,39
+64790,Valle del Marquez,Colonia,9,39
+64798,Paseos del Marquez,Colonia,9,39
+64800,Buenos Aires,Fraccionamiento,21,39
+64800,Buenos Aires,Colonia,9,39
+64810,Residencial la Florida,Colonia,9,39
+64810,Cerro de la Silla,Colonia,9,39
+64810,España,Colonia,9,39
+64810,La Florida,Fraccionamiento,21,39
+64810,Caracol,Colonia,9,39
+64810,Villa Florida,Colonia,9,39
+64810,Plaza Revolución,Condominio,10,39
+64820,Valle del Huajuco,Colonia,9,39
+64820,Ex Hacienda el Ancón,Fraccionamiento,21,39
+64820,Jardín Español,Colonia,9,39
+64820,El Realito,Colonia,9,39
+64820,Residencial la Española,Fraccionamiento,21,39
+64820,Plaza Chapultepec,Zona comercial,33,39
+64820,Ancón del Huajuco,Colonia,9,39
+64820,Nueva Española,Colonia,9,39
+64830,LTH,Colonia,9,39
+64830,La Primavera,Colonia,9,39
+64830,Ladrillera,Colonia,9,39
+64830,Estadio,Colonia,9,39
+64830,Narvarte,Colonia,9,39
+64833,Valle Primavera,Colonia,9,39
+64834,Rincón de la Primavera,Colonia,9,39
+64836,Industrial y Comercial,Zona comercial,33,39
+64840,Altavista,Colonia,9,39
+64840,Nueva España,Colonia,9,39
+64844,Rincón de Altavista,Colonia,9,39
+64845,Contry Lux,Colonia,9,39
+64846,Jardines de Altavista,Colonia,9,39
+64849,Instituto Tecnológico de Estudios Superiores de Monterrey,Gran usuario,22,39
+64850,Villa del Río,Colonia,9,39
+64850,Torremolinos,Colonia,9,39
+64850,Contry Tesoro,Colonia,9,39
+64858,Balcones de Satélite,Fraccionamiento,21,39
+64858,Contry los Naranjos,Colonia,9,39
+64858,Privadas del Río,Fraccionamiento,21,39
+64859,Contry San Juanito,Colonia,9,39
+64860,Colonial la Silla,Colonia,9,39
+64860,El Pirul,Colonia,9,39
+64860,Rincón del Contry,Colonia,9,39
+64860,Jardines del Contry,Colonia,9,39
+64860,Contry los Estanques,Colonia,9,39
+64860,Villas de Lux,Colonia,9,39
+64860,Contry,Colonia,9,39
+64860,Paseo del Contry,Colonia,9,39
+64865,Contry los Nogales,Colonia,9,39
+64878,Unión Canoas Ángel Sur,Colonia,9,39
+64878,Los Remates,Colonia,9,39
+64878,San Ángel,Colonia,9,39
+64880,La Condesa,Colonia,9,39
+64890,Residencial y Club de Golf la Herradura,Fraccionamiento,21,39
+64890,Lagos del Bosque,Colonia,9,39
+64890,Residencial la Hacienda,Colonia,9,39
+64890,Cortijo del Río Tercer y Cuarto Sector,Colonia,9,39
+64890,Villa las Fuentes,Colonia,9,39
+64890,Privadas de la Silla,Colonia,9,39
+64890,Privadas del Sur,Colonia,9,39
+64890,Cortijo del Río,Colonia,9,39
+64890,Estanza,Fraccionamiento,21,39
+64893,Privadas del Pedregal,Colonia,9,39
+64898,Santa Sofia,Colonia,9,39
+64898,Villas de la Hacienda,Colonia,9,39
+64898,Prados de la Silla,Colonia,9,39
+64898,Residencial Vistalta,Fraccionamiento,21,39
+64898,Pedregal de la Silla,Fraccionamiento,21,39
+64899,Cortijo del Río Sector la Silla,Colonia,9,39
+64900,Jardines del Paseo,Colonia,9,39
+64900,Rincón del Paseo Segundo Sector,Colonia,9,39
+64900,La República,Colonia,9,39
+64909,Lomas de Montecristo,Colonia,9,39
+64909,Empleados SFEO,Colonia,9,39
+64910,Mirador Residencial,Fraccionamiento,21,39
+64920,Del Paseo Residencial,Colonia,9,39
+64925,Lomas del Paseo,Colonia,9,39
+64925,Privadas del Paseo,Colonia,9,39
+64925,Renacimiento,Colonia,9,39
+64926,Privada Fundadores,Fraccionamiento,21,39
+64930,Las Torres,Colonia,9,39
+64940,Eduardo A Elizondo,Colonia,9,39
+64949,Villa Sol,Colonia,9,39
+64950,Torres de Satélite,Colonia,9,39
+64950,Mederos,Colonia,9,39
+64960,Ciudad Satélite,Colonia,9,39
+64968,Satélite Acueducto Sexto Sector,Colonia,9,39
+64968,Satélite Miradores,Colonia,9,39
+64968,Colinas del Sur,Colonia,9,39
+64969,Lomas de Satélite,Colonia,9,39
+64969,Contry Sur,Fraccionamiento,21,39
+64970,Campestre Mederos,Colonia,9,39
+64978,Lomas Mederos,Colonia,9,39
+64978,Privada Villa Alta Residencial,Colonia,9,39
+64979,Cañadas del Sur,Colonia,9,39
+64979,Balcones de Mederos,Fraccionamiento,21,39
+64979,Valle de Bosquencinos,Fraccionamiento,21,39
+64979,Rincón Colonial Mederos,Colonia,9,39
+64979,El Encino,Fraccionamiento,21,39
+64979,San Carlos Privada Residencial,Fraccionamiento,21,39
+64979,Bosques de Satélite,Colonia,9,39
+64979,Satélite Acueducto Séptimo Sector,Colonia,9,39
+64979,Residencial Mederos,Colonia,9,39
+64979,Bosquencinos,Fraccionamiento,21,39
+64980,El Pinito,Colonia,9,39
+64980,Manantiales del Diente,Colonia,9,39
+64983,Palmares Residencial,Fraccionamiento,21,39
+64983,La Toscana,Fraccionamiento,21,39
+64983,Rincón del Vergel,Fraccionamiento,21,39
+64983,Antara,Fraccionamiento,21,39
+64983,Ébanos,Fraccionamiento,21,39
+64983,Santa Lucía,Colonia,9,39
+64983,El Refugio,Fraccionamiento,21,39
+64983,Las Estancias,Fraccionamiento,21,39
+64984,San Pablo,Fraccionamiento,21,39
+64984,Villas de la Herradura,Fraccionamiento,21,39
+64984,El Sabino Cerrada Residencial,Fraccionamiento,21,39
+64984,Brisas de Valle Alto,Colonia,9,39
+64984,Canterías Norte,Colonia,9,39
+64984,Ignacio Altamirano,Colonia,9,39
+64984,Villas la Rioja,Fraccionamiento,21,39
+64984,Residencial la Lágrima,Fraccionamiento,21,39
+64984,La Estanzuela Vieja,Colonia,9,39
+64984,Vistancias,Fraccionamiento,21,39
+64984,Misión Canterías,Colonia,9,39
+64984,Cerradas de Valle Alto Residencial,Fraccionamiento,21,39
+64985,Granadas,Fraccionamiento,21,39
+64985,Los Cristales,Colonia,9,39
+64985,La Joya Privada Residencial,Colonia,9,39
+64985,Almendros de Laderas,Fraccionamiento,21,39
+64985,El Uro Oriente,Colonia,9,39
+64985,Laderas Caranday,Fraccionamiento,21,39
+64985,Villa Toledo,Colonia,9,39
+64985,Villa Santa Isabel,Fraccionamiento,21,39
+64985,Villa Murano,Fraccionamiento,21,39
+64986,El Uro,Colonia,9,39
+64986,Privada Residencial Villas del Uro,Colonia,9,39
+64986,Montealbán Residencial,Fraccionamiento,21,39
+64986,Rancho la Bola,Colonia,9,39
+64986,Soria,Fraccionamiento,21,39
+64987,El Encino,Colonia,9,39
+64987,Bosques del Vergel,Fraccionamiento,21,39
+64987,Las Diligencias,Colonia,9,39
+64987,Catujanes,Fraccionamiento,21,39
+64987,Privada la Herradura,Fraccionamiento,21,39
+64987,El Vergel,Colonia,9,39
+64987,Encinos del Vergel,Fraccionamiento,21,39
+64988,El Milagro,Unidad habitacional,31,39
+64988,Colinas del Huajuco,Fraccionamiento,21,39
+64988,Lomas del Vergel,Fraccionamiento,21,39
+64988,Residencial la Escondida,Fraccionamiento,21,39
+64988,Las Callejas Residencial,Fraccionamiento,21,39
+64988,Jardines de la Estanzuela,Colonia,9,39
+64988,Rincón de la Escondida,Fraccionamiento,21,39
+64988,Paraíso Residencial,Colonia,9,39
+64988,El Encanto,Fraccionamiento,21,39
+64988,Privada del Vergel,Fraccionamiento,21,39
+64988,Paseo del Vergel,Fraccionamiento,21,39
+64988,La Estanzuela (F-45),Colonia,9,39
+64988,Misión Silla,Fraccionamiento,21,39
+64988,Ampliación los Nogales,Colonia,9,39
+64988,Residencial de la Sierra,Fraccionamiento,21,39
+64988,Privada Villa Real,Fraccionamiento,21,39
+64988,Estanzuela Nueva,Colonia,9,39
+64988,La Perla,Fraccionamiento,21,39
+64988,La Rioja Privada Residencial,Colonia,9,39
+64988,Encino Real,Fraccionamiento,21,39
+64988,El Encanto II,Fraccionamiento,21,39
+64988,La Alhambra,Fraccionamiento,21,39
+64988,Nogales de la Sierra,Colonia,9,39
+64988,El Fortín del Huajuco,Fraccionamiento,21,39
+64988,Privadas de la Fuente Residencial,Fraccionamiento,21,39
+64988,Bosques de la Silla,Colonia,9,39
+64988,Sierra Escondida,Fraccionamiento,21,39
+64988,Residencial Amura,Fraccionamiento,21,39
+64988,Granja Postal,Colonia,9,39
+64988,Bosques de la Estanzuela,Fraccionamiento,21,39
+64988,Las Riveras,Fraccionamiento,21,39
+64989,Residencial Canterías,Fraccionamiento,21,39
+64989,Rincón de las Montañas,Fraccionamiento,21,39
+64989,Campestre Bugambilias,Colonia,9,39
+64989,Privada Valle Alto,Fraccionamiento,21,39
+64989,San Gabriel,Colonia,9,39
+64989,Bosques de Valle Alto,Fraccionamiento,21,39
+64989,San Michelle,Colonia,9,39
+64989,El Portón de Valle Alto,Fraccionamiento,21,39
+64989,Maestranzas Villas de Providencia,Fraccionamiento,21,39
+64989,Natura,Fraccionamiento,21,39
+64989,Plaza Rincón de la Sierra Alta,Colonia,9,39
+64989,Hacienda los Encinos,Colonia,9,39
+64989,Lomas de Valle Alto,Colonia,9,39
+64989,Real de Valle Alto,Fraccionamiento,21,39
+64989,Pedregal de Valle Alto,Colonia,9,39
+64989,Lagos del Vergel,Colonia,9,39
+64989,Flor de Piedra,Fraccionamiento,21,39
+64989,Rincón de Valle Alto,Colonia,9,39
+64989,Los Milagros de Valle Alto,Fraccionamiento,21,39
+64989,Portal de Valle Alto,Fraccionamiento,21,39
+64989,Portal del Huajuco,Fraccionamiento,21,39
+64989,Villas de Canterías,Fraccionamiento,21,39
+64989,Sierra Alta,Fraccionamiento,21,39
+64989,Balcones de Valle Alto,Colonia,9,39
+64989,Las Jacarandas Privada Residencial,Fraccionamiento,21,39
+64989,Rincón de los Ahuehuetes,Fraccionamiento,21,39
+64989,Hacienda Codornices,Colonia,9,39
+64989,Valle del Vergel,Fraccionamiento,21,39
+64989,Áurea Residencial,Fraccionamiento,21,39
+64989,Rincón de los Encinos,Colonia,9,39
+64989,Lomas del Hípico,Fraccionamiento,21,39
+64990,Antigua Hacienda Santa Anita,Colonia,9,39
+64990,Campestre los Cristales,Fraccionamiento,21,39
+64990,El Mirador,Colonia,9,39
+64990,Campestre Sertoma,Fraccionamiento,21,39
+64990,Las Jaras,Colonia,9,39
+64990,Las Margaritas,Colonia,9,39
+64990,Los Cristales Campestre,Fraccionamiento,21,39
+64990,Canterel,Colonia,9,39
+64990,Santa Isabel,Fraccionamiento,21,39
+64990,Valle de Cristal,Colonia,9,39
+64996,El Edén,Colonia,9,39
+64996,Carolco,Colonia,9,39
+64997,El Barro,Colonia,9,39
+64997,Campestre el Barrio,Fraccionamiento,21,39
+65000,Colombia,Congregación,11,5
+65001,Camarón [Estación],Paraje,45,5
+65004,El Sifón,Colonia,9,5
+65010,San Ignacio (Regantes Número Treinta y Cuatro),Congregación,11,5
+65030,Centro de Anáhuac,Colonia,9,5
+65032,Revolución,Colonia,9,5
+65033,Ampliación Obrera,Colonia,9,5
+65033,Progreso,Colonia,9,5
+65034,Obrera,Colonia,9,5
+65034,Lomas de Anáhuac,Colonia,9,5
+65034,INFONAVIT Fomerrey,Colonia,9,5
+65034,Lázaro Cárdenas,Colonia,9,5
+65036,Granja Experimental,Colonia,9,5
+65040,Anáhuac,Colonia,9,5
+65040,Independencia,Colonia,9,5
+65042,Chapultepec,Colonia,9,5
+65042,Raul Caballero Escamilla,Colonia,9,5
+65042,Estación Rodríguez,Colonia,9,5
+65057,Nuevo Camarón,Ejido,15,5
+65059,Nuevo Rodríguez,Ejido,15,5
+65059,Nuevo Anáhuac,Ejido,15,5
+65070,Lampazos de Naranjo,Pueblo,28,32
+65075,Santa Elena,Ejido,15,32
+65076,Horcones,Ejido,15,32
+65080,El Nogal,Ejido,15,32
+65088,Ranas,Ejido,15,32
+65090,Golondrinas [Estación],Paraje,45,32
+65092,Las Presas,Ejido,15,32
+65100,Mina,Pueblo,28,37
+65105,Los Guerra,Barrio,2,37
+65110,San José de la Popa,Ranchería,29,37
+65115,La Jarita (San José),Rancho,48,37
+65116,California,Rancho,48,37
+65118,Presa de la Mula (Las Presas),Ranchería,29,37
+65140,Espinazo (Espinazo Nuevo León),Pueblo,28,37
+65150,El Pedregal,Fraccionamiento,21,8
+65150,El Valladito,Colonia,9,8
+65150,Bustamante,Pueblo,28,8
+65200,El Aguacate,Barrio,2,44
+65200,Sonora,Barrio,2,44
+65200,Sabinas Hidalgo Centro,Colonia,9,44
+65200,El Dólar,Barrio,2,44
+65210,Pablo Santos,Colonia,9,44
+65220,Primavera,Colonia,9,44
+65220,La Recta,Colonia,9,44
+65220,Las Misiones,Fraccionamiento,21,44
+65220,El Nogalar,Fraccionamiento,21,44
+65220,La Esperanza,Colonia,9,44
+65220,La Noria,Colonia,9,44
+65230,Valle Del Sol,Colonia,9,44
+65230,Mirador,Colonia,9,44
+65230,Real de las Palmas,Colonia,9,44
+65230,Revolución,Colonia,9,44
+65230,Plaza Mirador,Colonia,9,44
+65230,La Campiña,Colonia,9,44
+65230,Martinez Dominguez Alfonso,Colonia,9,44
+65230,Los Ébanos,Colonia,9,44
+65233,Los Chapa,Colonia,9,44
+65234,Niños Héroes,Colonia,9,44
+65234,Hacienda Santa Cruz,Colonia,9,44
+65234,Jardines de la Ermita,Colonia,9,44
+65240,Reyes Eulagio,Colonia,9,44
+65240,Maria Luisa,Colonia,9,44
+65240,Hacienda San Francisco,Colonia,9,44
+65243,Francisco Villa,Colonia,9,44
+65243,El Sendero,Colonia,9,44
+65243,Caballero Escamilla Raul,Colonia,9,44
+65244,Miguel Hidalgo,Colonia,9,44
+65244,González Sáenz Leopoldo,Colonia,9,44
+65249,Sabinas Hidalgo,Zona industrial,37,44
+65250,Los Canteros,Colonia,9,44
+65250,CROC,Colonia,9,44
+65250,La Santa Cruz,Colonia,9,44
+65255,La Turbina,Colonia,9,44
+65256,FOVISSSTE,Colonia,9,44
+65256,Quintana Nora,Colonia,9,44
+65256,Campestre Rivereño,Fraccionamiento,21,44
+65256,Fidel Velázquez,Colonia,9,44
+65257,Hacienda los Morales,Colonia,9,44
+65257,Venustiano Carranza,Colonia,9,44
+65260,Industrial,Colonia,9,44
+65270,Bellavista,Colonia,9,44
+65272,Graciano Bortoni,Colonia,9,44
+65272,Constitución,Colonia,9,44
+65276,San Francisco Javier,Colonia,9,44
+65276,Larraldeña,Colonia,9,44
+65276,Industrial Poniente,Colonia,9,44
+65280,Jose Ma Morelos,Colonia,9,44
+65280,Cárdenas Lázaro,Colonia,9,44
+65288,Benito Juárez,Colonia,9,44
+65288,17 de Septiembre,Colonia,9,44
+65289,Josefa Zozaya,Colonia,9,44
+65290,Enrique Lozano,Colonia,9,44
+65290,Rincón del Sabino,Colonia,9,44
+65299,Lomas Chula,Colonia,9,44
+65300,Garza Ayala,Congregación,11,44
+65302,Carboneras,Hacienda,24,44
+65336,El Ébano,Ejido,15,44
+65340,Sombreretillo,Congregación,11,44
+65347,Paso de Álamos,Ejido,15,44
+65348,Buena Vista,Ejido,15,44
+65350,Villaldama Centro,Colonia,9,51
+65350,Independencia,Barrio,2,51
+65350,Villaldama Estación,Barrio,2,51
+65357,Hacienda Santa Fe,Hacienda,24,51
+65390,El Potrero,Hacienda,24,51
+65395,El Álamo [Estación],Paraje,45,51
+65400,Vallecillo,Pueblo,28,50
+65410,Los Garza,Ranchería,29,50
+65415,San Carlos,Ranchería,29,50
+65419,Aquiles Serdán (El Mateño),Ejido,15,50
+65420,Matatenas,Ejido,15,50
+65429,Los Colorados de Arriba,Ejido,15,50
+65430,Los Colorados de Abajo,Ranchería,29,50
+65436,Fresnillo,Ejido,15,50
+65440,El Álamo (Hacienda el Álamo),Hacienda,24,50
+65449,Palo Alto (Palo Alto y Ayaleño),Hacienda,24,50
+65450,Parás,Pueblo,28,40
+65500,Salinas Victoria,Colonia,9,45
+65500,León A. Flores,Colonia,9,45
+65500,Agrarista,Colonia,9,45
+65500,Los Maestros,Colonia,9,45
+65500,Valle de las Salinas,Fraccionamiento,21,45
+65500,San Isidro,Fraccionamiento,21,45
+65500,Gobernadores,Colonia,9,45
+65500,Valle de Salinas,Colonia,9,45
+65500,Quadro Residencial,Fraccionamiento,21,45
+65500,Paseo del Norte,Colonia,9,45
+65503,Mission,Colonia,9,45
+65503,La Marranera,Ranchería,29,45
+65503,Las Gaviotas,Ranchería,29,45
+65503,Raúl Caballero Escamilla,Colonia,9,45
+65503,San Juan,Ranchería,29,45
+65503,San Isidro,Colonia,9,45
+65503,San Marcos,Ranchería,29,45
+65503,Valle del Mirador,Colonia,9,45
+65503,Las Torres,Colonia,9,45
+65503,Los Ángeles,Colonia,9,45
+65504,Prolongación Juárez (Loma de la Cruz),Ranchería,29,45
+65504,Salinas [Avícola],Granja,23,45
+65504,El Pedregal (Salinas),Ranchería,29,45
+65504,Petrita,Ranchería,29,45
+65505,Brenda,Ranchería,29,45
+65510,Emiliano Zapata,Colonia,9,45
+65510,Ciudad Satelite del Norte,Colonia,9,45
+65513,Carmen Flores,Ejido,15,45
+65513,Don Cesáreo,Ranchería,29,45
+65513,Los Ébanos,Ranchería,29,45
+65513,Los Gutiérrez,Ranchería,29,45
+65513,El Mirador,Ranchería,29,45
+65513,El Porvenir,Ranchería,29,45
+65513,El Cortijo,Ranchería,29,45
+65513,San Pedro,Ranchería,29,45
+65513,Club de Leones,Ranchería,29,45
+65513,Los Pinos,Ranchería,29,45
+65513,Interpuerto Monterrey Etapa 1A,Zona industrial,37,45
+65513,Miguel Mario,Ranchería,29,45
+65513,El Ancón,Ranchería,29,45
+65513,Juanita,Ranchería,29,45
+65513,Casa Linda,Ejido,15,45
+65513,Santa Isabel,Ranchería,29,45
+65513,Don Manuel,Ranchería,29,45
+65513,Los Ponys,Ranchería,29,45
+65513,Camino a los Gutiérrez,Ejido,15,45
+65513,San José (Santa Anita),Ranchería,29,45
+65513,Los Morillos,Ranchería,29,45
+65513,San Benito,Ranchería,29,45
+65513,Cuatro Hermanos,Ranchería,29,45
+65513,Las Lomas (Santa Teresita),Ranchería,29,45
+65513,Lerma [Fundición],Zona industrial,37,45
+65514,Don Roque,Ranchería,29,45
+65514,Quince de Abril,Poblado comunal,27,45
+65514,Rancho del Norte,Ranchería,29,45
+65514,San Francisco,Ranchería,29,45
+65514,Los Cuates,Ranchería,29,45
+65514,El Antonio (Cárdenas),Ranchería,29,45
+65514,El Vergel,Ranchería,29,45
+65514,Azafrán,Ranchería,29,45
+65514,Cuatro de Octubre (Kilómetro Veintidós),Ranchería,29,45
+65514,Los Pinos,Ranchería,29,45
+65514,Veintiocho de Marzo,Ranchería,29,45
+65514,Andrea [Granja Avícola],Ranchería,29,45
+65514,El Doce,Ranchería,29,45
+65514,San José,Ranchería,29,45
+65514,José Calderón,Ranchería,29,45
+65514,Doña Lupita,Ranchería,29,45
+65514,Salinas,Ranchería,29,45
+65514,J. y R.,Ranchería,29,45
+65514,Nicolás Mederes,Ranchería,29,45
+65514,Lázaro Cárdenas,Ejido,15,45
+65514,Los Dos Potrillos,Ranchería,29,45
+65515,Bosques de los Nogales,Fraccionamiento,21,45
+65515,Provincia Real,Fraccionamiento,21,45
+65515,Valle del Norte,Fraccionamiento,21,45
+65515,El Corralito,Ranchería,29,45
+65515,Los Pilares,Fraccionamiento,21,45
+65515,Los Doctores,Ranchería,29,45
+65515,San Miguel,Ranchería,29,45
+65515,Emiliano Zapata (La Zapatita),Colonia,9,45
+65515,Santa Martha,Ranchería,29,45
+65515,Bosques de Castilla,Fraccionamiento,21,45
+65515,Los Fresnos,Ranchería,29,45
+65515,Rex Industrial,Ranchería,29,45
+65515,San Agustín,Ranchería,29,45
+65515,Pilares la Puerta,Fraccionamiento,21,45
+65516,Abel Arriaga,Ranchería,29,45
+65516,Paseo Santa Isabel,Fraccionamiento,21,45
+65516,Cassandra,Ejido,15,45
+65516,Hermanos Dávila,Ranchería,29,45
+65516,Colectivo,Colonia,9,45
+65516,La Palapa (R Cuatro),Ranchería,29,45
+65516,San Nicolás de los Garza,Ranchería,29,45
+65516,Sevilla,Ranchería,29,45
+65516,Valle Castilla Sector Segovia,Colonia,9,45
+65516,Fuentes de Castilla,Fraccionamiento,21,45
+65516,Punta Castilla,Fraccionamiento,21,45
+65517,El Coyote,Ranchería,29,45
+65517,El Leal (Predio Alfonso Martínez Domínguez),Ranchería,29,45
+65517,El Porvenir,Ranchería,29,45
+65517,Comunal Huertas de San Mario,Colonia,9,45
+65520,Santa Elena,Ranchería,29,45
+65520,Rancho de Rubén,Ranchería,29,45
+65520,Los Reyes,Ranchería,29,45
+65520,El Faro [Granja Porcícola],Granja,23,45
+65520,Omega Número Tres (La Esperanza) [Granja Avícola],Granja,23,45
+65520,Punta de la Loma (Rancho el Abuelo),Ranchería,29,45
+65520,Los Arados,Ranchería,29,45
+65520,Los Torres,Ranchería,29,45
+65520,Las Codornices,Ranchería,29,45
+65520,El Encino,Ranchería,29,45
+65520,Colonia Ejidal Mamulique,Colonia,9,45
+65520,Los Temporales,Ranchería,29,45
+65520,Nuevo Mamulique,Colonia,9,45
+65520,Cieneguitas,Ejido,15,45
+65520,Alfaro,Ranchería,29,45
+65520,La Floreña,Ranchería,29,45
+65520,Mamulique,Ranchería,29,45
+65520,Mamulique,Colonia,9,45
+65520,La Joya (Los Burros),Ranchería,29,45
+65520,Colonia del Ejido,Ranchería,29,45
+65520,Mariana,Ranchería,29,45
+65520,Cimarrón Steel [Lavado de Acero],Ranchería,29,45
+65520,Omega Número Dos [Granja Avícola],Granja,23,45
+65520,San Paulo,Ranchería,29,45
+65520,Las Palmas,Ranchería,29,45
+65520,San Bernardo Dos,Ranchería,29,45
+65520,Fernando Hernández (San Bernardo),Ranchería,29,45
+65520,San Sebastián,Ranchería,29,45
+65520,Santo Tomás,Ranchería,29,45
+65520,Omega Número Uno [Granja Avícola],Granja,23,45
+65520,Cieneguitas,Ranchería,29,45
+65523,El Aguaje,Ranchería,29,45
+65523,San Benito (Santa Elena),Ranchería,29,45
+65523,Uña de Gato (Loma Blanca),Ranchería,29,45
+65523,Santa Teresa,Ranchería,29,45
+65523,San José (La Engorda),Ranchería,29,45
+65524,El Terrero,Ranchería,29,45
+65524,El Seis (San Francisco),Ranchería,29,45
+65524,El Dique (El Viejo),Ranchería,29,45
+65524,El Lantrisco,Ranchería,29,45
+65524,El Guaje,Ranchería,29,45
+65524,El Recodo,Ranchería,29,45
+65524,Santa Isabel,Ranchería,29,45
+65525,El Setenta (El Chilarito),Ranchería,29,45
+65525,La Puerta,Ranchería,29,45
+65525,El Veinte (San Joel),Ranchería,29,45
+65525,El Rincón,Finca,20,45
+65525,La Barrosa,Ranchería,29,45
+65525,El Alto,Ranchería,29,45
+65525,La Cuesta,Ranchería,29,45
+65525,El Rincón,Ranchería,29,45
+65525,Teresita (La Puerta),Ranchería,29,45
+65526,La Esperanza [Granja Porcícola],Granja,23,45
+65526,La Leona,Ranchería,29,45
+65526,Pocitos (La Paloma),Ranchería,29,45
+65526,Quiroga [Merendero],Ranchería,29,45
+65526,Los Pozos,Ranchería,29,45
+65526,Pozo Nuevo,Ranchería,29,45
+65527,La Paloma,Ranchería,29,45
+65528,Los Lavaderos,Ranchería,29,45
+65528,El Tule,Ranchería,29,45
+65528,Colonia Agropecuaria el Tule,Colonia,9,45
+65528,Viernes Santo,Ranchería,29,45
+65528,La Victoria (Rancho del Güero),Ranchería,29,45
+65530,Los Villarreales,Hacienda,24,45
+65530,Las Lilas,Ranchería,29,45
+65530,Verdiguel,Ranchería,29,45
+65530,El Chapote,Ranchería,29,45
+65530,Hacienda los Villarreales,Ranchería,29,45
+65530,El Encino,Ranchería,29,45
+65530,Los Guajardo,Ranchería,29,45
+65530,Los Alamitos,Ranchería,29,45
+65530,Valle Alto,Ranchería,29,45
+65530,Hacienda Santa Gertrudis,Hacienda,24,45
+65530,La Agonía (El Hormiguero),Ranchería,29,45
+65530,Rubén Hinojosa (Arroyo la Negra),Ranchería,29,45
+65530,San Gerónimo,Ranchería,29,45
+65530,El Mezquite [Kilómetro Treinta y Tres],Ranchería,29,45
+65530,La Cima (Palos Blancos),Ranchería,29,45
+65530,Dos de Marzo,Ranchería,29,45
+65530,Santa Elena,Ranchería,29,45
+65530,San Juan,Ranchería,29,45
+65530,Salinas,Ranchería,29,45
+65530,Puerto Chico,Ranchería,29,45
+65530,El Detalle,Ranchería,29,45
+65530,Mario Durón (El Rebozo),Ranchería,29,45
+65530,Kilómetro Tres,Ranchería,29,45
+65530,Hofusan Industrial Park,Zona industrial,37,45
+65530,Quiroga,Ranchería,29,45
+65530,Plateritos,Ranchería,29,45
+65530,Santa Teresa,Ranchería,29,45
+65530,Roquín,Ranchería,29,45
+65530,El Ángel (Parcela Ochenta y Tres),Ranchería,29,45
+65530,Los Morales,Hacienda,24,45
+65530,Raymundo Urrutia (Llano Blanco),Ranchería,29,45
+65530,La Cima,Ranchería,29,45
+65530,Artemio y Hernán,Ranchería,29,45
+65530,Los Cantú,Ranchería,29,45
+65530,Santa Elena (Las Encinas),Ranchería,29,45
+65530,Puerto Grande,Ranchería,29,45
+65530,Halcones,Ranchería,29,45
+65530,La Vidriera,Ranchería,29,45
+65530,San Ricardo,Ranchería,29,45
+65530,Casa de Piedra,Ejido,15,45
+65530,La Sultana (Villa Alegre),Ranchería,29,45
+65530,Las Mercedes (Los García),Ranchería,29,45
+65530,Arroyo la Sandía,Ejido,15,45
+65530,Santa Mónica (La Ilusión),Ranchería,29,45
+65533,Cuarenta y Cuatro,Ranchería,29,45
+65533,El Deiby,Ranchería,29,45
+65533,Don Nicolás [Granja Avícola],Granja,23,45
+65533,El Ancón [Granja Avícola],Granja,23,45
+65533,El Refugio,Ranchería,29,45
+65533,La Morita,Ranchería,29,45
+65533,Los Garza,Ranchería,29,45
+65533,Melisa,Ranchería,29,45
+65533,El Lindero,Ranchería,29,45
+65533,El Ciervo,Ranchería,29,45
+65533,Keiko [Granja Avícola],Granja,23,45
+65533,Santa Clara,Ranchería,29,45
+65533,El Atorón,Ranchería,29,45
+65533,El Búfalo,Ranchería,29,45
+65533,El Veintisiete (Las Catarinas),Ranchería,29,45
+65533,San Apolinar,Ranchería,29,45
+65533,El Cenizo,Ranchería,29,45
+65533,San Jorge,Ranchería,29,45
+65533,Rancho Liz (San Juan del Mezquital),Ranchería,29,45
+65533,Valle de Salinas,Ranchería,29,45
+65533,La Victoria [Granja Porcícola],Granja,23,45
+65533,Rancho Nuevo,Poblado comunal,27,45
+65533,San Pedro,Ranchería,29,45
+65533,Dolores (Los Morales),Ranchería,29,45
+65533,Kilómetro 39.9 (La Trinidad),Ranchería,29,45
+65533,El Norteño,Ranchería,29,45
+65533,La Capilla,Ranchería,29,45
+65533,Las Angustias,Ranchería,29,45
+65533,El Papalote,Ranchería,29,45
+65533,Camino a los Villarreales Kilómetro Uno,Ranchería,29,45
+65534,San Juan,Ranchería,29,45
+65534,El Granjeno,Ranchería,29,45
+65534,Primero de Mayo,Ranchería,29,45
+65534,La Copina,Ranchería,29,45
+65534,Mamulique [Estación],Paraje,45,45
+65534,El Cuarenta y Cuatro,Ranchería,29,45
+65534,La Agonía,Ranchería,29,45
+65534,La Anacahuita,Ranchería,29,45
+65534,Rey [Hielo],Finca,20,45
+65534,Ojasé,Ranchería,29,45
+65534,Misión del Norte,Ranchería,29,45
+65534,Los Cuarenta y Cinco,Ranchería,29,45
+65534,El Cóndor [Granja Avícola],Granja,23,45
+65534,Campestre el Palmar,Ranchería,29,45
+65534,La Luz,Finca,20,45
+65535,El Canelo,Ranchería,29,45
+65535,La Rosa,Ranchería,29,45
+65535,Urrutias,Ranchería,29,45
+65535,El Mezquital (San Juan del Mezquital),Ranchería,29,45
+65535,Sagitario (Las Delicias),Ranchería,29,45
+65535,Primero de Junio,Ranchería,29,45
+65535,Las Delicias,Ranchería,29,45
+65535,El Terco,Ranchería,29,45
+65535,La Purísima (Güémez),Ranchería,29,45
+65535,Los Yuguitos,Ranchería,29,45
+65535,San Antonio,Ranchería,29,45
+65535,Dinastía,Ejido,15,45
+65535,San Ramón,Ranchería,29,45
+65535,El Canelo,Finca,20,45
+65536,El Argentino,Ranchería,29,45
+65536,Las Abejas,Finca,20,45
+65536,La Gloria,Finca,20,45
+65536,Santa Eduviges,Ranchería,29,45
+65536,Las Carretas (Rancho Tres),Ranchería,29,45
+65536,El Rebozo,Ranchería,29,45
+65536,San Isidro,Ranchería,29,45
+65536,Santa Ana,Ranchería,29,45
+65536,Veinte de Agosto [Granja Porcícola],Granja,23,45
+65536,La Pista (Las Carretas) [Granja Porcícola],Granja,23,45
+65536,Hacienda Dorada,Finca,20,45
+65536,Rancho Viejo,Ranchería,29,45
+65536,Cuatro de Abril,Ranchería,29,45
+65536,Las Palmas,Ranchería,29,45
+65536,Los Encinos,Ejido,15,45
+65536,Labores Nuevas,Ranchería,29,45
+65536,Siete de Abril,Ranchería,29,45
+65536,Las Abejas,Ranchería,29,45
+65536,Morales [Estación],Paraje,45,45
+65536,Las Carretas,Finca,20,45
+65536,Guadalupe [Lienzo Charro],Ranchería,29,45
+65536,San Martín,Ranchería,29,45
+65536,El Ranchito,Ranchería,29,45
+65536,El Sinaí,Ranchería,29,45
+65536,El Huizache,Ranchería,29,45
+65536,Rancho Nuevo,Ranchería,29,45
+65536,Los Pérez,Ranchería,29,45
+65536,Las Carretas,Ranchería,29,45
+65536,Punta de la Loma,Ranchería,29,45
+65536,Santa Elena,Ranchería,29,45
+65536,La Gloria,Ranchería,29,45
+65536,Tierra Blanca,Ranchería,29,45
+65536,Pedro Silva (Santa Elia),Ranchería,29,45
+65536,Las Carretas,Hacienda,24,45
+65537,Quince de Diciembre (La Vidriera),Ranchería,29,45
+65537,La Estrella,Ranchería,29,45
+65537,Santa Mónica,Ranchería,29,45
+65537,San Ignacio,Ranchería,29,45
+65537,Nueva Salinas,Ranchería,29,45
+65537,Veinte de Febrero,Ranchería,29,45
+65537,Hacienda Arroyo la Negra,Hacienda,24,45
+65537,La Victoria,Ranchería,29,45
+65537,El Cuatro,Ranchería,29,45
+65537,Conchita,Ranchería,29,45
+65537,Gilberto González,Ranchería,29,45
+65537,Unión San Javier,Colonia,9,45
+65537,San Pablo,Ranchería,29,45
+65537,El Milagro,Ranchería,29,45
+65537,El Coyote,Ranchería,29,45
+65543,San Juan Pesquerineño,Ranchería,29,45
+65543,El Mezquite,Ranchería,29,45
+65543,El Roble,Ranchería,29,45
+65543,Gomas y Mendiola (Rancho de Gomas),Ranchería,29,45
+65543,Guadalupe,Ranchería,29,45
+65543,San Roberto,Ranchería,29,45
+65543,El Bambú,Ranchería,29,45
+65543,Los Quiroga,Ranchería,29,45
+65543,San Juan de Guadalupe,Ranchería,29,45
+65543,Cuatro Emilios (La Concepción),Ranchería,29,45
+65543,El Pedregal (El Guajiro),Ranchería,29,45
+65543,La Unión,Ranchería,29,45
+65543,Peñitas,Ranchería,29,45
+65543,Guadalupe,Finca,20,45
+65544,Los Generales,Ranchería,29,45
+65544,El Aguajito,Ranchería,29,45
+65544,El Cortador,Ranchería,29,45
+65544,El Jardín,Ranchería,29,45
+65544,Las Coloradas,Ranchería,29,45
+65544,El Puerto,Ranchería,29,45
+65544,La Rumorosa,Ranchería,29,45
+65544,San Juan (Palo Blanco) [Estación],Paraje,45,45
+65545,El Maguey,Ranchería,29,45
+65545,Milpillas,Ranchería,29,45
+65545,San Manuel,Ranchería,29,45
+65545,Santa Isabel,Ranchería,29,45
+65545,Palo Blanco,Ranchería,29,45
+65545,San Ignacio,Ranchería,29,45
+65545,El Mesón,Ranchería,29,45
+65545,El Colmenar (Los Quiroga),Ranchería,29,45
+65545,La Agüita,Ranchería,29,45
+65546,El Cedro,Ranchería,29,45
+65546,San Raymundo,Ranchería,29,45
+65546,Los Treviño,Ranchería,29,45
+65546,Barranca Blanca,Ranchería,29,45
+65546,Palmeras,Ranchería,29,45
+65546,El Quemado,Ranchería,29,45
+65546,Kilómetro Setenta y Seis,Ranchería,29,45
+65546,San Gregorio,Ranchería,29,45
+65546,Heleno Evelio Quiroga,Ranchería,29,45
+65546,Lampazos,Ranchería,29,45
+65547,El León,Ranchería,29,45
+65547,El Pedernal,Ranchería,29,45
+65547,Arturo Quiroga,Ranchería,29,45
+65547,Los Martínez,Ranchería,29,45
+65547,Las Nueces,Ranchería,29,45
+65547,Doctor Román (Raíces),Ranchería,29,45
+65547,El Nogal,Ranchería,29,45
+65547,Salsipuedes,Ranchería,29,45
+65547,El Sarro,Ranchería,29,45
+65547,Montelongo,Ranchería,29,45
+65547,San Juan,Ranchería,29,45
+65548,Picachos de los Abuelos,Ranchería,29,45
+65548,El Orégano,Ranchería,29,45
+65550,Ciénega de Flores Centro,Colonia,9,12
+65554,Dibsa,Colonia,9,12
+65554,Tía Lencha,Colonia,9,12
+65555,Privada Santa Lucía,Fraccionamiento,21,12
+65555,Real del Sol,Fraccionamiento,21,12
+65555,Campestre Villas del Norte,Fraccionamiento,21,12
+65555,Los Héroes Monterrey,Fraccionamiento,21,12
+65555,Valle del Carrizal,Fraccionamiento,21,12
+65556,Portal de Las Salinas Residencial,Fraccionamiento,21,12
+65556,Villas Campestres,Colonia,9,12
+65558,Conchita Velasco,Colonia,9,12
+65558,Pedregal de Ciénega,Fraccionamiento,21,12
+65558,Lomas de Ciénega,Fraccionamiento,21,12
+65559,Las Américas Parque Industrial,Zona industrial,37,12
+65559,Fraccionamiento Industrial y Comercial Nexxus ADN2,Zona industrial,37,12
+65560,Los Lirios,Colonia,9,12
+65560,Martínez Domínguez,Colonia,9,12
+65560,Valle de las Flores,Colonia,9,12
+65562,Progreso,Colonia,9,12
+65562,Fomerrey 5,Fraccionamiento,21,12
+65563,San Juan,Fraccionamiento,21,12
+65563,Valle de las Lomas,Colonia,9,12
+65563,Valle del Progreso,Colonia,9,12
+65563,Santa Isabel,Fraccionamiento,21,12
+65563,Privadas del Valle,Colonia,9,12
+65563,Emiliano Zapata,Colonia,9,12
+65564,Tierra Propia,Colonia,9,12
+65564,Alianza,Colonia,9,12
+65564,Real Progreso,Colonia,9,12
+65565,Valle de Ciénega,Colonia,9,12
+65567,Hacienda las Flores,Colonia,9,12
+65567,Privadas de Bella Vista,Fraccionamiento,21,12
+65573,Villas de Carrizalejo,Fraccionamiento,21,12
+65573,Los Ruiseñores,Fraccionamiento,21,12
+65580,Parque Industrial Diamante,Zona industrial,37,12
+65580,Portal de las Flores,Fraccionamiento,21,12
+65580,Portal de Alcalá,Fraccionamiento,21,12
+65580,Cerradas de Vendanova,Fraccionamiento,21,12
+65580,Parque Industrial Nexxus ADN,Zona industrial,37,12
+65580,Villas de Alcalá,Fraccionamiento,21,12
+65580,Parque Industrial MG,Zona industrial,37,12
+65580,Paseos del Roble,Fraccionamiento,21,12
+65583,Parque Industrial Multiparque Aeropuerto,Zona industrial,37,12
+65600,Los Angeles,Fraccionamiento,21,47
+65600,Crescenciano Lozano,Colonia,9,47
+65600,Benito Juárez,Colonia,9,47
+65600,Miguel Hidalgo,Colonia,9,47
+65600,Alfonso Hernandez,Colonia,9,47
+65600,Hidalgo Centro,Colonia,9,47
+65600,Cuauhtémoc,Colonia,9,47
+65600,Jose Alatorre Gámez,Colonia,9,47
+65600,Morelos,Colonia,9,47
+65600,San Martin,Colonia,9,47
+65600,Lázaro Cárdenas,Colonia,9,47
+65600,Revolución,Colonia,9,47
+65600,Margarita Maza de Juárez,Colonia,9,47
+65600,San Andres,Colonia,9,47
+65600,Zaragoza,Colonia,9,47
+65650,Lázaro Cárdenas,Colonia,9,1
+65650,Alberto Villarreal,Colonia,9,1
+65650,Voluntad y Trabajo,Colonia,9,1
+65650,Abasolo Centro,Colonia,9,1
+65650,Linda Vista,Colonia,9,1
+65650,El Mirador,Colonia,9,1
+65650,Los Pinos,Colonia,9,1
+65653,Casa Rosa (Los Olivos),Ranchería,29,1
+65653,Seis de Enero (Las Bugambilias),Ranchería,29,1
+65654,Los Diez (La Tripona),Ranchería,29,1
+65660,Cuatro Vientos,Ranchería,29,1
+65660,La Gloria,Ranchería,29,1
+65663,Los Ligeros,Ranchería,29,1
+65700,Higueras,Pueblo,28,28
+65750,Las Arboledas,Fraccionamiento,21,25
+65750,General Zuazua Centro,Colonia,9,25
+65760,Real de Palmas,Fraccionamiento,21,25
+65760,Privadas de Santa Clara,Fraccionamiento,21,25
+65760,Carrizalejo,Colonia,9,25
+65760,Misión de Santa Elena,Fraccionamiento,21,25
+65760,Las Bugambilias,Fraccionamiento,21,25
+65760,Ejido Zuazua,Colonia,9,25
+65760,Pedro Martínez,Colonia,9,25
+65766,Parque Industrial el Nacional II,Zona industrial,37,25
+65776,Valle de Santa Elena,Fraccionamiento,21,25
+65780,Residencial Hacienda San Pedro,Fraccionamiento,21,25
+65780,Portal de Zuazua,Colonia,9,25
+65780,Real San Pedro,Fraccionamiento,21,25
+65780,Portal del Norte,Fraccionamiento,21,25
+65800,Jardín,Colonia,9,2
+65800,Del Norte,Colonia,9,2
+65800,Mira Sierra,Colonia,9,2
+65800,Olivia Olvera,Colonia,9,2
+65800,Agualeguas Centro,Colonia,9,2
+65800,Profesor Jesús M. Lozano Treviño,Fraccionamiento,21,2
+65803,Los Mogotes Tres,Poblado comunal,27,2
+65804,La Gloria,Poblado comunal,27,2
+65805,Santos Valadez (Piedra Parada),Poblado comunal,27,2
+65805,La Retama,Poblado comunal,27,2
+65806,El Texano,Poblado comunal,27,2
+65806,Los Vázquez,Poblado comunal,27,2
+65806,Palo Blanco,Poblado comunal,27,2
+65806,Puerta las Ovejas,Poblado comunal,27,2
+65807,Tío Mario,Ranchería,29,2
+65807,José Luis Mayo,Poblado comunal,27,2
+65807,El Recodo,Poblado comunal,27,2
+65807,San Cristóbal,Poblado comunal,27,2
+65807,El Recuerdo,Poblado comunal,27,2
+65807,San Vicente,Poblado comunal,27,2
+65807,El Roble,Poblado comunal,27,2
+65808,Ojo de Agua,Poblado comunal,27,2
+65808,Chapa Ramos Dos,Rancho,48,2
+65810,Rancho Nuevo,Congregación,11,2
+65810,El Potrero,Poblado comunal,27,2
+65810,Los Elizondo Número Uno,Poblado comunal,27,2
+65810,Los Salazar,Poblado comunal,27,2
+65810,El Derrame,Poblado comunal,27,2
+65813,Ojo de Agua,Ranchería,29,2
+65813,Dermy,Pueblo,28,2
+65813,El Abuelo,Poblado comunal,27,2
+65813,El Maguey,Poblado comunal,27,2
+65813,El Tironeo Uno,Poblado comunal,27,2
+65813,Tres Hermanos,Poblado comunal,27,2
+65814,Los Olmos,Poblado comunal,27,2
+65814,El Nogal,Congregación,11,2
+65815,Cieneguitas,Pueblo,28,2
+65815,El Prieto,Poblado comunal,27,2
+65815,La Purísima,Poblado comunal,27,2
+65819,Los Garza,Congregación,11,2
+65823,Alicia,Rancho,48,2
+65826,La Ponderosa,Poblado comunal,27,2
+65826,El Papalote,Poblado comunal,27,2
+65826,Arroyo las Alazanas [Pedrera],Ranchería,29,2
+65830,Rancho Seco,Ranchería,29,2
+65830,Tío Chonito,Ranchería,29,2
+65830,La Escondida,Congregación,11,2
+65833,San José,Poblado comunal,27,2
+65834,El Corral,Poblado comunal,27,2
+65834,San Andrés (Marín de Porras),Poblado comunal,27,2
+65834,Agua Blanca,Rancho,48,2
+65835,Los Nogales,Congregación,11,2
+65835,Ciriaco González,Poblado comunal,27,2
+65835,La Conchita,Poblado comunal,27,2
+65835,La Pau,Poblado comunal,27,2
+65836,La Barreta,Poblado comunal,27,2
+65836,Los Martínez,Poblado comunal,27,2
+65836,Sagrado Corazón (Los Gutiérrez),Poblado comunal,27,2
+65836,Lagunillas (San José Lagunillas),Pueblo,28,2
+65837,La Rosita,Poblado comunal,27,2
+65837,San Roberto,Poblado comunal,27,2
+65837,San Pedro,Poblado comunal,27,2
+65837,La Atravesada,Poblado comunal,27,2
+65850,General Treviño,Pueblo,28,23
+65850,La Laguna,Colonia,9,23
+65880,San Javier,Congregación,11,23
+65900,Bicentenario,Colonia,9,11
+65900,Ciudad Cerralvo,Pueblo,28,11
+65907,Arroyo de Piedra,Congregación,11,11
+65920,Juárez,Congregación,11,11
+65936,Uña de Gato,Congregación,11,11
+65940,Martinitos,Congregación,11,11
+65950,Melchor Ocampo,Pueblo,28,35
+66000,Los Aljibes,Fraccionamiento,21,18
+66000,Centro Villa de Garcia (Casco),Colonia,9,18
+66003,Mirador de Garcia,Colonia,9,18
+66003,Villas del Álcali,Fraccionamiento,21,18
+66003,Hacienda del Sol,Colonia,9,18
+66003,Los Nogales,Fraccionamiento,21,18
+66003,Praderas de Lincoln,Fraccionamiento,21,18
+66003,Héroes de Capellanía,Fraccionamiento,21,18
+66003,Valle de San Blas,Fraccionamiento,21,18
+66003,Privadas de las Villas,Colonia,9,18
+66003,Privadas de Lincoln,Fraccionamiento,21,18
+66003,Joya de la Corona,Fraccionamiento,21,18
+66003,Paseo de las Minas,Colonia,9,18
+66003,Rincón del Fraile,Fraccionamiento,21,18
+66004,Privalia García,Fraccionamiento,21,18
+66004,Las Haciendas,Fraccionamiento,21,18
+66004,Paseo Del Nogal,Colonia,9,18
+66004,Valle de San Jose,Colonia,9,18
+66004,Las Arboledas,Colonia,9,18
+66004,Villas de los Nogales,Colonia,9,18
+66004,Real de Capellanía,Fraccionamiento,21,18
+66004,Punta Diamante,Fraccionamiento,21,18
+66004,Sierra Real,Colonia,9,18
+66004,Las Villas,Colonia,9,18
+66004,Urbi Villa del Prado,Fraccionamiento,21,18
+66004,Paseo de las Torres,Colonia,9,18
+66005,El Fraile II,Colonia,9,18
+66005,INFONAVIT los Nogales,Colonia,9,18
+66005,Emiliano Zapata,Colonia,9,18
+66005,Fomorrey Sobrevilla,Colonia,9,18
+66005,Morelos,Colonia,9,18
+66005,Fraile I,Colonia,9,18
+66005,San Martin,Colonia,9,18
+66005,Real de Villas de Garcia,Colonia,9,18
+66005,Benito Juárez,Colonia,9,18
+66005,Nuevo Amanecer,Colonia,9,18
+66005,El Cedral,Colonia,9,18
+66006,Mirador del Fraile,Colonia,9,18
+66006,Martín González,Colonia,9,18
+66006,Alfonzo Martinez Dominguez,Colonia,9,18
+66006,Valles del Mirador,Colonia,9,18
+66006,Los Nogales,Colonia,9,18
+66006,Las Bugambilias,Fraccionamiento,21,18
+66006,Balcones de García,Fraccionamiento,21,18
+66006,Colinas Del Rio,Colonia,9,18
+66006,Ampliación los Nogales,Colonia,9,18
+66006,División del Norte,Colonia,9,18
+66007,Avance Popular,Colonia,9,18
+66007,Paseo de Capellanía,Fraccionamiento,21,18
+66007,Riberas de Capellania,Colonia,9,18
+66008,Los Arcángeles,Fraccionamiento,21,18
+66008,Santa Sofía,Fraccionamiento,21,18
+66008,Miguel Hidalgo,Colonia,9,18
+66008,La Cruz,Colonia,9,18
+66008,Hacienda Renacimiento,Fraccionamiento,21,18
+66008,Nuevo Renacimiento,Colonia,9,18
+66008,Popular Jose Páez Garcia,Colonia,9,18
+66008,Valle San Felipe,Colonia,9,18
+66009,Privada Alamedas,Fraccionamiento,21,18
+66009,San Juan Bautista,Colonia,9,18
+66009,Los Encinos Residencial,Fraccionamiento,21,18
+66009,Paseo Alamedas,Fraccionamiento,21,18
+66009,Las Brisas Residencial,Fraccionamiento,21,18
+66012,Residencial Santa Mónica,Fraccionamiento,21,18
+66012,Real de San Félipe,Fraccionamiento,21,18
+66012,Joya del Carrizal Sector Dos,Fraccionamiento,21,18
+66012,Residencial Santa Lucía,Fraccionamiento,21,18
+66012,Residencial Santa Elena,Fraccionamiento,21,18
+66012,Praderas de Torreluna,Fraccionamiento,21,18
+66012,Joya del Carrizal,Fraccionamiento,21,18
+66012,Villanova,Fraccionamiento,21,18
+66012,Villazul,Fraccionamiento,21,18
+66012,Portal de las Sierras,Fraccionamiento,21,18
+66012,Oasis de García,Fraccionamiento,21,18
+66013,Los Héroes Lincoln,Fraccionamiento,21,18
+66013,Real de Lincoln,Fraccionamiento,21,18
+66013,Vista Bella,Fraccionamiento,21,18
+66013,Portal de Lincoln,Fraccionamiento,21,18
+66013,Paseo de Lincoln,Fraccionamiento,21,18
+66014,Alta Villa,Fraccionamiento,21,18
+66017,Parque Industrial POLITEK,Zona industrial,37,18
+66017,Libramiento Arco Vial,Zona industrial,37,18
+66017,Parque Industrial Advance Monterrey,Zona industrial,37,18
+66018,Vista Montaña,Fraccionamiento,21,18
+66020,Unión Emiliano Zapata,Ranchería,29,18
+66023,Veranda Paseo Residencial,Fraccionamiento,21,18
+66023,Valle de Lincoln San José,Fraccionamiento,21,18
+66023,Valle de Lincoln San Agustín,Fraccionamiento,21,18
+66023,Portal del Parque,Fraccionamiento,21,18
+66023,Lomas de García,Colonia,9,18
+66023,Mitras Poniente,Colonia,9,18
+66023,Rancho de Enmedio (Las Mitras),Rancho,48,18
+66023,Mitras Bicentenario,Colonia,9,18
+66023,Paraje de las Grutas,Fraccionamiento,21,18
+66023,Parques Diamante,Fraccionamiento,21,18
+66023,Villas del Poniente,Fraccionamiento,21,18
+66023,Paraje San Francisco,Fraccionamiento,21,18
+66023,Villas de San Martín,Colonia,9,18
+66023,San José,Colonia,9,18
+66023,Misión San Juan,Fraccionamiento,21,18
+66023,Paraje San José,Colonia,9,18
+66023,Los Parques,Colonia,9,18
+66023,Valle de las Grutas,Fraccionamiento,21,18
+66023,Arco Vial,Zona industrial,37,18
+66023,Avante Monterrey Industrial Park,Zona industrial,37,18
+66023,Real de San Martín,Colonia,9,18
+66023,Las Palmas,Colonia,9,18
+66023,Ciudad Industrial Mitras,Colonia,9,18
+66024,Montenova,Fraccionamiento,21,18
+66024,Gran Reserva,Fraccionamiento,21,18
+66024,Lomas Palmeira,Fraccionamiento,21,18
+66024,Lomas del Sur,Fraccionamiento,21,18
+66024,Las Lomas,Fraccionamiento,21,18
+66026,Valle de Lincoln Sector el Fraile,Fraccionamiento,21,18
+66026,Valle de Lincoln,Fraccionamiento,21,18
+66026,Valle de Lincoln Sector Elite,Fraccionamiento,21,18
+66035,Cumbres San Patricio,Fraccionamiento,21,18
+66035,Valle de Cumbres Premier,Fraccionamiento,21,18
+66035,Lomas Quetzales,Fraccionamiento,21,18
+66035,Cumbres Elite Premier,Fraccionamiento,21,18
+66035,Península,Fraccionamiento,21,18
+66035,Valle de Cumbres,Fraccionamiento,21,18
+66036,Rincón de la Sierra,Fraccionamiento,21,18
+66036,Santoral,Fraccionamiento,21,18
+66036,Mirador,Fraccionamiento,21,18
+66036,Murano,Fraccionamiento,21,18
+66036,Cumbres Calzadas,Fraccionamiento,21,18
+66036,Ciudad Cumbres,Fraccionamiento,21,18
+66036,Cumbres la Rioja,Fraccionamiento,21,18
+66036,El Cielo Cumbres,Fraccionamiento,21,18
+66036,Samsara,Fraccionamiento,21,18
+66036,La Montaña,Fraccionamiento,21,18
+66036,Aura Residencial,Fraccionamiento,21,18
+66036,Cumbres Provenza,Fraccionamiento,21,18
+66036,Cumbres Provenza Sector Vento,Fraccionamiento,21,18
+66036,Cumbres Provenza Cerrada Lux,Fraccionamiento,21,18
+66036,Cumbres Andara,Fraccionamiento,21,18
+66036,Cumbres Britania,Fraccionamiento,21,18
+66036,Cumbres Ravello,Fraccionamiento,21,18
+66036,Monticello,Fraccionamiento,21,18
+66036,Cumbres Provenza Sector Terra III,Fraccionamiento,21,18
+66036,Privalia Cumbres,Fraccionamiento,21,18
+66036,Atera Residencial,Fraccionamiento,21,18
+66036,Cumbres Provenza Sector Aqua,Fraccionamiento,21,18
+66036,Cumbres Toscana,Fraccionamiento,21,18
+66036,Cumbres Vernazza,Fraccionamiento,21,18
+66037,Santa María,Fraccionamiento,21,18
+66040,La Cruz,Ranchería,29,18
+66042,Icamole,Pueblo,28,18
+66045,La Soledad,Ejido,15,18
+66046,Rinconada,Hacienda,24,18
+66050,Privadas Diamante,Fraccionamiento,21,21
+66050,Los Elizondo,Colonia,9,21
+66050,Jardines de Escobedo II,Colonia,9,21
+66050,Shalom,Condominio,10,21
+66050,Las Palomas,Fraccionamiento,21,21
+66050,Villa Alta,Fraccionamiento,21,21
+66050,Jardines del Canadá,Colonia,9,21
+66050,Miravista,Colonia,9,21
+66050,La Cuchilla,Colonia,9,21
+66050,Don Lalo,Colonia,9,21
+66050,Guadalupe Victoria,Colonia,9,21
+66050,Rincón de Miravista,Fraccionamiento,21,21
+66050,Del Valle,Colonia,9,21
+66050,Los Saldañas,Colonia,9,21
+66050,Torres Diamante,Condominio,10,21
+66050,Privada San Jorge,Fraccionamiento,21,21
+66050,Las Quintas II,Fraccionamiento,21,21
+66050,Las Quintas III,Colonia,9,21
+66050,Los Eucaliptos,Colonia,9,21
+66050,INFONAVIT Ricardo Flores Magón,Unidad habitacional,31,21
+66050,General Escobedo Centro,Colonia,9,21
+66050,Las Encinas,Colonia,9,21
+66050,Residencial las Quintas,Fraccionamiento,21,21
+66051,Jardines de Escobedo I,Colonia,9,21
+66051,Plaza Sol,Colonia,9,21
+66052,Rio Pesquería Nuevas Puentes,Colonia,9,21
+66052,Balcones del Norte,Colonia,9,21
+66052,Los Altos,Colonia,9,21
+66052,Niños Héroes,Colonia,9,21
+66052,Unión de Alfareros,Colonia,9,21
+66052,Rio Pesquería Poniente,Colonia,9,21
+66052,Los Olivos,Fraccionamiento,21,21
+66052,Puerta de Anáhuac,Colonia,9,21
+66052,Emiliano Zapata,Colonia,9,21
+66052,Fernando Amilpa Predio,Colonia,9,21
+66052,Rio Pesquería,Colonia,9,21
+66052,Ébanos y Nueva Esperanza,Colonia,9,21
+66052,Nueva Castilla,Colonia,9,21
+66052,Sócrates Rizzo Unión de Comerciantes,Colonia,9,21
+66052,Campiñas de Castilla,Colonia,9,21
+66052,Rio Pesquería Norte,Colonia,9,21
+66052,Arboledas de Escobedo,Colonia,9,21
+66052,Desarrollo Industrial GP Tecnocentro,Zona industrial,37,21
+66052,Jardines de la Reina,Colonia,9,21
+66053,Privadas de San José,Fraccionamiento,21,21
+66053,Parque Logístico Puerta del Norte,Zona industrial,37,21
+66053,Los Nogales,Colonia,9,21
+66053,Privadas del Los Sauces,Fraccionamiento,21,21
+66053,Los Girasoles II,Colonia,9,21
+66053,Belisario Domínguez,Colonia,9,21
+66053,Villa Castello,Fraccionamiento,21,21
+66053,San Jose de los Sauces,Colonia,9,21
+66053,Lázaro Cárdenas Agropecuaria Sur,Colonia,9,21
+66053,Centro Industrial IGS Escobedo,Zona industrial,37,21
+66053,VYNMSA Escobedo Industrial Park,Zona industrial,37,21
+66053,Valle de Escobedo,Colonia,9,21
+66053,Rincón de las Encinas,Fraccionamiento,21,21
+66053,Los Arcos,Colonia,9,21
+66053,Chamizal,Colonia,9,21
+66054,La Encomienda,Fraccionamiento,21,21
+66054,Anáhuac la Pergola,Colonia,9,21
+66054,Puerta del Norte Residencial,Fraccionamiento,21,21
+66054,Haciendas del Canada,Colonia,9,21
+66054,Ex-Hacienda el Canadá,Colonia,9,21
+66054,Anáhuac Campoamor,Colonia,9,21
+66054,CPA Logistics Center Escobedo,Zona industrial,37,21
+66055,Valle Nord,Fraccionamiento,21,21
+66055,Roble Nuevo,Colonia,9,21
+66055,Parque Industrial Nexxus XXI,Zona industrial,37,21
+66055,INFONAVIT Topo Grande,Colonia,9,21
+66055,Nexxus Residencial Sector Esmeralda,Fraccionamiento,21,21
+66055,Portal de Escobedo,Fraccionamiento,21,21
+66055,INFONAVIT Insurgentes,Colonia,9,21
+66055,Celestino Gasca,Colonia,9,21
+66055,Nexxus Residencial Sector Rubí,Fraccionamiento,21,21
+66055,Villas Del Parque,Colonia,9,21
+66055,Haciendas de Anáhuac,Colonia,9,21
+66055,Joyas de Anáhuac,Colonia,9,21
+66055,Privadas del Ángel,Fraccionamiento,21,21
+66055,Nexxus Residencial Sector Zafiro,Fraccionamiento,21,21
+66055,Nexxus Residencial Sector Cristal,Colonia,9,21
+66055,Nexxus Residencial Sector Diamante,Colonia,9,21
+66055,INFONAVIT Felipe Carrillo Puerto,Fraccionamiento,21,21
+66055,California Residencial,Fraccionamiento,21,21
+66055,Villas de Escobedo II,Fraccionamiento,21,21
+66055,Nexxus Residencial Sector Platino,Fraccionamiento,21,21
+66055,Residencial Pinos,Colonia,9,21
+66055,Privadas Bougambilias,Colonia,9,21
+66056,Villas de Escobedo,Colonia,9,21
+66056,Lomas de Escobedo,Colonia,9,21
+66056,Los Girasoles I,Colonia,9,21
+66056,Balcones de Anáhuac,Colonia,9,21
+66056,Topo Grande,Colonia,9,21
+66056,Hilario Ayala Predio,Colonia,9,21
+66056,Bosques de Quebéc,Colonia,9,21
+66056,Praderas de Girasoles,Colonia,9,21
+66056,Riberas de Girasoles,Fraccionamiento,21,21
+66056,Valle de Girasoles,Colonia,9,21
+66056,INFONAVIT Monterreal,Colonia,9,21
+66057,Residencial Escobedo,Fraccionamiento,21,21
+66057,Hacienda Escobedo,Fraccionamiento,21,21
+66057,Privada Residencial Aviana,Fraccionamiento,21,21
+66057,Novus Sendero,Fraccionamiento,21,21
+66057,Fuentes de Escobedo,Fraccionamiento,21,21
+66057,Los Rincones Residencial,Fraccionamiento,21,21
+66057,Nuestra Señora de Fátima,Colonia,9,21
+66058,16 de Septiembre,Colonia,9,21
+66058,24 de Febrero,Colonia,9,21
+66058,Dirona Aduana Interior,Zona industrial,37,21
+66058,UCAM,Colonia,9,21
+66058,Jardines de Escobedo III,Colonia,9,21
+66058,Parque Industrial Nexxus Escobedo Center,Zona industrial,37,21
+66058,INFONAVIT Ex-Hacienda el Canadá,Fraccionamiento,21,21
+66058,Solidaridad,Colonia,9,21
+66058,Los Girasoles III,Colonia,9,21
+66058,Las Hadas,Fraccionamiento,21,21
+66058,La Loma,Colonia,9,21
+66058,Ampliación Lázaro Cárdenas,Colonia,9,21
+66058,Anáhuac San Patricio,Fraccionamiento,21,21
+66058,Mártires del 36,Colonia,9,21
+66058,Las Malvinas,Colonia,9,21
+66058,Lázaro Cárdenas,Colonia,9,21
+66058,Praderas de Topo Grande,Colonia,9,21
+66059,Villas de Anáhuac Sector Alpes,Fraccionamiento,21,21
+66059,Privadas de Anáhuac Sector Inglés,Fraccionamiento,21,21
+66059,Hacienda los Cantú,Fraccionamiento,21,21
+66059,Misión de Anáhuac,Fraccionamiento,21,21
+66059,Quintas de Anáhuac,Fraccionamiento,21,21
+66059,Cerradas de Anáhuac Sector Premier,Fraccionamiento,21,21
+66059,Paraje Anáhuac,Fraccionamiento,21,21
+66059,Anáhuac Madeira,Fraccionamiento,21,21
+66059,Privadas de Anáhuac Sector Mediterráneo,Fraccionamiento,21,21
+66059,Privadas de Anáhuac Sector Español,Fraccionamiento,21,21
+66059,Calzadas Anáhuac,Fraccionamiento,21,21
+66059,Cerradas de Anáhuac Sector Contemporáneo,Fraccionamiento,21,21
+66059,Privadas de Anáhuac Sector Niza,Fraccionamiento,21,21
+66059,Privadas de Anáhuac Sector Himalaya,Fraccionamiento,21,21
+66059,Privadas de Lindora,Colonia,9,21
+66059,Valle del Canadá,Colonia,9,21
+66059,La Cantera Privada Residencial,Fraccionamiento,21,21
+66059,Privadas de Anáhuac Sector Irlandes,Colonia,9,21
+66059,Privadas de Anáhuac Sector Tíbet,Fraccionamiento,21,21
+66059,El Centenario,Colonia,9,21
+66059,Cerradas de Anáhuac,Fraccionamiento,21,21
+66059,Privadas de Anáhuac Sector Francés,Fraccionamiento,21,21
+66059,Privadas del Canada,Fraccionamiento,21,21
+66059,Nexxus Residencial Sector Dorado,Colonia,9,21
+66059,Villas de Anáhuac,Fraccionamiento,21,21
+66061,Jardines de San Martín,Colonia,9,21
+66061,Pedregal de Escobedo,Fraccionamiento,21,21
+66061,Pedregal del Topo Chico (Fomerrey 52),Colonia,9,21
+66061,San Martin,Colonia,9,21
+66062,La Isla,Colonia,9,21
+66062,Gloria Mendiola,Colonia,9,21
+66062,Villas de San Francisco,Fraccionamiento,21,21
+66062,Parque Industrial Periférico,Zona industrial,37,21
+66062,Parque Industrial Escobedo,Zona industrial,37,21
+66062,Hacienda la Providencia,Fraccionamiento,21,21
+66062,Valle de San Miguel Residencial,Fraccionamiento,21,21
+66062,Las Villas,Fraccionamiento,21,21
+66062,Paso Cucharas,Colonia,9,21
+66063,5 de Mayo,Colonia,9,21
+66063,19 de Julio,Colonia,9,21
+66063,San Isidro,Colonia,9,21
+66063,Balcones del Río,Colonia,9,21
+66064,Nueva Esperanza (Fomerrey 193),Colonia,9,21
+66064,La Concordia,Fraccionamiento,21,21
+66064,Valle de San Francisco,Fraccionamiento,21,21
+66064,18 de Octubre,Colonia,9,21
+66064,Ciudad San Marcos Sector Pionero,Fraccionamiento,21,21
+66064,Vida,Colonia,9,21
+66064,Ciudad San Marcos,Fraccionamiento,21,21
+66064,La Unidad (Fomerrey),Unidad habitacional,31,21
+66064,Los Vergeles,Fraccionamiento,21,21
+66064,Privadas de Camino Real,Colonia,9,21
+66064,Nuevo Escobedo,Colonia,9,21
+66064,Las Flores,Fraccionamiento,21,21
+66064,Villas de San Martín,Colonia,9,21
+66064,San Marcos,Fraccionamiento,21,21
+66064,Santa Martha (Fomerrey 191),Colonia,9,21
+66064,Portal del Fraile,Fraccionamiento,21,21
+66064,Riveras de los Naranjos,Colonia,9,21
+66065,Colinas de Topo Chico (Fomerrey 49),Colonia,9,21
+66065,La Ilusión,Colonia,9,21
+66065,Santa Lucía (Fomerrey 154),Colonia,9,21
+66065,Serranías,Fraccionamiento,21,21
+66065,Laderas de Topo Chico,Colonia,9,21
+66065,Eulalio Villarreal Ayala,Colonia,9,21
+66067,Arcos del Sol,Colonia,9,21
+66068,Pedregal de San Agustín,Fraccionamiento,21,21
+66068,Rincón de San Patricio,Fraccionamiento,21,21
+66068,Los Alebrijes,Fraccionamiento,21,21
+66070,Santaluz,Colonia,9,21
+66070,Monte Horeb,Colonia,9,21
+66070,Lomas de San Genaro,Colonia,9,21
+66070,Puerta del Sol,Fraccionamiento,21,21
+66070,Provileon,Colonia,9,21
+66070,Villas Mirasur,Fraccionamiento,21,21
+66070,Brianzzas Residencial Segundo Sector,Fraccionamiento,21,21
+66070,Villa de los Ayala,Colonia,9,21
+66072,Brianzzas Residencial,Fraccionamiento,21,21
+66072,Hacienda los Vergeles,Fraccionamiento,21,21
+66072,Bosques de Escobedo,Colonia,9,21
+66072,Progreso Paso Cucharas,Colonia,9,21
+66072,Hacienda del Topo,Colonia,9,21
+66072,Hacienda los Ayala,Colonia,9,21
+66072,Paseo Real,Fraccionamiento,21,21
+66072,Renacimiento,Fraccionamiento,21,21
+66072,Mirasur II,Fraccionamiento,21,21
+66072,Quinto Centenario,Colonia,9,21
+66072,Cortijo los Ayala,Fraccionamiento,21,21
+66072,Mirador del Valle,Fraccionamiento,21,21
+66072,La Providencia,Fraccionamiento,21,21
+66073,INFONAVIT San Genaro,Colonia,9,21
+66073,Solidaridad Social (Fomerrey 9),Colonia,9,21
+66073,Colinas de Anáhuac,Fraccionamiento,21,21
+66073,Santa Julia,Fraccionamiento,21,21
+66073,Lomas de Aztlán (Fomerrey 153),Colonia,9,21
+66073,Las Lomas,Fraccionamiento,21,21
+66073,Adelitas de Villa,Colonia,9,21
+66073,Los Girasoles IV,Colonia,9,21
+66074,Mirasur,Fraccionamiento,21,21
+66075,Raúl Caballero (Fomerrey 36),Colonia,9,21
+66080,Parque Industrial GP Escobedo SIC,Zona industrial,37,21
+66080,Andrés Caballero Moreno Agropecuaria,Colonia,9,21
+66083,VYNMSA Escobedo Industrial Park II,Zona industrial,37,21
+66083,Navistar,Zona industrial,37,21
+66083,Zona Industrial,Zona industrial,37,21
+66084,Alianza Real,Colonia,9,21
+66084,Palmiras,Fraccionamiento,21,21
+66084,Laderas de San Miguel,Fraccionamiento,21,21
+66084,Unión Agropecuarios Lázaro Cárdenas del Norte,Colonia,9,21
+66084,Portal de San Francisco,Fraccionamiento,21,21
+66084,San Miguel del Parque,Fraccionamiento,21,21
+66084,Puerta del Sol,Colonia,9,21
+66084,Privadas de Camino Real II,Fraccionamiento,21,21
+66085,San Miguel de los Garza (La Luz),Colonia,9,21
+66085,Vistas del Parque,Fraccionamiento,21,21
+66085,Monclova Segundo Sector,Colonia,9,21
+66085,San Miguel de los Garza,Colonia,9,21
+66085,Portal de Piedra,Colonia,9,21
+66085,Valle de San Miguel,Colonia,9,21
+66085,Praderas de San Francisco,Fraccionamiento,21,21
+66085,Monclova Primer Sector,Colonia,9,21
+66100,Privada Antigua,Colonia,9,48
+66100,La Fama,Colonia,9,48
+66100,Privada La Bolita,Colonia,9,48
+66100,Privada Acueducto,Colonia,9,48
+66110,Cimas del Poniente,Colonia,9,48
+66114,Cima de las Mitras,Colonia,9,48
+66114,Cerro de las Mitras,Colonia,9,48
+66115,Jardín de las Mitras,Colonia,9,48
+66116,Fama V,Colonia,9,48
+66116,Fama II,Colonia,9,48
+66116,Fama IV,Fraccionamiento,21,48
+66117,La Fama 1,Colonia,9,48
+66118,Eugenio Canavati CTM,Colonia,9,48
+66118,Fama III,Colonia,9,48
+66119,Lomas de La Fama,Colonia,9,48
+66119,Lomas Del Mirador,Colonia,9,48
+66119,Arboledas de las Mitras,Colonia,9,48
+66120,Los Portales,Colonia,9,48
+66120,San Humberto,Colonia,9,48
+66120,Balcones de San Humberto,Colonia,9,48
+66120,Villas de San Humberto,Colonia,9,48
+66120,Villas los Portales,Colonia,9,48
+66129,Cooperativa la Unión,Colonia,9,48
+66129,Prados de San Jorge,Colonia,9,48
+66129,Provivienda del Poniente Sector Dos,Colonia,9,48
+66129,Vertice,Fraccionamiento,21,48
+66129,Privadas del Poniente,Fraccionamiento,21,48
+66129,Altica,Fraccionamiento,21,48
+66129,Provivienda del Poniente Sector Uno,Colonia,9,48
+66129,Provivienda del Poniente Sector Tres,Colonia,9,48
+66129,La Ermita,Colonia,9,48
+66139,Rincón de las Mitras (Fomerrey 2),Colonia,9,48
+66140,Jose Lopez Portillo,Colonia,9,48
+66145,Hacienda los Portales,Colonia,9,48
+66147,Santa Magdalena,Colonia,9,48
+66149,Trabajadores,Colonia,9,48
+66150,Parques la Fama,Colonia,9,48
+66150,Privada Treviño,Colonia,9,48
+66150,Las Vivenzias,Fraccionamiento,21,48
+66150,Los Treviño,Colonia,9,48
+66160,Benito Juárez,Colonia,9,48
+66165,Privadas Ondara,Fraccionamiento,21,48
+66165,Valle de La Sierra,Colonia,9,48
+66165,Jardines de La Fama,Colonia,9,48
+66166,Campania,Colonia,9,48
+66167,La Española,Colonia,9,48
+66168,La Concordia,Conjunto habitacional,12,48
+66169,Efimex,Colonia,9,48
+66170,Protexa,Colonia,9,48
+66179,Montenegro,Colonia,9,48
+66180,Jesús M Garza,Colonia,9,48
+66187,Las Palmas,Colonia,9,48
+66188,Las Almenas,Fraccionamiento,21,48
+66188,Las Fincas,Fraccionamiento,21,48
+66188,La Fraternidad,Colonia,9,48
+66188,Residencial Olinca,Fraccionamiento,21,48
+66188,Las Fincas II,Fraccionamiento,21,48
+66188,Cantizal,Fraccionamiento,21,48
+66189,La Barrica,Colonia,9,48
+66190,San Isidro,Colonia,9,48
+66195,Nueva Fortaleza,Colonia,9,48
+66196,Los Cenizos,Fraccionamiento,21,48
+66196,Residencial Cordillera,Fraccionamiento,21,48
+66196,Valle Poniente Sector Olinca,Fraccionamiento,21,48
+66196,La Banda,Colonia,9,48
+66196,Vía Cordillera,Fraccionamiento,21,48
+66196,Miguel Hidalgo,Colonia,9,48
+66197,El Aguacatal,Colonia,9,48
+66197,Loma Blanca,Colonia,9,48
+66197,Huasteca Real,Colonia,9,48
+66197,Las Montañas,Colonia,9,48
+66198,La Fortaleza,Colonia,9,48
+66199,Idelfonso Vázquez,Colonia,9,48
+66200,San Pedro Garza Garcia Centro,Colonia,9,19
+66200,Los Encinos,Colonia,9,19
+66210,San Pedro 400,Colonia,9,19
+66214,Villa del Obispo,Colonia,9,19
+66215,San Pedro,Unidad habitacional,31,19
+66216,Vista Montaña,Colonia,9,19
+66216,Zona Clouhtier,Colonia,9,19
+66216,El Obispo,Colonia,9,19
+66217,Plan de Ayala,Colonia,9,19
+66217,Zona Industrial,Zona industrial,37,19
+66218,Echeverría,Colonia,9,19
+66218,Lucio Blanco 1er Sector,Colonia,9,19
+66218,Valle del Seminario,Fraccionamiento,21,19
+66218,Lucio Blanco 2do Sector,Colonia,9,19
+66219,Revolución,Colonia,9,19
+66219,Zona Revolución,Colonia,9,19
+66220,Del Valle,Colonia,9,19
+66220,Jardines Del Valle,Colonia,9,19
+66224,Fuentes del Valle Sector Colinas,Colonia,9,19
+66224,Residencial Santa Barbara la Cripta,Residencial,30,19
+66224,Fuentes del David,Colonia,9,19
+66224,Fuentes del Valle,Colonia,9,19
+66224,Zona Fuentes del Valle,Colonia,9,19
+66224,Zona los Sabinos,Colonia,9,19
+66224,Zona Santa Bárbara Poniente,Colonia,9,19
+66225,Zona del Valle,Colonia,9,19
+66225,La Joya,Colonia,9,19
+66226,Bugambilias,Conjunto habitacional,12,19
+66226,Valle Del Mezquite,Colonia,9,19
+66227,Los Olivos,Colonia,9,19
+66227,San Francisco,Colonia,9,19
+66227,Las Capillas,Colonia,9,19
+66228,Residencial San Carlos,Colonia,9,19
+66228,Zona de Los Callejones,Colonia,9,19
+66230,La Cima,Colonia,9,19
+66230,Privada Versalles,Fraccionamiento,21,19
+66230,La Toscana,Fraccionamiento,21,19
+66230,La Ventana,Colonia,9,19
+66230,San Pedro,Colonia,9,19
+66230,Zona Rosario,Colonia,9,19
+66230,Villa Campanario,Colonia,9,19
+66230,Zona Palo Blanco,Colonia,9,19
+66230,Zona la Cima,Colonia,9,19
+66230,San Gabriel,Colonia,9,19
+66230,Jardines Coloniales,Colonia,9,19
+66230,Las Codornices,Fraccionamiento,21,19
+66230,Rincón Colonial,Colonia,9,19
+66230,Las Uvas,Colonia,9,19
+66230,Prados de La Sierra,Colonia,9,19
+66230,La Finca,Colonia,9,19
+66230,Misión Del Valle,Fraccionamiento,21,19
+66230,Zona Hacienda San Francisco,Colonia,9,19
+66230,Las Verandas,Colonia,9,19
+66230,Morelos,Conjunto habitacional,12,19
+66230,Codornices Aldama,Colonia,9,19
+66230,La Cúspide,Colonia,9,19
+66230,Residencial Los Cubos,Colonia,9,19
+66230,San José,Colonia,9,19
+66233,Zona Valle Poniente,Colonia,9,19
+66233,Las Sendas Galicias,Colonia,9,19
+66233,Misión del Valle 3,Fraccionamiento,21,19
+66233,Santa Elena,Colonia,9,19
+66235,Los Olmos,Fraccionamiento,21,19
+66235,Villa Montaña,Colonia,9,19
+66236,Palo Blanco,Colonia,9,19
+66236,Villas de Santa Bárbara,Colonia,9,19
+66236,Residencial Palo Blanco,Colonia,9,19
+66236,Palo Blanco Sector El Edén,Colonia,9,19
+66236,Jardines de Mirasierra,Colonia,9,19
+66237,Los Sauces 1er Sector,Colonia,9,19
+66237,Los Sauces 2 Sector,Colonia,9,19
+66238,Zona los Sauces,Colonia,9,19
+66238,Jesús M Garza,Colonia,9,19
+66238,Lázaro Garza Ayala,Colonia,9,19
+66238,Zona Mirador Vazconcelos,Colonia,9,19
+66238,Rincón de San Francisco,Colonia,9,19
+66238,Valle de Vasconcelos,Colonia,9,19
+66238,Mirador de Vasconcelos,Colonia,9,19
+66238,Lindavista,Colonia,9,19
+66238,Lucio Blanco 3er Sector,Colonia,9,19
+66239,Los Pinos,Colonia,9,19
+66239,Residencial las Amapas,Fraccionamiento,21,19
+66239,Rincón de Corregidora,Colonia,9,19
+66239,Nemesio Garcia Naranjo,Colonia,9,19
+66239,Volkswagen,Colonia,9,19
+66239,Hacienda de los Callejones,Colonia,9,19
+66240,Olímpico,Colonia,9,19
+66240,Zona Mirasierra,Colonia,9,19
+66240,La Barranca,Colonia,9,19
+66240,Mirasierra,Colonia,9,19
+66240,Pro Vivienda Popular,Colonia,9,19
+66240,Privada San Andrés,Fraccionamiento,21,19
+66240,Zona Valle del Mezquite,Colonia,9,19
+66240,Rincón de la Montaña,Colonia,9,19
+66240,La Montaña,Colonia,9,19
+66240,Lomas de Tampiquito,Colonia,9,19
+66240,Tampiquito,Colonia,9,19
+66244,Los Fresnos,Colonia,9,19
+66244,Lomas Valle Sector Convento,Colonia,9,19
+66244,Privada 20 de Noviembre,Fraccionamiento,21,19
+66244,Lomas del Bosque,Colonia,9,19
+66244,Capistrano,Colonia,9,19
+66245,Barranca Del Pedregal,Colonia,9,19
+66246,Hacienda Del Valle,Colonia,9,19
+66247,Hacienda El Rosario,Colonia,9,19
+66247,Mansión Del Rosario,Colonia,9,19
+66247,Hacienda las Campanas,Colonia,9,19
+66247,La Parvada Angelitos,Colonia,9,19
+66249,Villas de Terrasol,Colonia,9,19
+66249,Moralillo,Colonia,9,19
+66249,Cerrada Moralillo,Colonia,9,19
+66250,Bosques del Valle,Colonia,9,19
+66250,Valle de Chipinque,Colonia,9,19
+66250,Fátima,Colonia,9,19
+66250,Zona Privada Río Tamazunchale,Colonia,9,19
+66250,Jerónimo Siller,Colonia,9,19
+66250,Zona Jerónimo Siller,Colonia,9,19
+66250,Privada Sierra Madre,Colonia,9,19
+66250,Privada Río Ebro,Fraccionamiento,21,19
+66254,Carrizalejo,Colonia,9,19
+66256,Lomas Del Valle,Colonia,9,19
+66257,Del Valle Sector Fátima,Colonia,9,19
+66257,Zona Fátima,Colonia,9,19
+66259,Gómez Morin,Zona comercial,33,19
+66259,Cortijo Del Valle,Colonia,9,19
+66259,Rincón de Carrizalejo,Colonia,9,19
+66259,Zona Carrizalejo,Colonia,9,19
+66259,Zona Antigua Exhacienda Carrizalejo,Colonia,9,19
+66259,La Cañada,Colonia,9,19
+66259,Zona la Alianza,Colonia,9,19
+66260,Residencial San Agustin 1 Sector,Colonia,9,19
+66260,Hacienda de La Sierra,Colonia,9,19
+66260,Residencial San Agustín 2 Sector,Residencial,30,19
+66260,Ampliación Canteras,Colonia,9,19
+66260,Jardines de Campestre,Colonia,9,19
+66260,San Mateo,Residencial,30,19
+66260,Del Valle Oriente,Colonia,9,19
+66260,Portal de Santa Engracia,Colonia,9,19
+66260,Zona San Agustín,Colonia,9,19
+66260,Ampliación Valle del Mirador,Ampliación,38,19
+66260,Corporativo Proser,Colonia,9,19
+66260,Residencial Canteras,Residencial,30,19
+66263,Zona Campestre,Colonia,9,19
+66263,Zona Santa Engracia,Colonia,9,19
+66265,Valle Del Campestre,Colonia,9,19
+66265,Zona la Diana,Colonia,9,19
+66266,Los Arcángeles,Residencial,30,19
+66266,La Diana,Fraccionamiento,21,19
+66266,Cojunto Habitacional Renzo,Conjunto habitacional,12,19
+66266,Villas de San Agustin,Colonia,9,19
+66266,Vista Real,Fraccionamiento,21,19
+66266,Mirador Del Campestre,Fraccionamiento,21,19
+66266,Zona Loma Larga Oriente,Colonia,9,19
+66266,Verona,Colonia,9,19
+66266,Zona Loma Blanca Poniente,Colonia,9,19
+66266,Residencial Santa Bárbara,Colonia,9,19
+66266,La Admiranza,Colonia,9,19
+66266,Residencial Frida Kahalo,Residencial,30,19
+66266,Zona Valle Oriente Norte,Colonia,9,19
+66267,Santa Engracia,Colonia,9,19
+66268,Del Valle Sect Norte,Colonia,9,19
+66268,Privada Santa Engracia,Colonia,9,19
+66268,Zona Valle Santa Engracia,Colonia,9,19
+66268,Valle de Santa Engracia,Colonia,9,19
+66268,Villas de Santa Engracia,Colonia,9,19
+66270,Veredalta,Colonia,9,19
+66270,Misión San Patricio,Colonia,9,19
+66270,San Patricio,Fraccionamiento,21,19
+66270,Los Colorines,Fraccionamiento,21,19
+66270,Colinas de San Agustin,Colonia,9,19
+66270,San Agustin Campestre,Colonia,9,19
+66270,Residencial Galeana,Residencial,30,19
+66270,Zona Tampiquito,Colonia,9,19
+66270,Privada Veredalta,Fraccionamiento,21,19
+66270,Zona Lomas de San Agustín,Colonia,9,19
+66273,Villas de Aragón,Colonia,9,19
+66273,Privada Gruta,Fraccionamiento,21,19
+66273,Zona Montebello,Colonia,9,19
+66273,Corporativo Santa Engracia,Colonia,9,19
+66274,Jardines de San Agustin,Fraccionamiento,21,19
+66274,Zona Antigua Exhacienda San Agustín,Colonia,9,19
+66274,El Secreto,Fraccionamiento,21,19
+66275,Los Encinos de San Agustín,Fraccionamiento,21,19
+66276,Zona Lomas del Campestre,Colonia,9,19
+66276,Hacienda San Agustin,Colonia,9,19
+66276,Villa las Palmas,Fraccionamiento,21,19
+66276,Zona Hacienda San Agustín,Colonia,9,19
+66277,Turquesa,Fraccionamiento,21,19
+66277,Privada San Roberto,Colonia,9,19
+66277,Santa Cruz,Colonia,9,19
+66277,La Encantada,Colonia,9,19
+66277,Las Ceibas,Fraccionamiento,21,19
+66277,Privada Real de San Agustín,Fraccionamiento,21,19
+66278,Santa Fe,Colonia,9,19
+66278,Misión de San Agustín,Colonia,9,19
+66278,Antigua Hacienda San Agustin,Colonia,9,19
+66278,Las Privanzas,Fraccionamiento,21,19
+66278,Los Quetzales,Fraccionamiento,21,19
+66278,Colonial San Agustin,Fraccionamiento,21,19
+66278,Balcones Del Campestre,Fraccionamiento,21,19
+66278,Alto Eucalipto,Colonia,9,19
+66278,Zona San Agustín Campestre,Colonia,9,19
+66278,Lomas del Campestre,Fraccionamiento,21,19
+66278,Los Amates,Colonia,9,19
+66278,La Muralla,Colonia,9,19
+66278,El Refugio,Colonia,9,19
+66278,Lomas de San Agustín 3er Sector,Colonia,9,19
+66278,Los Rincones,Colonia,9,19
+66278,Flor de Mayo,Colonia,9,19
+66278,Las Calzadas,Fraccionamiento,21,19
+66278,Lomas de San Agustín 2do Sector,Colonia,9,19
+66278,Rincón del Campestre,Colonia,9,19
+66278,Valle de San Agustin,Colonia,9,19
+66278,Lomas de San Agustín 1er Sector,Colonia,9,19
+66278,Zona Valle Oriente,Colonia,9,19
+66278,Real Del Valle,Colonia,9,19
+66278,Privada Lomas de San Agustin,Colonia,9,19
+66278,Villas Carmel,Colonia,9,19
+66278,Balcones de San Agustin,Colonia,9,19
+66278,Real de San Agustin,Colonia,9,19
+66278,Corporativo Prodesa,Colonia,9,19
+66278,Parque Corporativo Ucaly,Zona comercial,33,19
+66278,Las Querenzas,Fraccionamiento,21,19
+66279,Punto Central,Fraccionamiento,21,19
+66280,Pedregal Del Valle,Colonia,9,19
+66280,Zona Bosques de la Sierra,Colonia,9,19
+66280,Bosques de La Sierra 1er Sector,Colonia,9,19
+66280,Villas Crisantemo,Colonia,9,19
+66280,Colinas de La Sierra Madre,Colonia,9,19
+66280,Balcones Del Valle,Colonia,9,19
+66280,Villa del Pedregal,Colonia,9,19
+66285,Zona Colinas Sierra Madre,Colonia,9,19
+66285,Zona Valle San Ángel,Colonia,9,19
+66285,Sierra Nevada,Colonia,9,19
+66285,Villas del Valle,Colonia,9,19
+66285,Zona Bosques del Valle,Colonia,9,19
+66286,Residencial Sierra Del Valle,Colonia,9,19
+66286,El Santuario,Fraccionamiento,21,19
+66286,Zona el Santuario,Colonia,9,19
+66286,Colonial La Sierra,Colonia,9,19
+66287,Lomas Del Rosario,Colonia,9,19
+66287,Zona Pedregal del Valle,Colonia,9,19
+66290,Valle de San Ángel Sect Jardines,Colonia,9,19
+66290,Valle de San Ángel Sect Mexicano,Colonia,9,19
+66290,Valle de San Ángel Rincón Francés,Colonia,9,19
+66290,Privada Bosques,Fraccionamiento,21,19
+66290,Valle de San Angel Sect Frances,Colonia,9,19
+66290,Bosques de San Ángel Sector Palmillas,Colonia,9,19
+66290,Olinalá,Colonia,9,19
+66290,Valle de San Ángel Sect Español,Colonia,9,19
+66295,Lomas de San Angel,Colonia,9,19
+66295,Mesa de la Corona,Colonia,9,19
+66295,Joya del Venado,Colonia,9,19
+66295,Hacienda de Carrizalejo,Colonia,9,19
+66295,Comercial Alpino Chipinque,Colonia,9,19
+66295,Zona Alpino,Colonia,9,19
+66295,La Joya de la Corona,Fraccionamiento,21,19
+66296,Colinas de San Ángel,Colonia,9,19
+66297,Las Alondras,Colonia,9,19
+66297,Residencial Chipinque,Colonia,9,19
+66297,Zona Loma Blanca,Colonia,9,19
+66297,Villa Chipinque,Colonia,9,19
+66297,Los Encinos,Colonia,9,19
+66297,Villas La Rivera,Colonia,9,19
+66297,Zona Residencia Chipinque,Residencial,30,19
+66350,El Castillo,Residencial,30,48
+66350,Santa Martha I,Colonia,9,48
+66350,Santa Martha II,Colonia,9,48
+66350,Nueva Santa Catarina,Colonia,9,48
+66350,Real del Valle,Colonia,9,48
+66350,Lázaro Cárdenas,Colonia,9,48
+66350,Cerrada del Valle,Fraccionamiento,21,48
+66350,Residencial Panorámica,Colonia,9,48
+66350,Mirador de Santa Catarina,Colonia,9,48
+66350,Cerrada del Valle Plus,Fraccionamiento,21,48
+66350,Santa Catarina Centro,Colonia,9,48
+66353,Privada San Patricio,Fraccionamiento,21,48
+66353,Residencial la Huasteca,Fraccionamiento,21,48
+66353,El Paraíso,Colonia,9,48
+66354,INFONAVIT la Huasteca,Unidad habitacional,31,48
+66354,Pedregal de La Huasteca,Colonia,9,48
+66354,Enrique Rangel,Colonia,9,48
+66354,INFONAVIT Santa Catarina,Unidad habitacional,31,48
+66354,Privadas Sierra Madre Residencial,Fraccionamiento,21,48
+66354,Privadas la Huasteca,Colonia,9,48
+66354,Ventanas de La Huasteca,Colonia,9,48
+66354,Misión de la Huasteca,Fraccionamiento,21,48
+66354,Loma Pelona,Colonia,9,48
+66354,Los Vitrales,Colonia,9,48
+66354,Mirador de la Huasteca,Colonia,9,48
+66356,Alfonso Martinez Dominguez,Colonia,9,48
+66356,Praderas Del Castillo,Colonia,9,48
+66356,Privada 10 de Mayo,Colonia,9,48
+66357,Balcones de Santa Catarina (Fomerrey 134),Colonia,9,48
+66357,Hacienda de Santa Catarina,Colonia,9,48
+66357,Paseo de La Sierra,Colonia,9,48
+66358,Residencial de la Sierra,Fraccionamiento,21,48
+66358,Las Catarinas,Colonia,9,48
+66358,General Francisco Naranjo,Colonia,9,48
+66358,Luis Echeverría Alvarez,Colonia,9,48
+66358,Zimex,Colonia,9,48
+66358,Cumbres de Santa Catarina,Colonia,9,48
+66358,Puerta Del Sol,Colonia,9,48
+66358,Zimex Sur,Colonia,9,48
+66358,Antigua Santa Catarina,Colonia,9,48
+66358,Pedregal de Santa Catarina,Fraccionamiento,21,48
+66358,Zimex Norte,Colonia,9,48
+66358,Cordilleras del Virrey,Colonia,9,48
+66358,Zimex Sección Leones,Colonia,9,48
+66359,Mirador de las Mitras,Colonia,9,48
+66359,INFONAVIT Lomas de Santa Catarina,Colonia,9,48
+66359,Bosques de Santa Catarina,Fraccionamiento,21,48
+66359,Robles de Santa Catarina,Colonia,9,48
+66359,Torres de Santa Catarina,Colonia,9,48
+66359,Privadas de La Montaña,Fraccionamiento,21,48
+66359,Lomas de Santa Catarina,Colonia,9,48
+66359,Prados de Santa Catarina,Colonia,9,48
+66359,La Puerta de La Huasteca,Fraccionamiento,21,48
+66359,Residencial Santa Cecilia II,Fraccionamiento,21,48
+66359,Las Anacuas,Colonia,9,48
+66359,Lomas Altas,Fraccionamiento,21,48
+66359,Universidad Tecnológica de Santa Catarina,Equipamiento,17,48
+66359,Residencial Santa Cecilia I,Fraccionamiento,21,48
+66360,INFONAVIT Adolfo López Mateos,Unidad habitacional,31,48
+66360,Industrial Unidad Nacional,Zona industrial,37,48
+66360,INFONAVIT Cuauhtémoc,Unidad habitacional,31,48
+66360,Misión Santa Catarina,Fraccionamiento,21,48
+66360,Residencial Cuauhtémoc,Colonia,9,48
+66360,Colinas de Santa Catarina,Colonia,9,48
+66360,El Obispo JOMYCO,Zona industrial,37,48
+66360,Hacienda San José,Colonia,9,48
+66360,Industrial Monte de los Olivos,Zona industrial,37,48
+66360,Adolfo Lopez Mateos,Unidad habitacional,31,48
+66360,La Joya,Fraccionamiento,21,48
+66362,El Molino,Colonia,9,48
+66362,Jardines de Santa Catarina,Colonia,9,48
+66362,Rincón de las Huertas,Colonia,9,48
+66362,Las Margaritas,Fraccionamiento,21,48
+66362,Privada 5 de Mayo,Colonia,9,48
+66362,Bosques del Poniente,Fraccionamiento,21,48
+66362,Paseo del Prado,Fraccionamiento,21,48
+66362,Pio XII,Colonia,9,48
+66362,Villas del Poniente Las Granadas,Fraccionamiento,21,48
+66362,Valle de Santa Cruz,Fraccionamiento,21,48
+66362,Residencial Arvore,Fraccionamiento,21,48
+66362,Mercado de Abastos Poniente,Zona comercial,33,48
+66363,Labores Nuevas,Colonia,9,48
+66363,El Escorial,Colonia,9,48
+66363,Senderos,Colonia,9,48
+66364,Unión del Noreste,Colonia,9,48
+66365,Villas Del Mirador,Fraccionamiento,21,48
+66365,Mártires de Cananea,Colonia,9,48
+66365,Prados Del Rey,Colonia,9,48
+66365,Ápice Tres,Fraccionamiento,21,48
+66365,Prados Del Sol,Colonia,9,48
+66365,Rincón de La Huasteca,Colonia,9,48
+66365,Ápice,Fraccionamiento,21,48
+66365,Ápice Dos,Fraccionamiento,21,48
+66366,Tepeyac,Colonia,9,48
+66367,Parque Industrial Milenium,Zona industrial,37,48
+66367,El Obispo,Zona industrial,37,48
+66367,Regio Parque Industrial Santa Catarina,Zona industrial,37,48
+66367,Parque Industrial Diamante,Zona industrial,37,48
+66367,Parque Industrial Marfer,Zona industrial,37,48
+66367,Privadas de Santa Catarina,Colonia,9,48
+66367,Los Viñedos,Fraccionamiento,21,48
+66367,Hacienda el Palmar,Fraccionamiento,21,48
+66367,El Frutal,Colonia,9,48
+66367,Parque Industrial la Puerta,Zona industrial,37,48
+66367,T.A.D. Pemex Refineria,Zona industrial,37,48
+66367,Santa Catarina Industrial Park,Zona industrial,37,48
+66367,Parque Industrial los Nogales,Zona industrial,37,48
+66367,Parque Industrial Martel de Santa Catarina,Zona industrial,37,48
+66367,Parque Industrial AVIA,Zona industrial,37,48
+66367,Residencial de Santa Catarina,Colonia,9,48
+66367,Huasteca del Valle I,Colonia,9,48
+66367,Parque Industrial GONHER,Zona industrial,37,48
+66367,Industrial Santa Catarina,Zona industrial,37,48
+66367,Puerta de las Mitras,Colonia,9,48
+66367,Industrial Unidad Nacional II,Zona industrial,37,48
+66367,Parque Industrial la Esperanza,Zona industrial,37,48
+66367,Parque Industrial Pedreras,Zona industrial,37,48
+66367,Parque Industrial del Poniente Kalos,Zona industrial,37,48
+66367,Bosques la Huasteca,Fraccionamiento,21,48
+66367,Norberto Aguirre,Colonia,9,48
+66367,Privadas de Santa Catarina Sector Elite,Fraccionamiento,21,48
+66368,Micro Empresarios,Zona comercial,33,48
+66368,Rincón Del Poniente,Colonia,9,48
+66368,Parque Industrial las Palmas,Zona industrial,37,48
+66368,Rincón de las Palmas,Colonia,9,48
+66368,Parque 300,Zona industrial,37,48
+66368,San Francisco,Colonia,9,48
+66368,Real de Santa Catarina,Fraccionamiento,21,48
+66369,Misión de las Villas,Colonia,9,48
+66369,San Gilberto,Colonia,9,48
+66369,Las Sombrillas,Colonia,9,48
+66369,Lomas del Poniente,Colonia,9,48
+66369,Visión de la Huasteca,Fraccionamiento,21,48
+66369,La Conquista,Colonia,9,48
+66370,Industrias del Poniente,Colonia,9,48
+66373,27 de Mayo,Colonia,9,48
+66374,Virginia Tafich,Colonia,9,48
+66375,Vista a la Sierra,Fraccionamiento,21,48
+66375,29 de Julio,Colonia,9,48
+66376,Santa Catalina,Colonia,9,48
+66376,El Lechugal,Colonia,9,48
+66376,Santa Julia,Colonia,9,48
+66377,Las Sierras,Colonia,9,48
+66377,San Gregorio,Colonia,9,48
+66378,Aurora,Colonia,9,48
+66378,Aurorita,Colonia,9,48
+66380,Parque Industrial FINSA Santa Catarina,Zona industrial,37,48
+66384,Privadas del Parque,Fraccionamiento,21,48
+66390,Desarrollo Industrial Monterrey,Zona industrial,37,48
+66390,Parque Industrial Milimex,Zona industrial,37,48
+66390,Parque Industrial Atlas,Zona industrial,37,48
+66400,San Nicolás de los Garza Centro,Colonia,9,46
+66410,Ignacio Ramirez,Colonia,9,46
+66410,Privada Sendero Anáhuac,Colonia,9,46
+66410,Las Alamedas,Colonia,9,46
+66410,México Lindo,Colonia,9,46
+66410,Constituyentes Del 17,Colonia,9,46
+66410,Miraflores,Colonia,9,46
+66410,La Enramada,Colonia,9,46
+66410,Benito Juárez,Colonia,9,46
+66410,Nicolás Bravo,Colonia,9,46
+66412,Centro de Desarrollo Comunitario CEDECO,Gran usuario,22,46
+66413,Bosques del Roble,Colonia,9,46
+66413,El Naranjal,Colonia,9,46
+66413,San Isidro,Colonia,9,46
+66413,Rincón del Roble,Colonia,9,46
+66413,San Bartolo,Colonia,9,46
+66414,Jardines de San Nicolás,Colonia,9,46
+66414,Residencial San Nicolás,Colonia,9,46
+66414,Roble San Nicolás Sector 2,Colonia,9,46
+66414,Roble San Nicolás Sector 3,Colonia,9,46
+66414,Residencial Roble Cuarto Sector,Colonia,9,46
+66414,Roble San Nicolás,Colonia,9,46
+66414,El Fundador,Colonia,9,46
+66414,Residencial El Roble,Colonia,9,46
+66415,Villa Luz,Colonia,9,46
+66415,Fomerrey 4 Mujeres Ilustres,Fraccionamiento,21,46
+66415,Héroes de México,Colonia,9,46
+66417,Valle Del Roble,Colonia,9,46
+66417,Anáhuac Sendero,Fraccionamiento,21,46
+66417,Valle de Las Alamedas,Colonia,9,46
+66417,Villas Del Roble,Colonia,9,46
+66417,Hacienda del Roble,Fraccionamiento,21,46
+66417,La Nogalera,Colonia,9,46
+66417,Portal del Roble,Fraccionamiento,21,46
+66418,Viejo Roble,Colonia,9,46
+66418,Centenario II,Colonia,9,46
+66418,Valle Dorado,Colonia,9,46
+66418,Valle Sol,Fraccionamiento,21,46
+66418,Residencial Roble Sector 2,Colonia,9,46
+66420,Cerradas del Roble,Fraccionamiento,21,46
+66420,Villa Universidad,Colonia,9,46
+66420,Las Villas,Colonia,9,46
+66420,Villazul,Colonia,9,46
+66420,Residencial Periférico,Colonia,9,46
+66420,Iturbide,Colonia,9,46
+66422,El Mirador de San Nicolás (fomerrey 129),Colonia,9,46
+66422,Rincón de Anáhuac,Colonia,9,46
+66422,Villas de Anáhuac,Colonia,9,46
+66422,Residencial Anáhuac Zona Norte,Colonia,9,46
+66422,Paraíso de Anáhuac,Fraccionamiento,21,46
+66422,Balcones de Anáhuac,Colonia,9,46
+66422,Reserva de Anahuac,Fraccionamiento,21,46
+66423,Nuevo Periférico,Colonia,9,46
+66424,Periférico Norte,Colonia,9,46
+66425,Parque Industrial Stiva Barragán,Zona industrial,37,46
+66425,Zona Industrial,Zona industrial,37,46
+66425,Getsemani,Colonia,9,46
+66425,Estación Ramon Treviño,Colonia,9,46
+66425,Privada Residencia Hacienda Anáhuac,Fraccionamiento,21,46
+66425,Colinas de Anáhuac,Fraccionamiento,21,46
+66425,Tabachines,Colonia,9,46
+66427,Villarreal,Colonia,9,46
+66428,Las Misiones,Colonia,9,46
+66428,Casa Bella,Colonia,9,46
+66428,Privada Casa Bella,Colonia,9,46
+66430,San Antonio,Colonia,9,46
+66430,La Gloria,Colonia,9,46
+66430,El Refugio Sector 2,Colonia,9,46
+66430,Los Álamos,Colonia,9,46
+66430,San Ignacio,Fraccionamiento,21,46
+66430,Francisco Villa,Colonia,9,46
+66430,Los Nogales,Colonia,9,46
+66430,El Refugio Sector 1,Colonia,9,46
+66430,Betel,Colonia,9,46
+66430,Congregación Mariano Escobedo,Colonia,9,46
+66430,Santa Maria,Colonia,9,46
+66430,Rincón de los Álamos,Fraccionamiento,21,46
+66434,Rivera San Nicolás,Colonia,9,46
+66435,Rincón de los Cedros,Colonia,9,46
+66436,Las Nuevas Puente,Colonia,9,46
+66436,Praderas de Santo Domingo,Colonia,9,46
+66437,Vicente Guerrero (fomerrey 46),Colonia,9,46
+66437,Poblado de Santo Domingo,Colonia,9,46
+66437,Valle de San Carlos,Colonia,9,46
+66437,Villas de Santo Domingo,Colonia,9,46
+66438,Valle de Santo Domingo,Colonia,9,46
+66438,Valle de las Flores,Colonia,9,46
+66440,Unidad Laboral,Unidad habitacional,31,46
+66440,Los Morales,Colonia,9,46
+66440,Nuevo Mezquital,Colonia,9,46
+66440,Los Nogales (Fomerrey 44),Colonia,9,46
+66440,Torres de Santo Domingo,Colonia,9,46
+66444,Pedregal de Santo Domingo,Colonia,9,46
+66444,Paseo de los Andes,Colonia,9,46
+66444,Carmen Romano de Lopez Portillo (fomerrey 27),Colonia,9,46
+66444,Fuentes de Anáhuac,Fraccionamiento,21,46
+66444,Prados de Santo Domingo Sector 1,Colonia,9,46
+66444,Privada Santo Domingo,Condominio,10,46
+66445,Albaterra Residencial,Fraccionamiento,21,46
+66445,Jardines Del Mezquital,Colonia,9,46
+66445,Fraccionamiento Industrial los Parques,Zona industrial,37,46
+66445,Valle del Mezquital (Fomerrey 30),Colonia,9,46
+66446,Paseo San Nicolás,Colonia,9,46
+66446,Real Anáhuac,Fraccionamiento,21,46
+66446,Anáhuac la Escondida,Fraccionamiento,21,46
+66446,Balcones de Santo Domingo,Colonia,9,46
+66446,Paseo  San Nicolás,Fraccionamiento,21,46
+66447,Santo Domingo (Fom. 34),Colonia,9,46
+66448,Los Naranjos,Colonia,9,46
+66448,Residencial Santo Domingo,Colonia,9,46
+66448,Arboledas de Santo Domingo,Colonia,9,46
+66449,Fomerrey 119,Colonia,9,46
+66449,Aquiles Serdán (Fomerrey 33),Colonia,9,46
+66449,Arboledas del Mezquital,Colonia,9,46
+66449,Torres de Santo Domingo (Fomerrey 118),Colonia,9,46
+66449,Hacienda de Santo Domingo,Colonia,9,46
+66449,Parques de Santo Domingo,Colonia,9,46
+66449,Residencial Santo Domingo Sector 2,Colonia,9,46
+66450,Royal,Fraccionamiento,21,46
+66450,Cuauhtémoc,Colonia,9,46
+66450,Chapultepec,Colonia,9,46
+66450,Lomas del Roble,Colonia,9,46
+66450,Avita Anáhuac,Fraccionamiento,21,46
+66450,Anáhuac,Colonia,9,46
+66450,El Roble,Colonia,9,46
+66450,Valle de Anáhuac,Colonia,9,46
+66450,Prival de Anahuac,Fraccionamiento,21,46
+66450,Pedregal de Anáhuac,Fraccionamiento,21,46
+66450,Viejo Anáhuac,Colonia,9,46
+66452,Hojalata y Lamina Sa,Gran usuario,22,46
+66455,Ciudad Universitaria,Colonia,9,46
+66456,Parque Anáhuac,Colonia,9,46
+66456,Potrero Anáhuac,Colonia,9,46
+66456,Ancestra,Fraccionamiento,21,46
+66457,Residencial Anáhuac,Colonia,9,46
+66458,Roble Norte,Colonia,9,46
+66459,Nuevo Laredo,Colonia,9,46
+66460,Residencial las Puentes,Colonia,9,46
+66460,Villa las Puentes,Colonia,9,46
+66460,Las Puentes Sector 1,Colonia,9,46
+66460,Las Puentes Sector 6,Fraccionamiento,21,46
+66460,Las Puentes Sector 11,Fraccionamiento,21,46
+66460,Las Puentes Sector 12,Fraccionamiento,21,46
+66460,Jardín de las Puentes,Colonia,9,46
+66460,Las Puentes Sector 3,Fraccionamiento,21,46
+66460,Las Puentes Sector 5,Fraccionamiento,21,46
+66460,Rincón de los Andes,Colonia,9,46
+66460,Año de Juárez (Fomerrey 86),Colonia,9,46
+66460,Las Puentes Sector 8,Fraccionamiento,21,46
+66460,Las Puentes Sector 9,Fraccionamiento,21,46
+66460,Rincón de las Puentes,Colonia,9,46
+66460,Las Puentes Sector 2,Fraccionamiento,21,46
+66460,Las Puentes Sector 7,Fraccionamiento,21,46
+66460,Las Puentes Sector 15,Fraccionamiento,21,46
+66460,Valle de las Puentes,Colonia,9,46
+66460,Las Puentes Sector 4,Fraccionamiento,21,46
+66460,Las Puentes Sector 10,Fraccionamiento,21,46
+66460,Las Puentes Sector 14,Fraccionamiento,21,46
+66460,Paseo de las Puentes,Colonia,9,46
+66463,Jardines de Anáhuac,Colonia,9,46
+66463,Bosques de Anáhuac,Fraccionamiento,21,46
+66464,Residencial Nova,Colonia,9,46
+66465,Colonial las Puentes,Fraccionamiento,21,46
+66465,Hacienda las Puentes,Colonia,9,46
+66465,Residencial las Palmas,Colonia,9,46
+66465,Riveras de las Puentes,Colonia,9,46
+66465,Arboledas de San Jorge,Colonia,9,46
+66466,Balcones de las Puentes,Colonia,9,46
+66468,Jardines de Santo Domingo,Colonia,9,46
+66469,Julio Camelo Treviño,Colonia,9,46
+66469,Villa Esperanza,Colonia,9,46
+66470,Costa del Sol,Colonia,9,46
+66470,Industrias del Vidrio Ampliación Oriente,Colonia,9,46
+66470,Andalucía,Colonia,9,46
+66470,Los Laureles,Colonia,9,46
+66470,San Benito Del Lago,Fraccionamiento,21,46
+66470,Rincón Del Oriente,Colonia,9,46
+66470,Tacuba,Colonia,9,46
+66470,Residencial Paseo de los Ángeles,Colonia,9,46
+66470,Miguel Aleman,Colonia,9,46
+66470,Villas de Oriente,Colonia,9,46
+66470,Alcatraces Residencial,Fraccionamiento,21,46
+66470,Vivenza,Fraccionamiento,21,46
+66470,Residencial los Morales,Fraccionamiento,21,46
+66473,Bosques de Lindavista,Colonia,9,46
+66473,Blas Chumacero CTM,Fraccionamiento,21,46
+66473,Los Cipreses,Colonia,9,46
+66473,Parque La Talaverna,Colonia,9,46
+66473,La Talaverna CROC,Unidad habitacional,31,46
+66473,La Talaverna,Colonia,9,46
+66473,Villas de San Miguel,Colonia,9,46
+66473,Bosques de Lindavista Sector Diamante,Fraccionamiento,21,46
+66475,Casa Blanca,Colonia,9,46
+66475,Los Ángeles Sector 8,Fraccionamiento,21,46
+66475,Los Ángeles Sector 7,Fraccionamiento,21,46
+66475,San Ángel Casa Blanca,Colonia,9,46
+66475,Villas de Casa Blanca,Colonia,9,46
+66475,Jardines de Casa Blanca,Colonia,9,46
+66476,Los Reales,Colonia,9,46
+66476,Villa Luis,Fraccionamiento,21,46
+66476,La Estancia,Colonia,9,46
+66476,Ciudad Minera,Colonia,9,46
+66477,Residencial Santa Fe,Fraccionamiento,21,46
+66477,Hacienda los Angeles,Colonia,9,46
+66477,La Fe,Colonia,9,46
+66477,Hacienda las Fuentes,Fraccionamiento,21,46
+66477,Del Lago,Colonia,9,46
+66478,Los Ángeles Sector 4,Unidad habitacional,31,46
+66478,Misión de San Cristóbal,Colonia,9,46
+66478,Los Pinos,Fraccionamiento,21,46
+66478,Palmas Diamante,Fraccionamiento,21,46
+66478,Arboledas de San Cristóbal,Colonia,9,46
+66478,Residencial San Cristóbal Sector Tres,Colonia,9,46
+66478,Rincón de los Ángeles,Fraccionamiento,21,46
+66478,Los Ángeles Sector 5,Unidad habitacional,31,46
+66478,Rincón de Casa Blanca 1er Sector,Colonia,9,46
+66478,Residencial los Angeles Sect 2,Colonia,9,46
+66478,Residencial San Cristóbal,Colonia,9,46
+66478,Villas de San Cristóbal,Colonia,9,46
+66478,Cerradas de Casa Blanca,Fraccionamiento,21,46
+66478,Residencial los Angeles Sect 1,Colonia,9,46
+66478,Fresnos del Lago,Colonia,9,46
+66478,Privadas de Casa Blanca,Colonia,9,46
+66478,Los Ángeles Sector 3,Unidad habitacional,31,46
+66478,Valle Casa Blanca,Colonia,9,46
+66478,Misión de Casa Blanca,Colonia,9,46
+66478,Rincón de Casa Blanca Sector 2,Colonia,9,46
+66478,Quinta Montecarlo,Fraccionamiento,21,46
+66479,Margarita Salazar,Colonia,9,46
+66480,Paseo del Nogalar,Colonia,9,46
+66480,Garza Cantu,Colonia,9,46
+66480,Jose Lopez Portillo,Colonia,9,46
+66480,Residencial Nogalar,Colonia,9,46
+66480,Valle de las Granjas (fomerrey 13),Colonia,9,46
+66480,Living San Nicolás,Fraccionamiento,21,46
+66480,Bosques del Nogalar,Colonia,9,46
+66480,Diaz Ordaz,Colonia,9,46
+66480,Azteca (Fomerrey 11),Colonia,9,46
+66480,Privadas San Nicolás,Fraccionamiento,21,46
+66480,Valle Azteca (fomerrey 12),Colonia,9,46
+66480,Valle Del Nogalar,Colonia,9,46
+66480,Deportivo Lagrange,Colonia,9,46
+66482,Mercado de Abastos Estrella,Colonia,9,46
+66482,Predio Aldape,Colonia,9,46
+66484,Antiguo Nogalar,Colonia,9,46
+66484,Futuro Nogalar,Colonia,9,46
+66484,Industrial Nogalar,Colonia,9,46
+66485,Bosques de Santo Domingo (Fomerrey 92),Colonia,9,46
+66485,Rincón Del Nogalar,Colonia,9,46
+66486,Hacienda Nogalar,Colonia,9,46
+66486,La Morena (fomerrey 65),Colonia,9,46
+66486,Jardines Del Nogalar (fomerrey 28),Colonia,9,46
+66486,Salvador Allende,Colonia,9,46
+66486,Privada Nogalar,Fraccionamiento,21,46
+66486,4 de Octubre Fomerrey 72,Colonia,9,46
+66488,Floridos Bosques Del Nogalar (fomerrey 90),Colonia,9,46
+66489,Lagos de Chapultepec (fomerrey 69),Colonia,9,46
+66490,Constituyentes de Queretaro Sector 2,Unidad habitacional,31,46
+66490,Constituyentes de Queretaro Sector 1,Colonia,9,46
+66490,Peña Guerra,Colonia,9,46
+66490,Industrias del Vidrio Ampliación Norte Sector 3,Colonia,9,46
+66490,Residencial Rivera Sector 2,Colonia,9,46
+66490,Nuevo Mundo,Colonia,9,46
+66490,Colonial Lagrange,Colonia,9,46
+66490,Francisco Garza Sada,Colonia,9,46
+66490,Constituyentes de Queretaro Sector 5,Unidad habitacional,31,46
+66490,Industrias del Vidrio Ampliación Norte Sector 1,Colonia,9,46
+66490,INFONAVIT Valle de Lagrange,Colonia,9,46
+66490,Constituyentes de Queretaro Sector 3,Unidad habitacional,31,46
+66490,Constituyentes de Queretaro Sector 4,Unidad habitacional,31,46
+66490,Constituyentes de Queretaro Sector 6,Unidad habitacional,31,46
+66490,Antiguo Corral de Piedra,Colonia,9,46
+66490,Residencial Riviera Sector 1,Fraccionamiento,21,46
+66490,Industrias del Vidrio Ampliación Norte Sector 4,Colonia,9,46
+66490,Ciudad Ideal,Colonia,9,46
+66490,Industrias del Vidrio Ampliación Norte Sector 2,Colonia,9,46
+66493,Conductores Monterrey Sa,Gran usuario,22,46
+66494,Central de Carga,Colonia,9,46
+66495,Hacienda los Morales,Colonia,9,46
+66496,Alejandría,Fraccionamiento,21,46
+66496,Valle de los Morales,Colonia,9,46
+66496,Fidel Velázquez Sánchez,Colonia,9,46
+66499,Residencial San Felipe,Colonia,9,46
+66499,Los Mezquites,Fraccionamiento,21,46
+66499,Hacienda Lagrange,Colonia,9,46
+66550,El Jaral,Colonia,9,10
+66550,El Carmen Centro,Colonia,9,10
+66550,Villas del Arco,Fraccionamiento,21,10
+66550,El Mirador,Colonia,9,10
+66553,Vistas del Carmen,Fraccionamiento,21,10
+66553,Rincón del Carmen,Colonia,9,10
+66553,Alianza Real,Colonia,9,10
+66556,Parque Industrial el Carmen,Zona industrial,37,10
+66557,Bella Aurora,Fraccionamiento,21,10
+66557,Paseo del Carmen,Colonia,9,10
+66557,Privadas del Carmen,Colonia,9,10
+66563,Los González,Colonia,9,10
+66580,Privadas los Prados,Fraccionamiento,21,10
+66580,Privadas El Jaral,Fraccionamiento,21,10
+66580,Valle del Jaral,Fraccionamiento,21,10
+66580,El Jaral,Fraccionamiento,21,10
+66580,Villas del Jaral,Fraccionamiento,21,10
+66583,Buena Vista,Fraccionamiento,21,10
+66600,Futuro Apodaca,Colonia,9,6
+66600,Presidentes Municipales,Colonia,9,6
+66600,Santa Rosa II,Colonia,9,6
+66600,San Francisco,Colonia,9,6
+66600,Moderno Apodaca,Colonia,9,6
+66600,Manuel Villarreal,Colonia,9,6
+66600,Homero Sepúlveda,Colonia,9,6
+66600,Apodaca Centro,Colonia,9,6
+66603,Valle de San Francisco,Fraccionamiento,21,6
+66603,Parque Industrial Apodaca,Zona industrial,37,6
+66603,Parque Industrial Kronos,Zona industrial,37,6
+66603,Parque Industrial Monterrey,Zona industrial,37,6
+66603,Pimsa Oriente,Zona industrial,37,6
+66603,Residencial San Francisco,Colonia,9,6
+66603,Kalos Apodaca,Zona industrial,37,6
+66603,Parque Industrial Elicán,Zona industrial,37,6
+66604,Privada Santa Martha,Fraccionamiento,21,6
+66604,Parque Industrial Kuadrum,Zona industrial,37,6
+66604,Capellanía Residencial,Fraccionamiento,21,6
+66604,Altabrisa Premier,Fraccionamiento,21,6
+66604,Los Molinos San Francisco,Fraccionamiento,21,6
+66604,Bosque de Agua,Colonia,9,6
+66604,Crystal Lagoons,Fraccionamiento,21,6
+66604,Burócratas Municipales,Colonia,9,6
+66604,Reserva San Francisco,Fraccionamiento,21,6
+66604,Santa Rosa,Fraccionamiento,21,6
+66604,Reserva San Francisco Sector Norte,Fraccionamiento,21,6
+66604,Casas Reales,Colonia,9,6
+66604,Los Castaños Privada Residencial,Fraccionamiento,21,6
+66604,Altabrisa,Fraccionamiento,21,6
+66605,Pedregal de Apodaca,Colonia,9,6
+66605,Nova Apodaca,Colonia,9,6
+66605,Benito Juárez,Colonia,9,6
+66605,Teresita,Colonia,9,6
+66605,Residencial Apodaca,Fraccionamiento,21,6
+66606,Rinconada Colonial,Colonia,9,6
+66606,Katavia Residencial,Fraccionamiento,21,6
+66606,Cerradas de Rinconada,Fraccionamiento,21,6
+66606,Privadas de Rinconada,Fraccionamiento,21,6
+66606,Villas Coloniales,Fraccionamiento,21,6
+66606,Sierra la Esperanza,Fraccionamiento,21,6
+66606,Alvento,Fraccionamiento,21,6
+66607,Parque Industrial Avante Apodaca,Zona industrial,37,6
+66607,Hacienda los Guajardo,Fraccionamiento,21,6
+66607,Paraje Santa Rosa,Colonia,9,6
+66607,Quinta Real,Fraccionamiento,21,6
+66607,Valle de Salduero,Fraccionamiento,21,6
+66607,Paseo de los Nogales Santa Rosa,Fraccionamiento,21,6
+66607,Paraje Santa Rosa Sector Norte,Colonia,9,6
+66607,Valle la Rioja,Fraccionamiento,21,6
+66607,Santa Rosa de Lima,Colonia,9,6
+66609,Privalia Concordia,Fraccionamiento,21,6
+66609,Cerradas Concordia,Fraccionamiento,21,6
+66609,Estancias Valle de Plata,Fraccionamiento,21,6
+66609,Radica,Fraccionamiento,21,6
+66610,Amberes Residencial,Fraccionamiento,21,6
+66610,Privadas de Santa Rosa Sector Dos,Fraccionamiento,21,6
+66610,Prados de Santa Rosa,Colonia,9,6
+66610,Los Ébanos Doceavo Sector,Colonia,9,6
+66610,Bosques de Santa Rosa,Fraccionamiento,21,6
+66610,Los Ébanos Octavo Sector,Colonia,9,6
+66610,Los Ébanos Décimo Sector,Colonia,9,6
+66610,Balcones de Santa Rosa 1,Colonia,9,6
+66610,Rincón de Santa Rosa,Colonia,9,6
+66610,Pedregal del Valle,Fraccionamiento,21,6
+66610,Bonaterra,Fraccionamiento,21,6
+66610,Villas de Santa Rosa,Fraccionamiento,21,6
+66610,Jardines de Santa Rosa,Fraccionamiento,21,6
+66610,Los Ébanos Noveno Sector,Colonia,9,6
+66610,Quinta Colonial Apodaca,Fraccionamiento,21,6
+66610,Antigua Santa Rosa,Fraccionamiento,21,6
+66610,Privadas de Santa Rosa,Fraccionamiento,21,6
+66610,Arbado Castañares,Fraccionamiento,21,6
+66610,Los Ébanos Onceavo Sector,Colonia,9,6
+66610,Valle de los Nogales,Fraccionamiento,21,6
+66610,Los Murales,Fraccionamiento,21,6
+66610,Los Ébanos Séptimo Sector,Colonia,9,6
+66610,Ex Hacienda Santa Rosa,Colonia,9,6
+66610,Valle de los Nogales Residencial,Fraccionamiento,21,6
+66610,Los Soles,Fraccionamiento,21,6
+66612,Lombardía Residencial,Fraccionamiento,21,6
+66612,Valle de San Andrés Segundo Sector,Colonia,9,6
+66612,Valle de las Bugambilias,Colonia,9,6
+66612,Manantial Primer Sector,Colonia,9,6
+66612,Los Ébanos Sexto Sector,Colonia,9,6
+66612,El Molino,Colonia,9,6
+66612,Las Huertas,Fraccionamiento,21,6
+66612,Aria Residencial,Fraccionamiento,21,6
+66612,Nuevo las Puentes Tercer Sector,Colonia,9,6
+66612,Los Ébanos Cuarto Sector,Colonia,9,6
+66612,Valle de las Palmas Tercer Sector,Colonia,9,6
+66612,Misión de Fundadores,Fraccionamiento,21,6
+66612,Ébanos Norte Uno,Colonia,9,6
+66612,Misión del Parque,Fraccionamiento,21,6
+66612,Valle de San Andrés Tercer Sector,Colonia,9,6
+66612,Andalucía,Colonia,9,6
+66612,Nuevo las Puentes Primer Sector,Colonia,9,6
+66612,Villa las Puentes,Fraccionamiento,21,6
+66612,Misión de San José Residencias,Fraccionamiento,21,6
+66612,Ébanos Norte Tres,Colonia,9,6
+66612,Privadas del Rey,Colonia,9,6
+66612,Los Encinos,Fraccionamiento,21,6
+66612,Valle de las Palmas Segundo Sector,Colonia,9,6
+66612,Manantial Segundo Sector,Colonia,9,6
+66612,Bosque Real Segundo Sector,Colonia,9,6
+66612,Bosque Real Tercer Sector,Colonia,9,6
+66612,Villas Premier,Colonia,9,6
+66612,Ébanos Norte Cuatro,Colonia,9,6
+66612,Las Estancias,Colonia,9,6
+66612,Muran Residencial,Fraccionamiento,21,6
+66612,Valle de San Andrés Primer Sector,Colonia,9,6
+66612,Insurgentes,Colonia,9,6
+66612,Nuevo las Puentes Segundo Sector,Colonia,9,6
+66612,Los Ébanos Quinto Sector,Colonia,9,6
+66612,Valle de las Palmas Cuarto Sector,Colonia,9,6
+66612,Hacienda Santa Isabel,Colonia,9,6
+66612,Misión de San José Privadas,Fraccionamiento,21,6
+66612,Los Ébanos Primer Sector,Colonia,9,6
+66612,Prados Del Virrey,Colonia,9,6
+66612,Valle de Apodaca,Colonia,9,6
+66612,Metroplex,Colonia,9,6
+66612,Cortijo las Palmas,Colonia,9,6
+66612,Bosque Real Primer Sector,Colonia,9,6
+66612,Los Ébanos Tercer Sector,Colonia,9,6
+66612,Jardines de las Palmas,Colonia,9,6
+66612,Hacienda las Yucas,Colonia,9,6
+66612,Valle de las Palmas Sexto Sector,Colonia,9,6
+66612,Los Ébanos Segundo Sector,Colonia,9,6
+66612,Valle de San Andrés Cuarto Sector,Colonia,9,6
+66612,Prados de los Pinos,Colonia,9,6
+66612,Jardines de San Andrés,Fraccionamiento,21,6
+66612,Real de San Andres,Fraccionamiento,21,6
+66612,Valle de las Palmas Quinto Sector,Colonia,9,6
+66612,Ébanos Norte Dos,Colonia,9,6
+66612,Santa Alicia,Colonia,9,6
+66613,Los Altos,Colonia,9,6
+66613,Moisés Sáenz,Colonia,9,6
+66613,Parque Industrial Jardínes de Monterrey,Zona industrial,37,6
+66613,Paseo de Apodaca,Fraccionamiento,21,6
+66613,Privadas del Rey II,Fraccionamiento,21,6
+66613,Jardines de Monterrey I,Colonia,9,6
+66613,Los Lirios,Fraccionamiento,21,6
+66613,Jardines de Monterrey II,Colonia,9,6
+66613,Los Amarantos,Fraccionamiento,21,6
+66613,Fundadores,Colonia,9,6
+66613,Balcones del Norte III,Colonia,9,6
+66613,Los Nuevos Vergeles,Rancho,48,6
+66613,Residencial Moisés Sáenz,Colonia,9,6
+66613,Jardines de Monterrey III,Colonia,9,6
+66613,Santa Elena,Fraccionamiento,21,6
+66614,Paseo de Santa Rosa,Fraccionamiento,21,6
+66614,Portal de Santa Rosa,Fraccionamiento,21,6
+66614,Kalos Santa Rosa,Zona industrial,37,6
+66614,Ventura de Santa Rosa,Fraccionamiento,21,6
+66614,Renaceres,Fraccionamiento,21,6
+66614,Misión de los Olivos,Fraccionamiento,21,6
+66614,Milimex Santa Rosa,Zona industrial,37,6
+66614,Cosmópolis,Fraccionamiento,21,6
+66614,Arboledas de Santa Rosa,Fraccionamiento,21,6
+66614,Parque Industrial Azteca,Zona industrial,37,6
+66614,Cosmópolis Octavo Sector,Fraccionamiento,21,6
+66616,Cuartel General 7a. Z. M.,Zona militar,47,6
+66616,Parque Industrial Aeropuerto 1er Sector,Zona industrial,37,6
+66616,Entronque Laredo-Salinas Victoria,Colonia,9,6
+66620,Triana,Fraccionamiento,21,6
+66620,Asturias Residencial,Fraccionamiento,21,6
+66620,Agua Fría,Colonia,9,6
+66620,Rincón de Galicia,Fraccionamiento,21,6
+66620,Valle Azul,Fraccionamiento,21,6
+66620,Cerritos de Agua Fría,Colonia,9,6
+66623,Ciudad Natura,Colonia,9,6
+66623,Avatares de Apodaca,Fraccionamiento,21,6
+66623,Artemio Treviño,Colonia,9,6
+66626,VYNMSA Aeropuerto Apodaca Industrial Park,Zona industrial,37,6
+66626,Interamerican,Zona industrial,37,6
+66626,Parque Industrial Villacero,Zona industrial,37,6
+66626,Parque Industrial Milenium,Zona industrial,37,6
+66626,Almería,Fraccionamiento,21,6
+66626,Parque Industrial Stiva Aeropuerto,Zona industrial,37,6
+66627,Parque Industrial Hasna,Zona industrial,37,6
+66627,Apodaca Technology Park,Zona industrial,37,6
+66627,ProLogis Park Apodaca,Zona industrial,37,6
+66628,Parque Industrial Milenium Innova,Zona industrial,37,6
+66628,Parque de Investigación e Inovación Tecnológica,Equipamiento,17,6
+66629,Monterrey (General Mariano Escobedo),Aeropuerto,1,6
+66630,Privada los Olmos,Fraccionamiento,21,6
+66630,Calabria Residencial,Fraccionamiento,21,6
+66630,Hacienda Del Moro,Fraccionamiento,21,6
+66630,Las Américas,Colonia,9,6
+66630,Ejido Mezquital,Colonia,9,6
+66630,Hacienda los Nogales,Fraccionamiento,21,6
+66630,Vellanía Residencial,Fraccionamiento,21,6
+66630,Garcia Mireles,Colonia,9,6
+66630,Viejo Mezquital,Colonia,9,6
+66630,Francisco Martinez,Colonia,9,6
+66630,Arboledas del Mezquital,Fraccionamiento,21,6
+66630,Cantizales,Fraccionamiento,21,6
+66630,Privada 103,Fraccionamiento,21,6
+66630,Francisco Elizondo,Colonia,9,6
+66630,El Mezquital,Colonia,9,6
+66632,Rincón de la Moraleja,Fraccionamiento,21,6
+66632,Cerradas Magenta,Fraccionamiento,21,6
+66632,Valle Del Mezquital,Colonia,9,6
+66632,Villas del Mezquital,Colonia,9,6
+66632,Desarrollo Industrial GP Apodaca 2,Zona industrial,37,6
+66632,Hacienda Del Mezquital,Colonia,9,6
+66632,Nuevo Mezquital,Colonia,9,6
+66632,Cerradas del Parque,Fraccionamiento,21,6
+66632,Cerradas de Santa Rosa,Fraccionamiento,21,6
+66632,Balcones Del Mezquital,Colonia,9,6
+66632,Privadas Borneo,Fraccionamiento,21,6
+66632,Cantu,Colonia,9,6
+66632,Ex Hacienda San Francisco,Fraccionamiento,21,6
+66632,José María García Ponce,Colonia,9,6
+66632,Recova Residencial,Fraccionamiento,21,6
+66633,Orion Residencial,Fraccionamiento,21,6
+66633,Álamos del Parque,Colonia,9,6
+66633,Noria Sur,Colonia,9,6
+66633,Parque Industrial JM,Zona industrial,37,6
+66633,Ventura de Asís Primer Sector,Fraccionamiento,21,6
+66633,Parque Industrial Omolap,Zona industrial,37,6
+66633,San Ignacio,Colonia,9,6
+66633,Deportivo Huinalá,Fraccionamiento,21,6
+66633,Rincón de la Gloria,Fraccionamiento,21,6
+66633,Fresnos del Lago,Colonia,9,6
+66633,Privadas Del Parque,Colonia,9,6
+66633,Multipark Parque,Zona industrial,37,6
+66633,La Encarnación,Colonia,9,6
+66633,Los Álamos,Fraccionamiento,21,6
+66633,Parque Industrial Kalos Encarnación,Zona industrial,37,6
+66633,Jardines de San Jorge,Fraccionamiento,21,6
+66633,Hacienda Santa Fe,Colonia,9,6
+66633,Privada Antigua Huinalá,Fraccionamiento,21,6
+66633,Monterrey Business Park,Zona industrial,37,6
+66633,Deportivo Huinalá Mundialista,Fraccionamiento,21,6
+66633,Alianza,Zona industrial,37,6
+66633,Parque Industrial México,Zona industrial,37,6
+66633,Residencial Joyas de Huinalá,Fraccionamiento,21,6
+66633,Kalos Miguel Alemán,Zona industrial,37,6
+66633,Ventura de Asís Segundo Sector,Fraccionamiento,21,6
+66633,Parque Industrial Titan,Zona industrial,37,6
+66633,Mirador Huinalá,Colonia,9,6
+66633,Los Arrecifes,Colonia,9,6
+66633,Torre de Campo,Colonia,9,6
+66633,Noria Norte,Colonia,9,6
+66633,Valle de los Álamos,Colonia,9,6
+66633,Regio Parque Industrial,Zona industrial,37,6
+66634,Villas de Huinalá,Fraccionamiento,21,6
+66634,Privadas Santa Fe,Colonia,9,6
+66634,Encinos Residencial,Fraccionamiento,21,6
+66634,Privada la Castaña,Colonia,9,6
+66634,Campestre CTM,Colonia,9,6
+66634,Axis Mty,Zona industrial,37,6
+66634,Montalto Residencial,Fraccionamiento,21,6
+66634,Independencia,Unidad habitacional,31,6
+66634,Misión de San Patricio,Fraccionamiento,21,6
+66634,El Milagro,Zona industrial,37,6
+66634,Valle de Huinalá,Fraccionamiento,21,6
+66634,Jacarandas Sector 1,Colonia,9,6
+66634,Privadas Premier,Fraccionamiento,21,6
+66634,Residencial las Provincias,Fraccionamiento,21,6
+66634,Iltamarindo,Fraccionamiento,21,6
+66635,Nueva Democracia,Colonia,9,6
+66635,Villa Luz,Colonia,9,6
+66635,Paseo Palmas I,Colonia,9,6
+66635,Portal Anáhuac,Fraccionamiento,21,6
+66635,Hacienda las Palmas II,Colonia,9,6
+66635,Valle de las Palmas Primer Sector,Colonia,9,6
+66635,Enramada VII,Colonia,9,6
+66635,Enramada III,Colonia,9,6
+66635,Enramada II,Colonia,9,6
+66635,Enramada VI,Colonia,9,6
+66635,Praderas II,Colonia,9,6
+66635,Pinos III,Colonia,9,6
+66635,Jardines de Apodaca,Colonia,9,6
+66635,Enramada I,Colonia,9,6
+66635,Villa Sol,Colonia,9,6
+66635,Enramada V,Colonia,9,6
+66635,Hacienda las Palmas,Colonia,9,6
+66635,Hacienda los Encinos,Colonia,9,6
+66635,Pinos V,Colonia,9,6
+66635,Fresnos II,Fraccionamiento,21,6
+66635,Mujeres Ilustres,Colonia,9,6
+66635,Paseo Palmas II,Colonia,9,6
+66635,Hacienda los Pinos III,Colonia,9,6
+66635,Pinos IV,Colonia,9,6
+66635,Pradreras de la Enramada,Colonia,9,6
+66635,Fresnos III,Fraccionamiento,21,6
+66635,Enramada IV,Colonia,9,6
+66635,Praderas I,Colonia,9,6
+66635,Jardines de La Enramada,Colonia,9,6
+66635,Los Fresnos Primer Sector,Colonia,9,6
+66635,Paseo Palmas IV,Colonia,9,6
+66635,Paseo Palmas III,Colonia,9,6
+66635,Magnolias,Fraccionamiento,21,6
+66636,Altamura Residencial,Fraccionamiento,21,6
+66636,Los Robles,Colonia,9,6
+66636,Arbado,Fraccionamiento,21,6
+66636,Fresnos IV,Fraccionamiento,21,6
+66636,La Hacienda,Colonia,9,6
+66636,Hacienda los Pinos II,Colonia,9,6
+66636,Paseo de los Pinos II,Colonia,9,6
+66636,Paseo de los Nogales,Fraccionamiento,21,6
+66636,Nuevo Amanecer 2,Colonia,9,6
+66636,Santa Cecilia,Fraccionamiento,21,6
+66636,Jardines de los Pinos I,Colonia,9,6
+66636,Cerrada Providencia,Fraccionamiento,21,6
+66636,Prados de La Cieneguita,Colonia,9,6
+66636,Fresnos IX,Fraccionamiento,21,6
+66636,Jardín de los Pinos II,Colonia,9,6
+66636,Hacienda los Pinos,Colonia,9,6
+66636,Fresnos Norte,Colonia,9,6
+66636,Pinos I,Colonia,9,6
+66636,Nuevo Amanecer 1,Colonia,9,6
+66636,Residencial Palmas,Fraccionamiento,21,6
+66636,La Morada Residencial,Fraccionamiento,21,6
+66636,Fresnos X,Fraccionamiento,21,6
+66636,Arboledas del Virrey,Colonia,9,6
+66636,Pinos II,Colonia,9,6
+66636,Fresnos VIII,Fraccionamiento,21,6
+66637,Parque Industrial Milimex,Zona industrial,37,6
+66637,Almacentro,Zona industrial,37,6
+66637,Industrial Martel,Zona industrial,37,6
+66640,Reforma,Colonia,9,6
+66640,Hacienda San Gerardo,Fraccionamiento,21,6
+66640,Colonial de Huinalá,Colonia,9,6
+66640,San Miguel Golondrinas,Colonia,9,6
+66640,Misión Real,Fraccionamiento,21,6
+66640,Jardines de Huinalá,Colonia,9,6
+66640,Balcones de Huinalá,Colonia,9,6
+66640,Prados Residencial,Fraccionamiento,21,6
+66640,Huinalá,Colonia,9,6
+66640,Lomas de Huinalá II,Colonia,9,6
+66640,Real de Apodaca,Fraccionamiento,21,6
+66640,Fraccionamiento Industrial San Andrés,Zona industrial,37,6
+66640,Alberta Escamilla,Colonia,9,6
+66640,San Andrés,Fraccionamiento,21,6
+66643,Huertas San Javier,Fraccionamiento,21,6
+66643,Santa Anita,Fraccionamiento,21,6
+66643,Parque Industrial Avante Aeropuerto,Zona industrial,37,6
+66643,Residencial Accadia,Fraccionamiento,21,6
+66643,Parque Industrial la Silla Apodaca,Zona industrial,37,6
+66643,Paseo de las Flores,Fraccionamiento,21,6
+66643,Misión San Pablo,Fraccionamiento,21,6
+66643,Portal del Valle,Fraccionamiento,21,6
+66643,Hacienda el Campanario,Fraccionamiento,21,6
+66643,Privada Cerezo,Fraccionamiento,21,6
+66644,Fraccionamiento Industrial San Carlos,Zona industrial,37,6
+66644,Bugambilias Huinalá,Fraccionamiento,21,6
+66644,Santa Mónica,Colonia,9,6
+66644,Treviño Elizondo,Colonia,9,6
+66644,Real Hacienda de Huinalá,Colonia,9,6
+66644,Rincón de Huinalá,Colonia,9,6
+66644,Villas de San Carlos,Colonia,9,6
+66645,Hacienda Del Carmen,Colonia,9,6
+66645,Bosques de Huinalá,Fraccionamiento,21,6
+66645,American Industries,Zona industrial,37,6
+66645,PIRSA,Zona industrial,37,6
+66645,Parque Industrial Huinalá,Zona industrial,37,6
+66645,Padilla,Colonia,9,6
+66645,Jardines Del Virrey,Colonia,9,6
+66645,Parque Industrial el Sabinal,Zona industrial,37,6
+66646,Privadas Canteras,Fraccionamiento,21,6
+66646,Terranova Elite,Fraccionamiento,21,6
+66646,Milenium Residencial,Colonia,9,6
+66646,Lomas de San Isidro,Colonia,9,6
+66646,Residencial San Benito,Fraccionamiento,21,6
+66646,Pueblo Nuevo,Colonia,9,6
+66646,Misión de Huinalá,Fraccionamiento,21,6
+66646,Riveras de Huinalá,Colonia,9,6
+66646,Mision de San Javier,Colonia,9,6
+66646,Santa Sofía Residencial,Fraccionamiento,21,6
+66646,Portal de Huinalá,Colonia,9,6
+66646,San Isidro,Fraccionamiento,21,6
+66646,Privada Dominio,Fraccionamiento,21,6
+66646,Los Colibries,Colonia,9,6
+66646,San Javier,Colonia,9,6
+66646,Tréboles,Fraccionamiento,21,6
+66646,Privalia Huinalá,Fraccionamiento,21,6
+66647,Toscana Residencial,Fraccionamiento,21,6
+66647,Los Vitrales,Colonia,9,6
+66647,Lomas de la Paz,Fraccionamiento,21,6
+66647,El Rosario,Fraccionamiento,21,6
+66647,Rivieras de Apodaca,Fraccionamiento,21,6
+66647,Vivienda Digna,Colonia,9,6
+66647,Los Puertos (Bif) [Rastro],Rancho,48,6
+66647,Paseo de la Loma,Fraccionamiento,21,6
+66647,Bosque Boreal,Fraccionamiento,21,6
+66647,Fátima,Fraccionamiento,21,6
+66647,Bosques del Sol,Colonia,9,6
+66647,Los Pinceles,Colonia,9,6
+66647,Mirasol Residencial,Fraccionamiento,21,6
+66647,American Industries Apodaca,Zona industrial,37,6
+66647,Acanto Residencial,Colonia,9,6
+66647,Caoba Residencial,Fraccionamiento,21,6
+66647,Campestre Huinalá,Colonia,9,6
+66647,Hacienda las Margaritas,Colonia,9,6
+66647,Los Olivos Residencial,Fraccionamiento,21,6
+66647,Bosques de San Miguel,Colonia,9,6
+66647,Lomas de San Miguel,Colonia,9,6
+66647,Praderas de Huinalá,Fraccionamiento,21,6
+66647,Paseo de las Fuentes,Fraccionamiento,21,6
+66647,Los Candiles,Colonia,9,6
+66647,Jardines de San Patricio,Fraccionamiento,21,6
+66647,Fuentes de Santa Lucia,Colonia,9,6
+66648,Lomas Del Pedregal,Colonia,9,6
+66648,Misión de San Miguel,Colonia,9,6
+66648,Lomas de Huinalá I,Colonia,9,6
+66648,Monte Alban II,Colonia,9,6
+66648,Madeira Residencial,Fraccionamiento,21,6
+66648,Valterra Residencial,Fraccionamiento,21,6
+66648,Colinas de San Miguel,Colonia,9,6
+66648,Cerrada la Toscana,Fraccionamiento,21,6
+66648,Valle del Pedregal,Colonia,9,6
+66648,Santa Fé,Colonia,9,6
+66648,Misión de las Flores,Colonia,9,6
+66648,Roberto Espinoza,Colonia,9,6
+66648,Joyas Del Pedregal,Colonia,9,6
+66648,Valle de San Miguel,Fraccionamiento,21,6
+66648,Privada San Agustín,Fraccionamiento,21,6
+66648,Los Tres Nogales,Fraccionamiento,21,6
+66648,Rincón de San Miguel,Colonia,9,6
+66648,El Campanario,Colonia,9,6
+66649,Altaria Residencial,Fraccionamiento,21,6
+66649,San Miguel,Colonia,9,6
+66649,Sebastián Elizondo,Colonia,9,6
+66649,San Miguelito,Fraccionamiento,21,6
+66649,Nueva Mixcoac,Colonia,9,6
+66649,Privada San Miguelito,Fraccionamiento,21,6
+66649,Villas de Loreto,Fraccionamiento,21,6
+66649,Quinta San Miguel,Fraccionamiento,21,6
+66649,Riveras de Loreto,Fraccionamiento,21,6
+66649,Mixcoac,Colonia,9,6
+66649,Golondrinas,Colonia,9,6
+66649,Real de San Miguel,Fraccionamiento,21,6
+66649,Monte Albán,Fraccionamiento,21,6
+66649,Miguel Hidalgo,Colonia,9,6
+66649,Rincón de los Cristales,Fraccionamiento,21,6
+66650,Pesquería,Pueblo,28,41
+66653,Villas Regina,Fraccionamiento,21,41
+66655,Colinas del Aeropuerto,Colonia,9,41
+66655,Floresta Residencial,Colonia,9,41
+66655,Colinas de Santa Engracia,Colonia,9,41
+66655,El Llano,Fraccionamiento,21,41
+66655,Zacatecas,Congregación,11,41
+66655,Arcos del Parque,Fraccionamiento,21,41
+66655,Privadas del Roble,Fraccionamiento,21,41
+66655,Las Haciendas,Fraccionamiento,21,41
+66657,Airport Technology Park,Zona industrial,37,41
+66658,La Arena,Colonia,9,41
+66660,Las Aves Residencial and Golf Resort,Fraccionamiento,21,41
+66670,Dulces Nombres (La Lajita),Pueblo,28,41
+66670,Dulces Nombres,Fraccionamiento,21,41
+66670,Madiba,Fraccionamiento,21,41
+66670,Valle de Santa María,Fraccionamiento,21,41
+66672,Paseo de San Javier,Fraccionamiento,21,41
+66672,Modena,Fraccionamiento,21,41
+66672,Las Palmas,Fraccionamiento,21,41
+66672,Los Olmos,Fraccionamiento,21,41
+66673,Lomas de San Martín,Fraccionamiento,21,41
+66673,Cantoral,Fraccionamiento,21,41
+66673,Lomas Diamante,Fraccionamiento,21,41
+66673,SIGMA Alimentos Noreste SA de CV,Zona comercial,33,41
+66674,Jesús María,Colonia,9,41
+66679,La Arena,Ejido,15,41
+66679,La Victoria,Ejido,15,41
+66680,Santa María la Floreña,Hacienda,24,41
+66683,La Providencia,Ranchería,29,41
+66690,Milpa,Estación,16,41
+66693,Santa María Pesquería,Ejido,15,41
+66700,Marín,Pueblo,28,34
+66700,Marín,Ejido,15,34
+66708,Guadalupe,Hacienda,24,34
+66750,Doctor González,Pueblo,28,16
+66770,Nuevo Repueblo,Ranchería,29,16
+66790,La Venadera,Ranchería,29,16
+66793,Los Peña,Ranchería,29,16
+66800,Los Ramones,Pueblo,28,42
+66810,Hidalgo,Congregación,11,42
+66812,Facundo González (El Peine),Pueblo,28,42
+66820,Garza González,Congregación,11,42
+66824,Loma,Paraje,45,42
+66825,Repueblo de Oriente (El Ranchito),Congregación,11,42
+66825,San Benito,Congregación,11,42
+66826,Los Ángeles (Palo Blanco),Ranchería,29,42
+66827,El Saucito,Rancho,48,42
+66830,San Isidro,Hacienda,24,42
+66835,El Ayancual,Hacienda,24,42
+66840,El Carrizo,Ejido,15,42
+66842,El Carrizo,Ejido,15,42
+66847,Las Enramadas,Ranchería,29,42
+66848,La Conquista,Ejido,15,42
+66849,El Porvenir (Porvenir Ramones),Hacienda,24,42
+66850,Los Herreras,Pueblo,28,27
+66860,San Vicente,Congregación,11,27
+66861,Hacienda de Guadalupe (Guadalupe),Hacienda,24,27
+66865,La Laja (San José de la Laja),Congregación,11,27
+66872,San Agustín,Congregación,11,27
+66880,Barretosa,Congregación,11,27
+66900,Los Aldamas,Pueblo,28,3
+66910,Aldamas,Barrio,2,3
+66930,Estación Aldama,Pueblo,28,3
+66940,San Pedro,Congregación,11,3
+66945,La Palmita,Congregación,11,3
+66950,Doctor Coss,Pueblo,28,15
+66953,Norte,Barrio,2,15
+66953,Hacienda de Guadalupe,Fraccionamiento,21,15
+66955,Francisco I. Madero,Pueblo,28,15
+66960,La Lajilla,Colonia,9,15
+66964,La Ceja,Ranchería,29,15
+66964,Serafín,Ranchería,29,15
+66970,El Brasil,Rancho,48,15
+66980,Cantú (Gachupines),Pueblo,28,15
+67000,General Bravo Centro,Colonia,9,20
+67000,Tijerina,Colonia,9,20
+67002,Las Tranquitas,Ranchería,29,20
+67003,Las Tres Caídas,Ranchería,29,20
+67004,Conferín Arizpe,Pueblo,28,20
+67004,Jardínes del Bravo,Colonia,9,20
+67010,Esquina del Potrero,Ranchería,29,20
+67012,Santa Teresa de Jesús (El Amole),Ranchería,29,20
+67030,El Mantillo,Ranchería,29,20
+67050,La Laguna,Colonia,9,13
+67050,5 de Mayo,Colonia,9,13
+67050,Vista Hermosa,Colonia,9,13
+67050,China,Pueblo,28,13
+67050,Valles de Cadereyta,Fraccionamiento,21,13
+67050,El Maestro,Colonia,9,13
+67050,El Cuchillo,Colonia,9,13
+67050,Revolución,Colonia,9,13
+67050,San Isidro,Colonia,9,13
+67050,Valle de San Felipe,Colonia,9,13
+67052,Santa Mónica,Ranchería,29,13
+67066,El Cuchillo,Rancho,48,13
+67066,El Cuchillo (Paso de la Loma),Ranchería,29,13
+67087,San Juanito,Ranchería,29,13
+67093,San Pablo,Ranchería,29,13
+67093,San Fernando,Ranchería,29,13
+67097,La Barreta Tres (La Barreta y Anexos),Ranchería,29,13
+67099,Francisco I. Madero,Colonia,9,13
+67099,Doctor Ignacio Morones Prieto,Colonia,9,13
+67100,Ciudad Guadalupe Centro,Colonia,9,26
+67102,Centro SCT Nuevo León,Gran usuario,22,26
+67110,Plaza San Antonio,Colonia,9,26
+67110,Los Olivos,Colonia,9,26
+67110,Jardines la Victoria,Colonia,9,26
+67110,Villa de San Miguel,Colonia,9,26
+67110,Paseo San Miguel,Colonia,9,26
+67110,Talaberna,Colonia,9,26
+67110,Pedregal de Lindavista,Colonia,9,26
+67110,Arboledas de San Miguel,Colonia,9,26
+67110,La Amistad,Colonia,9,26
+67110,Bosques del Oriente,Colonia,9,26
+67110,La Victoria,Colonia,9,26
+67110,Villa San Antonio,Colonia,9,26
+67110,San Rafael,Zona industrial,37,26
+67110,Rincón Lindavista,Fraccionamiento,21,26
+67112,Residencial Santa Fe,Fraccionamiento,21,26
+67112,Hacienda los Encinos,Fraccionamiento,21,26
+67112,Provivienda,Colonia,9,26
+67112,Valle de San Antonio,Colonia,9,26
+67112,Residencial San Antonio,Fraccionamiento,21,26
+67112,Privadas de Lindavista,Fraccionamiento,21,26
+67112,Villas del Río,Colonia,9,26
+67112,Pedregal de Lindavista II,Colonia,9,26
+67112,Provivienda la Esperanza,Colonia,9,26
+67112,Almendros,Colonia,9,26
+67112,Las Dalias,Fraccionamiento,21,26
+67113,Policía Auxiliar,Colonia,9,26
+67113,Arboledas de Acapulco,Colonia,9,26
+67113,Real de San Miguel Sector Cuatro,Fraccionamiento,21,26
+67113,Residencial Avante,Fraccionamiento,21,26
+67113,Hacienda San Miguel,Colonia,9,26
+67113,Privada San Fernando,Fraccionamiento,21,26
+67113,Fuentes de San Miguel,Colonia,9,26
+67113,Torres de San Miguel,Colonia,9,26
+67113,Colonial de San Miguel,Colonia,9,26
+67113,INFONAVIT Benito Juárez,Colonia,9,26
+67113,Lomas de San Miguel,Colonia,9,26
+67113,Mixcoac,Colonia,9,26
+67113,Real de San Miguel Sector Uno,Fraccionamiento,21,26
+67113,Real de San Miguel Sector Tres,Fraccionamiento,21,26
+67113,Real de San Miguel Sector Dos,Fraccionamiento,21,26
+67113,Coloniales San Miguel Sector Uno,Colonia,9,26
+67113,Valle San Miguel,Colonia,9,26
+67113,Balcones de San Miguel,Colonia,9,26
+67115,Sebastián Elizondo,Colonia,9,26
+67115,Parque Industrial Viga,Zona industrial,37,26
+67115,Pedregal de Oriente,Colonia,9,26
+67115,Maya,Fraccionamiento,21,26
+67115,Nuevo Milenio,Fraccionamiento,21,26
+67115,PROMOFISA,Zona industrial,37,26
+67115,San Miguel,Zona industrial,37,26
+67116,Benito Juárez,Unidad habitacional,31,26
+67116,Jardines de Casa Blanca,Colonia,9,26
+67116,Jardines Guadalupe,Colonia,9,26
+67116,Siete Colinas Sector Palatino,Colonia,9,26
+67116,Riveras de la Silla (Fomerrey 31),Colonia,9,26
+67116,Jardines del Río,Colonia,9,26
+67116,Jardines de San Miguel,Colonia,9,26
+67116,Nuevo San Miguel,Colonia,9,26
+67117,Valle Torremolinos,Fraccionamiento,21,26
+67117,Josefa Zozaya,Colonia,9,26
+67117,Centroamérica,Colonia,9,26
+67117,Los Cristales,Colonia,9,26
+67117,Raúl Caballero,Colonia,9,26
+67117,Residencial Torremolinos,Fraccionamiento,21,26
+67117,Los Cristales Tercer Sector,Colonia,9,26
+67117,Zozayita,Colonia,9,26
+67117,Eduardo Caballero,Colonia,9,26
+67117,Arboledas del Oriente,Colonia,9,26
+67117,Torremolinos la Fe,Fraccionamiento,21,26
+67117,Misión de Guadalupe,Colonia,9,26
+67117,Cañada Blanca,Unidad habitacional,31,26
+67118,Nuevo San Rafael,Colonia,9,26
+67118,Misión del Valle,Colonia,9,26
+67118,Hacienda la Española,Colonia,9,26
+67118,Valle San Rafael,Colonia,9,26
+67118,Emiliano Zapata (Fomerrey 18),Colonia,9,26
+67118,La Floresta,Colonia,9,26
+67118,Villa Española,Colonia,9,26
+67119,San Rafael,Colonia,9,26
+67119,Praderas de San Rafael,Colonia,9,26
+67119,Jardines de San Rafael,Colonia,9,26
+67119,Industrial Jardines San Rafael,Zona industrial,37,26
+67120,Hércules,Colonia,9,26
+67120,León XIII,Colonia,9,26
+67120,Nueva Libertad,Colonia,9,26
+67120,Adolfo Prieto Sector 3,Colonia,9,26
+67120,América Obrera,Colonia,9,26
+67120,Residencial Minerva,Colonia,9,26
+67120,Adolfo Prieto,Colonia,9,26
+67120,Adolfo Prieto Sector 2,Colonia,9,26
+67120,La Luz,Colonia,9,26
+67123,10 de Mayo,Colonia,9,26
+67123,Lindavista,Colonia,9,26
+67123,Arboledas de Corregidora,Colonia,9,26
+67123,Jardines de Lindavista,Colonia,9,26
+67123,Libertad,Colonia,9,26
+67124,Escamilla,Colonia,9,26
+67124,Aragonés,Colonia,9,26
+67124,Adolfo Prieto Sector 4,Colonia,9,26
+67124,Real de Minas,Colonia,9,26
+67125,Vista Sol,Colonia,9,26
+67125,Privada Purísima,Fraccionamiento,21,26
+67125,Condocasa Lindavista,Fraccionamiento,21,26
+67125,Valle de Lindavista,Colonia,9,26
+67125,Cerradas de Lindavista,Colonia,9,26
+67125,América,Colonia,9,26
+67125,Lolyta,Colonia,9,26
+67126,Torres Lindavista,Colonia,9,26
+67126,18 de Marzo,Colonia,9,26
+67126,Rivera de Linda Vista,Colonia,9,26
+67126,Riveras de la Purísima,Colonia,9,26
+67126,Doctor Ángel Martínez Villarreal,Colonia,9,26
+67128,Parque Industrial las Américas,Zona industrial,37,26
+67129,Rincón de la Purísima,Colonia,9,26
+67129,Jardines Nueva Lindavista,Colonia,9,26
+67129,La Purísima,Colonia,9,26
+67129,Serena,Fraccionamiento,21,26
+67129,Central de Carga,Zona comercial,33,26
+67129,La Talaverna Módulo Social FOVISSSTE,Unidad habitacional,31,26
+67129,Arboledas Nueva Lindavista,Colonia,9,26
+67129,Nueva Lindavista,Colonia,9,26
+67130,Cerrada México,Fraccionamiento,21,26
+67130,Privadas de San Miguel,Fraccionamiento,21,26
+67130,Parque Industrial Nexxus,Zona industrial,37,26
+67130,Bosques del Sol,Colonia,9,26
+67130,San Roberto,Fraccionamiento,21,26
+67130,La Condesa,Colonia,9,26
+67130,Valle de las Flores,Fraccionamiento,21,26
+67130,Paseo Amberes,Fraccionamiento,21,26
+67130,Valle Soleado,Colonia,9,26
+67132,Regio Parque Industrial Guadalupe,Zona industrial,37,26
+67132,Fátima,Fraccionamiento,21,26
+67132,Parque Industrial FINSA Monterrey-Guadalupe,Zona industrial,37,26
+67132,FINSA Oriente,Zona industrial,37,26
+67132,Bello Amanecer,Fraccionamiento,21,26
+67132,Riviera de Guadalupe,Fraccionamiento,21,26
+67133,Kalos Guadalupe Aeropuerto,Zona industrial,37,26
+67133,Las Escobas,Colonia,9,26
+67134,Dos Ríos,Fraccionamiento,21,26
+67134,Privada San Carlos,Fraccionamiento,21,26
+67134,Residencial Privada las Plazas,Fraccionamiento,21,26
+67134,Península Residencial,Fraccionamiento,21,26
+67134,Riberas de Dos Ríos,Fraccionamiento,21,26
+67134,Arboledas de Santa Cecilia,Colonia,9,26
+67134,Santa Clara,Fraccionamiento,21,26
+67140,Cóndor,Unidad habitacional,31,26
+67140,La Pastora,Colonia,9,26
+67140,Valle de Chapultepec,Colonia,9,26
+67140,Los Sauces,Colonia,9,26
+67140,Las Plazas Uno,Unidad habitacional,31,26
+67140,Rivera de la Pastora,Colonia,9,26
+67140,Juan Álvarez,Colonia,9,26
+67140,La Herradura,Colonia,9,26
+67140,Paraíso,Colonia,9,26
+67140,Revolución,Colonia,9,26
+67140,Chinameca,Colonia,9,26
+67140,Central de Abastos,Zona comercial,33,26
+67140,Las Plazas Dos,Unidad habitacional,31,26
+67140,Esmeralda,Colonia,9,26
+67140,Polanco Oriente,Colonia,9,26
+67140,Santa Margarita,Colonia,9,26
+67140,Las Plazas Tres,Unidad habitacional,31,26
+67140,Del Maestro,Colonia,9,26
+67140,Ignacio Altamirano,Colonia,9,26
+67140,Jardines la Pastora,Colonia,9,26
+67140,Polanco,Colonia,9,26
+67140,Residencial Cerro de la Silla,Colonia,9,26
+67144,Benito Juárez,Colonia,9,26
+67144,El Bajío,Colonia,9,26
+67144,Venus,Colonia,9,26
+67144,La Huerta,Colonia,9,26
+67144,Marte,Colonia,9,26
+67144,Guerra,Colonia,9,26
+67144,Riviera del Contry,Colonia,9,26
+67150,Residencial Azteca,Colonia,9,26
+67150,Rincón de la Azteca,Colonia,9,26
+67150,INFONAVIT Azteca,Unidad habitacional,31,26
+67150,Azteca,Colonia,9,26
+67150,Las Canteras,Colonia,9,26
+67150,Nueva Exposición,Colonia,9,26
+67150,José María Morelos,Colonia,9,26
+67153,Privada Chapultepec,Colonia,9,26
+67153,Privada Laura,Colonia,9,26
+67154,El Sabino,Colonia,9,26
+67154,Exposición Modelo,Colonia,9,26
+67154,La Fuente,Colonia,9,26
+67154,San Diego,Colonia,9,26
+67155,Expo Ganadera,Colonia,9,26
+67155,La Hacienda,Colonia,9,26
+67155,Exposición,Colonia,9,26
+67155,Alamedas de la Hacienda,Colonia,9,26
+67155,Guadalupe Zitoon,Colonia,9,26
+67160,Riberas del Río,Colonia,9,26
+67160,Valle Hermoso Sector Uno,Colonia,9,26
+67160,INFONAVIT la Joya,Colonia,9,26
+67163,Ignacio Zaragoza,Colonia,9,26
+67163,San Agustín,Colonia,9,26
+67163,Vicente Guerrero,Colonia,9,26
+67164,Unión,Colonia,9,26
+67164,21 de Enero,Colonia,9,26
+67164,Río,Colonia,9,26
+67164,Valle Hermoso Sector Dos,Colonia,9,26
+67165,Residencial las Quintas,Colonia,9,26
+67165,Unión Modelo,Colonia,9,26
+67165,Los Encinos,Colonia,9,26
+67166,Nueva Rosita,Colonia,9,26
+67167,INFONAVIT la Joya Cuarto Sector,Colonia,9,26
+67167,Orizaba,Colonia,9,26
+67167,INFONAVIT la Joya Quinto Sector,Colonia,9,26
+67167,La Joyita,Colonia,9,26
+67167,Rosita,Colonia,9,26
+67168,Las Sabinas (Solidaridad Fomerrey),Colonia,9,26
+67168,Valle de las Sabinas,Colonia,9,26
+67168,Hacienda los Lerma Primer Sector,Colonia,9,26
+67168,Nueva Joya,Fraccionamiento,21,26
+67168,Marsella Residencial,Fraccionamiento,21,26
+67168,Simuplade,Colonia,9,26
+67168,Hacienda los Lerma Segundo Sector,Colonia,9,26
+67168,Rincón de la Hacienda,Fraccionamiento,21,26
+67168,Portal de la Hacienda,Colonia,9,26
+67168,Hacienda de los Arcángeles,Fraccionamiento,21,26
+67169,Evante Residencial,Fraccionamiento,21,26
+67169,El Quetzal,Colonia,9,26
+67169,Sabinitas,Colonia,9,26
+67169,Los Faisanes,Fraccionamiento,21,26
+67169,Faisanes Sur,Colonia,9,26
+67169,Los Faisanes Sector el Dorado,Colonia,9,26
+67169,Libertadores de América,Colonia,9,26
+67170,Camino Real,Colonia,9,26
+67170,Progreso,Colonia,9,26
+67170,Mirasol,Colonia,9,26
+67170,20 de Noviembre,Colonia,9,26
+67170,15 de Mayo,Colonia,9,26
+67173,Contry la Silla,Colonia,9,26
+67173,Contry los Nogales,Colonia,9,26
+67173,Punta Contry,Colonia,9,26
+67173,Pedregal Contry,Colonia,9,26
+67173,Contry la Escondida,Colonia,9,26
+67173,Contry la Costa,Colonia,9,26
+67173,Rincón Colonial la Silla,Colonia,9,26
+67173,Rincón de la Primavera,Colonia,9,26
+67174,Las Águilas,Fraccionamiento,21,26
+67174,Riberas del Contry,Colonia,9,26
+67174,Bosques del Contry,Colonia,9,26
+67174,Rincón del Contry,Colonia,9,26
+67174,Atoyac de Álvarez,Colonia,9,26
+67174,25 de Noviembre,Colonia,9,26
+67174,Bosques de la Pastora,Colonia,9,26
+67174,Villa Pastora,Colonia,9,26
+67174,Puesta del Sol,Colonia,9,26
+67174,Contry Sol,Colonia,9,26
+67174,Valle del Contry,Colonia,9,26
+67175,Felipe Ángeles,Colonia,9,26
+67175,Tolteca,Colonia,9,26
+67175,La Quinta,Colonia,9,26
+67175,Plan del Río,Colonia,9,26
+67175,Las Villas,Colonia,9,26
+67176,Ruiz Cortínes,Colonia,9,26
+67176,Mirador de la Silla,Colonia,9,26
+67176,Vivienda Popular,Colonia,9,26
+67176,Fresnos la Silla,Colonia,9,26
+67177,Cerro de la Silla,Colonia,9,26
+67177,Altos San Roque (Fomerrey 26),Colonia,9,26
+67177,Galerías del Camino Real Segundo Sector,Fraccionamiento,21,26
+67177,Lomas de la Silla (Fomerrey 14),Colonia,9,26
+67177,Residencial Real de la Silla,Fraccionamiento,21,26
+67177,FOVISSSTE Camino Real,Colonia,9,26
+67177,Valle de Guadalupe,Colonia,9,26
+67177,Galerías del Camino Real Primer Sector,Fraccionamiento,21,26
+67178,Jardines de Tolteca,Colonia,9,26
+67178,Lomas de Tolteca,Colonia,9,26
+67178,Alfonso Martínez Domínguez,Colonia,9,26
+67178,Contry los Encinos,Fraccionamiento,21,26
+67178,Privadas de Contry,Fraccionamiento,21,26
+67178,Granjitas la Silla,Colonia,9,26
+67178,Los Canelos,Colonia,9,26
+67179,Privada los Sabinos,Fraccionamiento,21,26
+67179,Residencial Mira Loma,Fraccionamiento,21,26
+67179,Ignacio Allende,Colonia,9,26
+67180,Fomerrey 20 (2 de Mayo),Colonia,9,26
+67180,Zertuche Segundo Sector,Colonia,9,26
+67180,Parque San Andrés,Colonia,9,26
+67180,Díaz Ordaz,Colonia,9,26
+67180,La Playa,Colonia,9,26
+67180,La Playita,Colonia,9,26
+67180,Miguel Hidalgo (Fomerrey 19),Colonia,9,26
+67180,Valles de la Silla,Colonia,9,26
+67180,Burócratas Municipales,Colonia,9,26
+67180,Villa de los Reyes,Colonia,9,26
+67182,Colinas de Guadalupe,Colonia,9,26
+67182,Almaguer,Colonia,9,26
+67182,Guadalupe Chávez,Colonia,9,26
+67182,Encino de la Silla,Colonia,9,26
+67182,Privada Vicente Ferrer,Colonia,9,26
+67182,Morenita Guajardo,Colonia,9,26
+67182,Colinas de la Silla,Colonia,9,26
+67182,Cañón de la Silla,Colonia,9,26
+67182,23 de Noviembre,Colonia,9,26
+67182,Arboledas de la Silla,Colonia,9,26
+67182,El Peñón,Colonia,9,26
+67183,Villa Olímpica,Colonia,9,26
+67183,Campestre la Silla,Colonia,9,26
+67183,Ampliación México Nuevo,Colonia,9,26
+67183,Luis Donaldo Colosio,Colonia,9,26
+67183,La Alianza de Ruteros,Colonia,9,26
+67183,Garza Melo,Colonia,9,26
+67183,Los Delfines,Colonia,9,26
+67183,Miguel de la Madrid,Colonia,9,26
+67183,Bosques de la Silla,Colonia,9,26
+67183,Nuevo México,Colonia,9,26
+67183,Guajardo,Colonia,9,26
+67184,Colibrí Tres,Colonia,9,26
+67184,Tacubaya,Colonia,9,26
+67184,San Sebastián,Colonia,9,26
+67184,La Comedia,Colonia,9,26
+67184,Santa Isabel,Colonia,9,26
+67184,Pablo Livas,Colonia,9,26
+67184,Zertuche Primer Sector,Colonia,9,26
+67184,Valle San Roque,Fraccionamiento,21,26
+67184,San Cristóbal,Colonia,9,26
+67184,Condado de Santa Lucía,Colonia,9,26
+67184,Jardines de Santa Clara,Colonia,9,26
+67184,Villa San Sebastián,Colonia,9,26
+67184,Valle de San Andrés,Colonia,9,26
+67184,Insurgentes,Colonia,9,26
+67185,Las Avenidas,Colonia,9,26
+67185,13 de Mayo,Colonia,9,26
+67185,Fomerrey 32,Colonia,9,26
+67185,Santa Clara,Fraccionamiento,21,26
+67185,La Roca,Colonia,9,26
+67185,El Milagro,Colonia,9,26
+67185,Rafael Ramírez Sector II,Colonia,9,26
+67185,Agua Nueva,Colonia,9,26
+67185,Parques de Guadalupe,Colonia,9,26
+67185,Cerradas de la Silla,Colonia,9,26
+67185,Guadalupe Victoria,Colonia,9,26
+67185,José Luis Mora,Colonia,9,26
+67185,Rafael Ramírez Sector I,Colonia,9,26
+67186,Cuesta Verde,Colonia,9,26
+67186,San Eduardo,Colonia,9,26
+67186,Praderas de la Silla,Fraccionamiento,21,26
+67186,Josefa Ortíz de Domínguez,Colonia,9,26
+67186,Lomas de San Roque,Colonia,9,26
+67186,Unidad Piloto,Unidad habitacional,31,26
+67186,Lucio Blanco,Colonia,9,26
+67186,Gloria Mendiola,Colonia,9,26
+67186,Collados de Guadalupe Tercer Sector,Fraccionamiento,21,26
+67186,Vicente Ferrer,Colonia,9,26
+67186,Collados de Guadalupe Segundo Sector,Fraccionamiento,21,26
+67186,Collados de Guadalupe Primer Sector,Fraccionamiento,21,26
+67186,Valle la Silla,Colonia,9,26
+67186,Nuevo Almaguer,Colonia,9,26
+67186,Loma Verde,Colonia,9,26
+67188,Nuevo San Sebastián,Colonia,9,26
+67188,Los Lermas,Colonia,9,26
+67188,Melchor Ocampo,Colonia,9,26
+67188,Cerradas de Bugambilias,Colonia,9,26
+67188,Chula Vista,Colonia,9,26
+67188,Rosalinda,Colonia,9,26
+67189,Colibrí Dos,Colonia,9,26
+67189,Solidaridad,Colonia,9,26
+67189,Colibrí Uno,Colonia,9,26
+67189,2 de Junio,Colonia,9,26
+67189,Santa Elena,Colonia,9,26
+67189,Los Ángeles,Colonia,9,26
+67190,Roble Santa María,Colonia,9,26
+67190,Cerro Azul,Colonia,9,26
+67190,Lantana Privadas Residencial,Fraccionamiento,21,26
+67190,3 Caminos Norte,Colonia,9,26
+67190,Guadalupe la Silla,Colonia,9,26
+67190,3 Caminos,Unidad habitacional,31,26
+67190,Cerro de la Silla UC,Colonia,9,26
+67190,Las Flores,Colonia,9,26
+67190,Parque Industrial Guadalupe,Zona industrial,37,26
+67190,División del Norte,Colonia,9,26
+67190,Niños Héroes,Colonia,9,26
+67190,Residencial Guadalupe,Fraccionamiento,21,26
+67190,Reynosa,Colonia,9,26
+67192,Valle de San Roque,Colonia,9,26
+67192,Nueva Aurora,Colonia,9,26
+67192,Bugambilias de la Sierra,Colonia,9,26
+67192,Las Colinas,Colonia,9,26
+67192,Las Palmas,Colonia,9,26
+67192,Rancho Viejo Sector Dos,Colonia,9,26
+67192,Rancho Viejo Sector Uno,Colonia,9,26
+67193,Misión Santa Fe,Colonia,9,26
+67193,Acueducto Guadalupe,Colonia,9,26
+67193,Parque Industrial Acueducto,Zona industrial,37,26
+67193,Jardines de Andalucía,Colonia,9,26
+67193,Sierra Morena,Colonia,9,26
+67194,Molino del Rey,Colonia,9,26
+67194,Lomas del Rey,Fraccionamiento,21,26
+67194,Rincón de la Sierra,Colonia,9,26
+67194,Portales de la Silla Segundo Sector,Fraccionamiento,21,26
+67194,Nosara Residencial,Fraccionamiento,21,26
+67194,México 86,Colonia,9,26
+67194,Portales de la Silla,Colonia,9,26
+67194,Colinas del Rey,Colonia,9,26
+67194,Privadas del Rey,Fraccionamiento,21,26
+67194,Bosques del Rey,Colonia,9,26
+67195,Valles de Guadalupe,Unidad habitacional,31,26
+67195,Parque Industrial la Silla,Zona industrial,37,26
+67195,Ciudad CROC,Unidad habitacional,31,26
+67195,Pedregal de Guadalupe,Colonia,9,26
+67195,Villa Alegre,Colonia,9,26
+67196,Santa Bárbara,Fraccionamiento,21,26
+67196,Jardines de Xochimilco,Colonia,9,26
+67196,Las Escobas,Rancho,48,26
+67196,Valle del Sol,Colonia,9,26
+67196,Xochimilco,Colonia,9,26
+67196,Rincón la Silla,Colonia,9,26
+67196,Portal de Xochimilco,Colonia,9,26
+67196,Privadas de la Silla,Fraccionamiento,21,26
+67197,Hacienda de Guadalupe,Colonia,9,26
+67197,Cortijo la Silla,Fraccionamiento,21,26
+67197,Valle de los Encinos,Colonia,9,26
+67197,Tierra Propia Sector Uno,Colonia,9,26
+67197,Tierra Propia Sector Dos,Colonia,9,26
+67197,Misión de la Silla,Fraccionamiento,21,26
+67198,Acapulco,Colonia,9,26
+67198,Rincón de Guadalupe,Colonia,9,26
+67198,Fomerrey Tres,Colonia,9,26
+67198,SCOP,Colonia,9,26
+67198,Santa María,Colonia,9,26
+67198,Carmen Serdán,Colonia,9,26
+67198,Nuevo Santa María,Fraccionamiento,21,26
+67199,Hacienda la Silla,Colonia,9,26
+67199,Los Independientes,Colonia,9,26
+67199,SCT,Colonia,9,26
+67199,Paseo de Guadalupe,Fraccionamiento,21,26
+67200,Evolución,Fraccionamiento,21,26
+67200,31 de Diciembre,Colonia,9,26
+67200,Ciudad CNOP,Colonia,9,26
+67200,Puerta del Sol,Colonia,9,26
+67200,Tamaulipas,Colonia,9,26
+67200,Nuevo Tamaulipas,Colonia,9,26
+67202,Sandra Saavedra,Colonia,9,26
+67202,Miguel Hidalgo,Colonia,9,26
+67202,Residencial Santa María,Fraccionamiento,21,26
+67202,5 de Enero,Colonia,9,26
+67202,Nuevo León,Colonia,9,26
+67202,La Trinidad,Colonia,9,26
+67203,Vaquerías,Colonia,9,26
+67203,Hacienda San Sebastián,Colonia,9,26
+67203,Praderas de Guadalupe,Colonia,9,26
+67203,María Teresa,Colonia,9,26
+67204,Crispín Treviño,Colonia,9,26
+67204,Los Manantiales,Colonia,9,26
+67204,David Cavazos,Colonia,9,26
+67204,Huerta de Guadalupe,Colonia,9,26
+67204,Villas del Río,Colonia,9,26
+67204,Privada Villas del Río,Fraccionamiento,21,26
+67204,Industrial la Silla,Zona industrial,37,26
+67205,Rincón de los Sabinos,Colonia,9,26
+67205,Fuentes de Guadalupe,Fraccionamiento,21,26
+67205,29 de Julio,Colonia,9,26
+67205,Santa Cruz,Colonia,9,26
+67205,Kalos Guadalupe,Zona industrial,37,26
+67205,Misión Santa Cruz,Colonia,9,26
+67250,Benito Juárez Centro,Colonia,9,31
+67250,Hacienda San José,Fraccionamiento,21,31
+67250,Hacienda Santa Lucía,Colonia,9,31
+67253,Riberas de Santa Maria,Fraccionamiento,21,31
+67253,INFONAVIT Benito Juárez,Unidad habitacional,31,31
+67254,Mirador del Parque,Fraccionamiento,21,31
+67254,La Ciudadela Sector Real de San José,Fraccionamiento,21,31
+67254,Rinconada San Juan,Fraccionamiento,21,31
+67254,Lomas Del Sol,Colonia,9,31
+67254,Mirador de la Montaña,Colonia,9,31
+67254,La Ciudadela Sector Villas de San Juan,Fraccionamiento,21,31
+67254,Los Alcatraces,Colonia,9,31
+67254,Villas de San Jose,Fraccionamiento,21,31
+67254,Riberas de la Morena,Fraccionamiento,21,31
+67255,Mirador San Antonio,Fraccionamiento,21,31
+67255,Cerradas Diamante,Fraccionamiento,21,31
+67256,Juárez,Ejido,15,31
+67256,URBI Villa del Real,Fraccionamiento,21,31
+67256,San Cristóbal,Fraccionamiento,21,31
+67257,Privadas Sierra Morena,Fraccionamiento,21,31
+67257,La Reforma,Colonia,9,31
+67257,Las Sabinitas,Colonia,9,31
+67257,Residencial Punta Esmeralda,Fraccionamiento,21,31
+67257,Calderón,Colonia,9,31
+67257,El Sabinal,Fraccionamiento,21,31
+67257,Monte Verde,Colonia,9,31
+67257,Colinas Del Sol,Fraccionamiento,21,31
+67257,Valle Del Virrey,Fraccionamiento,21,31
+67257,Coahuila,Colonia,9,31
+67257,Las Águilas,Colonia,9,31
+67257,Las Sabinas,Colonia,9,31
+67257,Quinta las Sabinas,Fraccionamiento,21,31
+67258,Los Puertos Tercer Sector,Fraccionamiento,21,31
+67258,Los Puertos Cuarto Sector,Fraccionamiento,21,31
+67258,Los Puertos,Fraccionamiento,21,31
+67258,Villas Anzures,Fraccionamiento,21,31
+67258,Lomas Anzures,Fraccionamiento,21,31
+67258,Anzures Ventura,Fraccionamiento,21,31
+67258,Lomas de Fátima,Fraccionamiento,21,31
+67258,Anzures,Fraccionamiento,21,31
+67259,San Antonio,Hacienda,24,31
+67260,Paseo Santa Fe,Fraccionamiento,21,31
+67260,Fomerrey 131,Unidad habitacional,31,31
+67260,20 de Septiembre,Colonia,9,31
+67260,Paseo de las Lomas,Fraccionamiento,21,31
+67260,Paseo Andaluz,Fraccionamiento,21,31
+67262,Arboledas del Parque,Fraccionamiento,21,31
+67262,Santa Lidia,Rancho,48,31
+67262,Ismael Flores,Colonia,9,31
+67262,Santa Maria,Colonia,9,31
+67262,La Luz (La Posta),Rancho,48,31
+67262,Colinas de San Juan,Fraccionamiento,21,31
+67262,San José,Colonia,9,31
+67262,Nido,Rancho,48,31
+67262,Hacienda La Morena,Fraccionamiento,21,31
+67265,Privadas de San Mateo,Fraccionamiento,21,31
+67265,Residencial los Huertos,Fraccionamiento,21,31
+67265,Colinas Del Vergel,Colonia,9,31
+67265,Praderas de Oriente,Fraccionamiento,21,31
+67265,La Ciudadela,Colonia,9,31
+67265,Los Huertos,Colonia,9,31
+67265,Las Quintas Residencial,Colonia,9,31
+67265,Privadas los Cyranos,Fraccionamiento,21,31
+67265,Bosques del Seminario,Fraccionamiento,21,31
+67265,Paraje Juárez,Colonia,9,31
+67265,Las Lomas,Colonia,9,31
+67266,Los Cántaros,Fraccionamiento,21,31
+67266,Vistas de San Juan,Fraccionamiento,21,31
+67266,La Paz (Camino a la Paz),Rancho,48,31
+67266,El Mirador,Colonia,9,31
+67266,San Miguelito,Fraccionamiento,21,31
+67266,Portal de San Roberto,Fraccionamiento,21,31
+67266,Portal de Juárez,Fraccionamiento,21,31
+67266,Hacienda Real,Fraccionamiento,21,31
+67267,Hacienda de Juárez,Fraccionamiento,21,31
+67267,Jardines de Villa Juárez,Fraccionamiento,21,31
+67267,Garza y Garza,Colonia,9,31
+67267,Hacienda San Benito,Residencial,30,31
+67267,Privadas Ocania,Fraccionamiento,21,31
+67267,INFONAVIT Francisco Villa,Unidad habitacional,31,31
+67267,La Escondida,Colonia,9,31
+67267,Vistas del Río,Colonia,9,31
+67267,Mirador del Río,Fraccionamiento,21,31
+67267,El Ancon,Colonia,9,31
+67267,Praderas de San Juan,Fraccionamiento,21,31
+67267,Villas de Oriente,Colonia,9,31
+67267,Residencial Terranova,Colonia,9,31
+67267,Fuentes de Juárez,Colonia,9,31
+67269,Colinas del Río,Colonia,9,31
+67269,Paseo de las Margaritas,Fraccionamiento,21,31
+67269,Rincón del Parque,Fraccionamiento,21,31
+67269,Las Margaritas,Colonia,9,31
+67275,San Juan,Fraccionamiento,21,31
+67275,Villa Luz,Colonia,9,31
+67275,Los Encinos,Colonia,9,31
+67275,Monte Kristal Ampliación,Colonia,9,31
+67275,Las Concordias,Fraccionamiento,21,31
+67275,La Esperanza,Colonia,9,31
+67275,Paseo Del Prado,Colonia,9,31
+67275,Riviera del Sol,Fraccionamiento,21,31
+67275,Hector Caballero Escamilla,Colonia,9,31
+67276,Villa San Francisco,Fraccionamiento,21,31
+67276,Hacienda San Marcos,Fraccionamiento,21,31
+67276,Cerro de La Silla,Colonia,9,31
+67276,Gardenias,Fraccionamiento,21,31
+67276,Cardel,Fraccionamiento,21,31
+67276,Residencial Santa Julia,Fraccionamiento,21,31
+67276,Centro Habitacional Burócratas de Guadalupe,Colonia,9,31
+67276,Las Bugambilias,Fraccionamiento,21,31
+67276,Sol Residencial,Fraccionamiento,21,31
+67277,Prados de San Roque,Fraccionamiento,21,31
+67277,Reserva de San Roque,Fraccionamiento,21,31
+67277,Sol Residencial II Sector,Fraccionamiento,21,31
+67277,Portal de San Roque,Fraccionamiento,21,31
+67277,Balcones de Zirandaro,Colonia,9,31
+67277,Los Reyes,Colonia,9,31
+67277,Cerradas del Rey,Fraccionamiento,21,31
+67277,América Unida,Colonia,9,31
+67277,Privada San Roque,Fraccionamiento,21,31
+67277,Arcos de Zirándaro,Fraccionamiento,21,31
+67277,Zirandaro,Fraccionamiento,21,31
+67279,Los Arcos,Colonia,9,31
+67279,Villa los Arcos,Colonia,9,31
+67280,Aurora,Fraccionamiento,21,31
+67280,Valle Sur,Colonia,9,31
+67280,Alborada,Fraccionamiento,21,31
+67280,Arboledas de San Roque,Colonia,9,31
+67280,Los Cometas,Fraccionamiento,21,31
+67280,Los Valles Segundo Sector,Colonia,9,31
+67280,Valle Real,Fraccionamiento,21,31
+67280,Portal de Vaquerías,Fraccionamiento,21,31
+67280,Valle de Vaquerías,Fraccionamiento,21,31
+67280,Viviendas Magdalena,Fraccionamiento,21,31
+67280,Los Valles,Colonia,9,31
+67280,Montebello,Colonia,9,31
+67280,San Roque,Colonia,9,31
+67280,Hacienda Rancho Viejo,Colonia,9,31
+67280,San Francisco,Fraccionamiento,21,31
+67280,Monte Kristal,Colonia,9,31
+67280,Vistas del Seminario,Fraccionamiento,21,31
+67280,Fuentes del Seminario,Fraccionamiento,21,31
+67280,Cristales de San Roque,Fraccionamiento,21,31
+67280,Bosques de San Roque,Fraccionamiento,21,31
+67280,Arboledas de los Naranjos,Colonia,9,31
+67280,Monte Kristal 4o Sector,Colonia,9,31
+67286,Salvador Chavez Mora,Colonia,9,31
+67286,Hacienda los Laureles,Fraccionamiento,21,31
+67286,Lomas de Santa Mónica I,Fraccionamiento,21,31
+67286,Lomas de Santa Mónica II,Fraccionamiento,21,31
+67286,Arcadia,Fraccionamiento,21,31
+67286,Las Espinas,Rancho,48,31
+67286,Bosques de San Pedro,Colonia,9,31
+67286,10 de Mayo,Colonia,9,31
+67286,Pedregal Santa Mónica,Fraccionamiento,21,31
+67286,Santa Mónica,Fraccionamiento,21,31
+67286,Privadas de la Silla,Fraccionamiento,21,31
+67286,Valle de la Silla,Fraccionamiento,21,31
+67286,La Maestranza,Colonia,9,31
+67286,San Pedro,Colonia,9,31
+67286,La Trinidad,Fraccionamiento,21,31
+67286,Los Reguiletes,Fraccionamiento,21,31
+67287,Ricardo Flores Magón,Colonia,9,31
+67287,Privadas Jardines Residencial,Colonia,9,31
+67287,Jardines de La Silla,Colonia,9,31
+67288,Ex Hacienda el Rosario,Fraccionamiento,21,31
+67288,Rancho Viejo,Colonia,9,31
+67288,Villa los Naranjos,Colonia,9,31
+67288,Villas de la Hacienda,Fraccionamiento,21,31
+67288,Héroe de Nacozari,Colonia,9,31
+67288,Sierra Vista,Fraccionamiento,21,31
+67288,La Querencia Residencial,Fraccionamiento,21,31
+67288,Ex Hacienda el Rosario Sector Diamante,Fraccionamiento,21,31
+67288,Santa Isabel,Fraccionamiento,21,31
+67288,Los Naranjos,Colonia,9,31
+67288,Lomas de los Naranjos,Colonia,9,31
+67288,Monte Alto,Colonia,9,31
+67288,Paseo de Acueducto Juárez,Colonia,9,31
+67289,Valle de Juárez,Colonia,9,31
+67289,Privada Vía Siete,Fraccionamiento,21,31
+67289,Punta Esmeralda Sur,Fraccionamiento,21,31
+67290,Santa Ana de Arriba,Colonia,9,31
+67290,Rancho del Abuelo,Rancho,48,31
+67290,Palos Altos,Granja,23,31
+67296,Misión San Mateo,Colonia,9,31
+67296,Los Canelos,Rancho,48,31
+67296,San Mateo,Colonia,9,31
+67298,La Lobita,Colonia,9,31
+67298,La Ciénega (La Cieneguita),Colonia,9,31
+67298,El Campanario,Fraccionamiento,21,31
+67298,Carricitos,Colonia,9,31
+67298,Bosques de la Silla (Santa Ana de Abajo),Fraccionamiento,21,31
+67300,Los Rodríguez,Colonia,9,49
+67300,Amorada Privada Residencial,Fraccionamiento,21,49
+67300,Huajuquito o los Cavazos,Colonia,9,49
+67302,La Noria Privada Residencial,Fraccionamiento,21,49
+67302,Privada los Franciscanos,Fraccionamiento,21,49
+67302,Las Misiones,Fraccionamiento,21,49
+67302,Yerbaniz,Colonia,9,49
+67303,El Barrial,Colonia,9,49
+67303,El Ranchito,Colonia,9,49
+67303,San Andres,Fraccionamiento,21,49
+67303,El Cerrito,Colonia,9,49
+67304,La Boca,Congregación,11,49
+67307,San Pedro,Ranchería,29,49
+67307,La Esperanza,Fraccionamiento,21,49
+67307,Bosques de San José,Fraccionamiento,21,49
+67308,Cieneguilla,Congregación,11,49
+67308,Potrero de Serna (La Nogalera),Pueblo,28,49
+67310,Villa Rosario,Colonia,9,49
+67310,El Pueblito de Santiago,Fraccionamiento,21,49
+67310,Santiago Centro,Villa,32,49
+67310,Portales de Santiago,Fraccionamiento,21,49
+67312,Del Maestro,Colonia,9,49
+67312,San Francisco,Colonia,9,49
+67313,Jardines de Santiago,Colonia,9,49
+67314,San Jorge,Fraccionamiento,21,49
+67315,Viento Libre,Colonia,9,49
+67315,Valles de Santiago,Colonia,9,49
+67315,Condado de Asturias,Colonia,9,49
+67316,Hector Caballero,Colonia,9,49
+67316,Las Huertas,Fraccionamiento,21,49
+67317,Las Cristalinas,Fraccionamiento,21,49
+67317,La Boca,Fraccionamiento,21,49
+67317,Punta la Boca,Colonia,9,49
+67318,Santa Rosalía,Colonia,9,49
+67318,Arturo Cavazos,Colonia,9,49
+67318,Aldabas de Cavazzo,Fraccionamiento,21,49
+67320,El Cercado Centro,Colonia,9,49
+67320,15 de Mayo,Colonia,9,49
+67322,Lomas Del Cercado,Colonia,9,49
+67322,Los Pescadores,Colonia,9,49
+67322,Los Terreros,Colonia,9,49
+67322,San Javier,Colonia,9,49
+67322,Alameda,Colonia,9,49
+67323,Las Hadas,Fraccionamiento,21,49
+67323,Antonio Villalón,Colonia,9,49
+67323,Jardines de La Boca,Colonia,9,49
+67323,Los Nísperos,Colonia,9,49
+67324,R Garza Madero,Colonia,9,49
+67324,Campestre Santa Clara,Colonia,9,49
+67324,Bosques de las Lomas,Fraccionamiento,21,49
+67325,Las Margaritas,Colonia,9,49
+67327,Piedra de Fierro,Colonia,9,49
+67328,San José Norte,Colonia,9,49
+67328,Valle Dorado,Fraccionamiento,21,49
+67328,Santa Tais,Colonia,9,49
+67328,Raul Caballero Escamilla,Colonia,9,49
+67328,Bosque de San Pedro,Fraccionamiento,21,49
+67328,San Pedro El Álamo,Colonia,9,49
+67328,San José Sur,Colonia,9,49
+67329,Residencial Hacienda Santiago,Fraccionamiento,21,49
+67329,San José de Arriba (Los Leones),Colonia,9,49
+67329,La Plazuela,Colonia,9,49
+67329,Melchor Ocampo,Colonia,9,49
+67329,Blas Chumacero,Colonia,9,49
+67329,La Cieneguilla,Colonia,9,49
+67329,Valle Alto,Colonia,9,49
+67330,La Ciénega de González,Ejido,15,49
+67334,Potrero Redondo,Ranchería,29,49
+67337,El Tejocote,Ranchería,29,49
+67338,Laguna de Sánchez,Congregación,11,49
+67340,San Juan Bautista,Congregación,11,49
+67340,Bosque Residencial,Fraccionamiento,21,49
+67344,San José de las Boquillas,Congregación,11,49
+67350,Progreso,Fraccionamiento,21,4
+67350,Residencial la Molienda,Fraccionamiento,21,4
+67350,Colinas de Allende,Fraccionamiento,21,4
+67350,Sección Buenavista,Colonia,9,4
+67350,Sección Centro,Colonia,9,4
+67350,Baudilio Silva,Fraccionamiento,21,4
+67350,Elverdin Azahares,Fraccionamiento,21,4
+67350,El Vergel,Fraccionamiento,21,4
+67350,Valle de los Álamos,Fraccionamiento,21,4
+67350,Bernardo Flores,Colonia,9,4
+67350,Los Encinos,Fraccionamiento,21,4
+67350,Raúl Caballero,Colonia,9,4
+67350,Sección Diego López,Colonia,9,4
+67350,Río Ramos,Fraccionamiento,21,4
+67350,Independencia,Colonia,9,4
+67350,Los Barros,Colonia,9,4
+67350,Eduardo Livas Villarreal,Colonia,9,4
+67350,Sócrates Rizo (Valle de los Duraznos),Colonia,9,4
+67350,Cerradas de Buena Vista,Fraccionamiento,21,4
+67350,Nuevo Repueblo,Colonia,9,4
+67350,San Javier,Fraccionamiento,21,4
+67350,Sección los Álamos,Colonia,9,4
+67350,Alfonso Martínez Domínguez,Colonia,9,4
+67350,Santa Engracia,Fraccionamiento,21,4
+67350,Hacienda Valle Real,Fraccionamiento,21,4
+67350,Los Maestros,Colonia,9,4
+67350,Valle los Naranjos,Fraccionamiento,21,4
+67350,Los Perales,Fraccionamiento,21,4
+67350,Popular,Colonia,9,4
+67350,Las Bugambilias,Fraccionamiento,21,4
+67350,Eduardo A Elizondo,Colonia,9,4
+67350,Benito Juárez,Colonia,9,4
+67350,Valle Dorado,Fraccionamiento,21,4
+67350,Sección Zaragoza,Colonia,9,4
+67350,Sección Juárez,Colonia,9,4
+67353,Los Sabinos (Sabinos de Abajo),Pueblo,28,4
+67353,El Cerrito,Pueblo,28,4
+67354,Jáuregui,Pueblo,28,4
+67354,El Porvenir,Pueblo,28,4
+67354,Paso Hondo,Pueblo,28,4
+67362,Atongo de Abajo (Atongo Allende),Pueblo,28,4
+67363,Los Terreros,Ejido,15,4
+67363,Los Aguirre,Colonia,9,4
+67370,Los Guzmán,Pueblo,28,4
+67370,Villas de San Antonio,Colonia,9,4
+67373,San Antonio (Hacienda San Antonio),Pueblo,28,4
+67374,Las Cruces [Carretera Nacional Kilómetro 236],Colonia,9,4
+67374,Lazarillos de Arriba,Ranchería,29,4
+67374,Lazarillos de Abajo,Pueblo,28,4
+67380,Raíces,Ranchería,29,4
+67383,La Colmena de Abajo,Pueblo,28,4
+67383,La Colmena de Arriba,Pueblo,28,4
+67383,La Boquilla (Las Boquillas),Pueblo,28,4
+67400,El Granjenal,Pueblo,28,22
+67400,Ciudad General Terán,Pueblo,28,22
+67400,El Naranjo,Colonia,9,22
+67400,El Progreso,Colonia,9,22
+67400,Citricultores,Colonia,9,22
+67403,California,Ranchería,29,22
+67405,Ojo de Agua,Ranchería,29,22
+67405,Ramírez,Hacienda,24,22
+67406,La Purísima,Ejido,15,22
+67413,Las Anacuas,Ejido,15,22
+67413,La Unión,Hacienda,24,22
+67413,La Morita,Hacienda,24,22
+67414,Las Anacuitas,Ejido,15,22
+67415,La Corona [Hacienda],Ejido,15,22
+67416,El Encadenado,Hacienda,24,22
+67416,Santa Engracia [Hacienda],Hacienda,24,22
+67416,Las Brisas,Ejido,15,22
+67417,El Encadenado,Ejido,15,22
+67423,Guadalupe la Joya,Ranchería,29,22
+67430,San Julián,Ranchería,29,22
+67440,San Pedro,Hacienda,24,22
+67448,Buenavista de Jiménez,Ranchería,29,22
+67451,Cárdenas,Ranchería,29,9
+67453,Santa Fe,Hacienda,24,9
+67454,La Nutria,Ranchería,29,9
+67454,Rancho Viejo,Ejido,15,9
+67454,San Juan,Ejido,15,9
+67454,San Juan (El Calvario),Ejido,15,9
+67456,San Bartolo,Hacienda,24,9
+67456,Chihuahua,Hacienda,24,9
+67456,El Castillo,Ejido,15,9
+67456,San Bartolo (Puerto Rico),Ejido,15,9
+67457,El Mezcal,Hacienda,24,9
+67458,Valle del Roble,Fraccionamiento,21,9
+67459,San Juan de los Garza (San Juanito),Ejido,15,9
+67460,Las Adjuntas (Rancho Viejo),Ejido,15,9
+67460,Atongo de Abajo,Hacienda,24,9
+67460,La Purísima,Ejido,15,9
+67462,San Rafael,Hacienda,24,9
+67462,La Trinidad,Hacienda,24,9
+67463,La Ceja,Hacienda,24,9
+67463,La Condesa,Fraccionamiento,21,9
+67463,El Refugio,Hacienda,24,9
+67463,El Alamito,Hacienda,24,9
+67464,Santa Isabel,Hacienda,24,9
+67464,San Lorenzo,Ejido,15,9
+67465,Palmitos,Ejido,15,9
+67465,La Esperanza,Ejido,15,9
+67465,Palmitos (Hacienda Palmitos),Hacienda,24,9
+67467,La Unión,Hacienda,24,9
+67467,Las Palmas,Ejido,15,9
+67467,El Barranquito,Hacienda,24,9
+67467,San Isidro,Hacienda,24,9
+67467,El Barranquito,Ejido,15,9
+67467,Lajitas de Arriba,Hacienda,24,9
+67469,Las Adjuntas,Ejido,15,9
+67470,Estación San Juan,Paraje,45,9
+67470,Las Palomitas (La Fragua),Colonia,9,9
+67474,San Miguelito,Ejido,15,9
+67474,Santa Efigenia,Ejido,15,9
+67474,Hacienda las Trancas,Hacienda,24,9
+67474,La Chueca,Ejido,15,9
+67474,El Refugio (El Nopalito),Hacienda,24,9
+67474,Sabarado,Hacienda,24,9
+67474,Casas Viejas (La Florida),Ejido,15,9
+67475,Soledad Herrera (Sabinos),Ejido,15,9
+67475,Soledad Herrera,Ejido,15,9
+67480,Cadereyta Jiménez Centro,Colonia,9,9
+67483,Nueva Cadereyta,Colonia,9,9
+67483,Rafael de León,Colonia,9,9
+67483,Veteranos,Colonia,9,9
+67483,Burócratas Municipales,Colonia,9,9
+67483,Graciano Sánchez,Colonia,9,9
+67483,PEMEX,Colonia,9,9
+67483,La Capilla,Fraccionamiento,21,9
+67483,Alfredo V Bonfil,Colonia,9,9
+67483,Pedregal de Cadereyta,Fraccionamiento,21,9
+67483,Jerónimo Treviño Primera Sección,Colonia,9,9
+67483,Lázaro Cárdenas,Colonia,9,9
+67483,Las Misiones,Fraccionamiento,21,9
+67483,Puertas de Cadereyta,Colonia,9,9
+67483,Estación Cadereyta,Zona industrial,37,9
+67483,Fidel Velázquez,Colonia,9,9
+67483,Gloria Mendiola,Colonia,9,9
+67483,Candelaria Ríos,Colonia,9,9
+67484,José O Martínez Sección B,Colonia,9,9
+67484,Valle de Cadereyta,Fraccionamiento,21,9
+67484,Villa Luz,Fraccionamiento,21,9
+67484,Praderas de Cadereyta,Colonia,9,9
+67484,José Luis Lozano,Colonia,9,9
+67484,Valles del Rey,Fraccionamiento,21,9
+67484,Ignacio Allende,Fraccionamiento,21,9
+67484,Marín González,Colonia,9,9
+67484,INFONAVIT Arboledas,Colonia,9,9
+67484,Salinas de Gortari,Colonia,9,9
+67484,Santa Cecilia,Colonia,9,9
+67484,San Moisés,Fraccionamiento,21,9
+67484,Fidel Velázquez,Fraccionamiento,21,9
+67484,INFONAVIT Jerónimo Treviño,Colonia,9,9
+67484,Residencial Paraíso,Fraccionamiento,21,9
+67484,Residencial Jardines de Compostela,Fraccionamiento,21,9
+67484,Jardines de Capellanía,Colonia,9,9
+67484,Alberos,Fraccionamiento,21,9
+67484,José O Martínez Sección A,Colonia,9,9
+67485,INFONAVIT Sabinitos,Colonia,9,9
+67485,Santa Lucía,Colonia,9,9
+67485,Privadas del Río,Fraccionamiento,21,9
+67485,Delia,Colonia,9,9
+67485,San Genaro,Colonia,9,9
+67485,San Ignacio,Colonia,9,9
+67485,Valle de los Encinos,Fraccionamiento,21,9
+67485,Casa Blanca,Fraccionamiento,21,9
+67485,Santa María,Colonia,9,9
+67485,Padilla,Colonia,9,9
+67485,Las Palmas,Fraccionamiento,21,9
+67485,Galindo,Colonia,9,9
+67485,Garza Cantú,Colonia,9,9
+67485,Santa Lucía Segundo Sector,Fraccionamiento,21,9
+67485,Jardines de Cadereyta,Fraccionamiento,21,9
+67485,Santa Liliana,Fraccionamiento,21,9
+67485,Emiliano Zapata,Colonia,9,9
+67485,Framboyanes,Fraccionamiento,21,9
+67485,Las Espigas,Fraccionamiento,21,9
+67485,López Mateos,Colonia,9,9
+67485,Bellavista Cuarto Sector,Fraccionamiento,21,9
+67485,Privada Santa Lucía,Fraccionamiento,21,9
+67485,El Rosario,Fraccionamiento,21,9
+67485,La Rioja,Colonia,9,9
+67485,Bellavista,Fraccionamiento,21,9
+67485,Privadas San Juan,Fraccionamiento,21,9
+67485,Real de Cadereyta,Fraccionamiento,21,9
+67485,Fomerrey Cadereyta,Colonia,9,9
+67485,Las Villas,Fraccionamiento,21,9
+67485,Lomas de San Agustín,Fraccionamiento,21,9
+67485,Ampliación Galindo,Colonia,9,9
+67485,Nueva Madero,Colonia,9,9
+67486,Lomas de los Pilares,Fraccionamiento,21,9
+67488,PEMEX Refinería,Equipamiento,17,9
+67490,Tepehuaje,Pueblo,28,9
+67490,Pueblo Nuevo (Tepehuaje),Pueblo,28,9
+67492,La Haciendita,Ejido,15,9
+67493,Santa Isabel y Dolores,Ejido,15,9
+67493,San Diego,Ejido,15,9
+67493,Tepehuaje,Ranchería,29,9
+67493,Dolores,Hacienda,24,9
+67496,Vaqueros [Estación],Paraje,45,9
+67497,El Matorral,Colonia,9,9
+67498,Valle Hidalgo (El Quemado),Ranchería,29,9
+67498,El Barco,Ejido,15,9
+67500,Montemorelos Centro,Colonia,9,38
+67510,Del Maestro,Colonia,9,38
+67510,Matamoros,Barrio,2,38
+67512,Zambrano,Colonia,9,38
+67512,Las Palmas,Fraccionamiento,21,38
+67512,Residencial Santa Fe,Fraccionamiento,21,38
+67515,Los Sabinos,Colonia,9,38
+67515,Los Fresnos,Fraccionamiento,21,38
+67515,El Fresno,Fraccionamiento,21,38
+67515,Maranatha,Fraccionamiento,21,38
+67515,El Bosque,Colonia,9,38
+67515,Real del Valle,Fraccionamiento,21,38
+67515,Los Nogales,Fraccionamiento,21,38
+67520,Paras,Barrio,2,38
+67528,Cruz Verde,Fraccionamiento,21,38
+67528,Hacienda los Naranjos,Fraccionamiento,21,38
+67530,Zaragoza,Colonia,9,38
+67535,Morelos II,Colonia,9,38
+67535,Primero de Mayo,Colonia,9,38
+67535,Alfonso Martínez Domínguez,Colonia,9,38
+67535,Montemorelos Industrial Park,Zona industrial,37,38
+67535,La Fé,Fraccionamiento,21,38
+67540,Mendivil,Barrio,2,38
+67541,Anita,Colonia,9,38
+67543,Hortencia González,Colonia,9,38
+67543,INFONAVIT Antonio I Villareal,Fraccionamiento,21,38
+67543,Valeriano García Galván,Colonia,9,38
+67543,José María Morelos y Pavón,Colonia,9,38
+67543,Raúl Caballero,Colonia,9,38
+67543,Lázaro Cárdenas,Colonia,9,38
+67544,Morelos I,Colonia,9,38
+67544,Burócratas Municipales,Colonia,9,38
+67550,Mexiquito,Colonia,9,38
+67554,El Consuelo (Echavarría),Ranchería,29,38
+67560,Gil de Leyva,Colonia,9,38
+67560,Padre Mier,Colonia,9,38
+67560,Monte Real,Colonia,9,38
+67560,Naranjos,Fraccionamiento,21,38
+67563,Las Alamedas,Fraccionamiento,21,38
+67570,Lerdo de Tejada,Colonia,9,38
+67580,La Ladrillera,Colonia,9,38
+67587,Francisco Villa,Colonia,9,38
+67588,José María Paras,Colonia,9,38
+67588,6 de Abril,Colonia,9,38
+67588,Miguel Hidalgo,Colonia,9,38
+67589,Emiliano Zapata,Colonia,9,38
+67590,José López Portillo,Colonia,9,38
+67590,Garza García,Barrio,2,38
+67599,Jalisco,Colonia,9,38
+67600,San Miguel,Pueblo,28,38
+67600,El Fraile,Ejido,15,38
+67604,Los Arroyos (Sección Juárez),Hacienda,24,38
+67606,Tierras Coloradas,Ejido,15,38
+67606,Valle Hidalgo (La Cotorra),Ranchería,29,38
+67607,Rancho Escondido,Ranchería,29,38
+67608,Congregación Calles,Congregación,11,38
+67610,Loma Prieta,Congregación,11,38
+67610,Canoas,Ranchería,29,38
+67611,El Desagüe,Hacienda,24,38
+67612,El Bajío,Pueblo,28,38
+67613,Buenavista (Las Caleras),Ranchería,29,38
+67614,Chihuahua,Ejido,15,38
+67614,Ojo de Agua,Hacienda,24,38
+67615,San Vicente,Hacienda,24,38
+67616,Las Puentes,Ejido,15,38
+67617,El Pastor,Ranchería,29,38
+67618,General Escobedo,Pueblo,28,38
+67619,Raíces,Hacienda,24,38
+67619,El Terrero,Ranchería,29,38
+67619,Los Adobes,Hacienda,24,38
+67619,El Nogalito (El Barranco),Ejido,15,38
+67637,El Toro,Hacienda,24,38
+67637,La Unión,Ranchería,29,38
+67639,Huertas [Estación],Paraje,45,38
+67640,Las Adjuntas,Colonia,9,38
+67650,Rayones,Villa,32,43
+67670,José María Morelos (Santa Rosa),Pueblo,28,43
+67680,Ignacio Zaragoza (El Barreal),Ejido,15,43
+67690,Pedro Carrizales,Ejido,15,43
+67700,Linares Centro,Colonia,9,33
+67710,Alvarado,Colonia,9,33
+67710,Las Palmas,Fraccionamiento,21,33
+67710,INFONAVIT Rodrigo Gómez,Fraccionamiento,21,33
+67713,La Amistad,Colonia,9,33
+67714,América,Colonia,9,33
+67714,Los Nogales,Fraccionamiento,21,33
+67714,San Felipe,Ejido,15,33
+67714,Las Brisas,Fraccionamiento,21,33
+67715,Gloria Mendiola,Colonia,9,33
+67716,INFONAVIT Doctor Ignacio Morones Prieto,Colonia,9,33
+67716,INFONAVIT Río Verde,Colonia,9,33
+67716,Misiones de Río Verde,Fraccionamiento,21,33
+67716,San Luisito,Colonia,9,33
+67720,Benito Juárez,Colonia,9,33
+67720,Los Noriega,Fraccionamiento,21,33
+67730,Camacho,Colonia,9,33
+67730,INFONAVIT Jardines de Linares,Fraccionamiento,21,33
+67730,FOMERREY Ignacio Zaragoza,Fraccionamiento,21,33
+67730,San Joaquín,Colonia,9,33
+67730,Ignacio Zaragoza,Fraccionamiento,21,33
+67735,Ciudad Industrial,Zona industrial,37,33
+67735,Arboledas del Valle,Colonia,9,33
+67740,Villegas,Colonia,9,33
+67750,Sócrates Rizzo,Colonia,9,33
+67750,Buenos Aires,Colonia,9,33
+67750,La Petaca,Colonia,9,33
+67750,Ricardo Cantú,Colonia,9,33
+67754,Fomerrey 53 las Huertas,Colonia,9,33
+67754,Residencial Nogalar,Fraccionamiento,21,33
+67755,El Cerrito,Colonia,9,33
+67755,FOVISSSTE Linares IV,Fraccionamiento,21,33
+67755,INFONAVIT el Cerrito,Fraccionamiento,21,33
+67755,Provileon,Colonia,9,33
+67755,Residencial Hacienda los Nogales,Fraccionamiento,21,33
+67756,INFONAVIT Constituyentes de 1857,Fraccionamiento,21,33
+67756,INFONAVIT San Gerardo,Fraccionamiento,21,33
+67756,Las Bugambilias,Fraccionamiento,21,33
+67756,INFONAVIT la Petaca,Fraccionamiento,21,33
+67756,Fidel Velázquez,Colonia,9,33
+67760,Moderna,Colonia,9,33
+67767,Las Palmas (Camachito),Colonia,9,33
+67767,Camachito,Ejido,15,33
+67768,San Francisco,Colonia,9,33
+67769,Alejandro Cano,Colonia,9,33
+67769,Los Naranjos,Fraccionamiento,21,33
+67770,Porfirio Diaz,Colonia,9,33
+67770,La Loma,Colonia,9,33
+67770,Miguel Hidalgo,Colonia,9,33
+67778,Las Alamedas,Fraccionamiento,21,33
+67778,Niños Héroes,Colonia,9,33
+67778,Marco Antonio,Fraccionamiento,21,33
+67778,Misión de San Gerardo,Fraccionamiento,21,33
+67778,El Vergel,Fraccionamiento,21,33
+67779,La Bohemia,Colonia,9,33
+67779,El Roble,Colonia,9,33
+67780,Solidaridad,Colonia,9,33
+67780,Villaseca,Colonia,9,33
+67780,Zaragoza,Colonia,9,33
+67790,San Antonio,Colonia,9,33
+67790,Lázaro Dimas,Colonia,9,33
+67790,San Carlos,Fraccionamiento,21,33
+67790,Riveras de San Antonio,Fraccionamiento,21,33
+67790,Lomas de Villaseca,Colonia,9,33
+67790,Tepeyac,Colonia,9,33
+67800,San Francisco (San Francisco Tenamaxtle),Ejido,15,33
+67800,San Rafael,Congregación,11,33
+67800,Caja Pinta,Ejido,15,33
+67802,El Diez,Ejido,15,33
+67802,El Popote (El Poblado),Ejido,15,33
+67802,La Morita,Ejido,15,33
+67802,Guadalupe (La Hacienda de Guadalupe),Ejido,15,33
+67803,Santa Rosa (La Pita),Ejido,15,33
+67804,Benítez,Ejido,15,33
+67804,El Refugio (Veredas),Pueblo,28,33
+67805,Loma el Perico,Ejido,15,33
+67806,La Soledad,Pueblo,28,33
+67806,La Reforma,Ejido,15,33
+67808,Jesús María del Puerto,Ranchería,29,33
+67808,Ranchería,Pueblo,28,33
+67808,Los Hoyos (La Rosita),Ranchería,29,33
+67809,Los Álamos,Ejido,15,33
+67809,San José,Ejido,15,33
+67812,San Isidro,Ejido,15,33
+67812,Gatos Güeros,Ejido,15,33
+67815,El Porvenir,Ranchería,29,33
+67815,San Jacinto (La Garita),Ejido,15,33
+67815,Los Fresnos,Ejido,15,33
+67816,Dolores de San Julián,Ejido,15,33
+67816,El Carmen de los Elizondo,Ejido,15,33
+67817,Guadalupe,Hacienda,24,33
+67817,Cerro Prieto,Ejido,15,33
+67817,Los Leones,Ejido,15,33
+67819,San Pedro Garza García (Jesús María),Ejido,15,33
+67819,El Pretil,Ejido,15,33
+67824,Guadalupe Victoria,Ejido,15,33
+67824,La Estrella,Pueblo,28,33
+67824,Loma Alta,Pueblo,28,33
+67825,La Escondida (El Ranchito),Ejido,15,33
+67825,Santa Teresa,Rancho,48,33
+67825,Emiliano Zapata,Ejido,15,33
+67825,Río Verde (Lampazos),Ejido,15,33
+67826,Río Verde,Ejido,15,33
+67828,Ojo de Agua,Ejido,15,33
+67828,El Brasil,Pueblo,28,33
+67828,Vista Hermosa,Ranchería,29,33
+67830,Iturbide,Pueblo,28,30
+67842,Cuevas,Ejido,15,30
+67844,La Luz,Ejido,15,30
+67845,Camarones,Congregación,11,30
+67846,El Madroño,Congregación,11,30
+67847,Buena Vista,Ejido,15,30
+67849,San Francisco de las Adjuntas,Ejido,15,30
+67849,Santa Inés,Hacienda,24,30
+67850,El Chamizal,Colonia,9,17
+67850,Jose Salazar Reyna,Colonia,9,17
+67850,Del Maestro 2o Sector,Colonia,9,17
+67850,El Potosí,Ejido,15,17
+67850,El Potrero Prieto de Arriba,Ejido,15,17
+67850,Sócrates Rizo,Colonia,9,17
+67850,Mariano Escobedo,Colonia,9,17
+67850,El Mirador,Colonia,9,17
+67850,El Cristal,Ranchería,29,17
+67850,Laguna de Labradores,Congregación,11,17
+67850,Santa Rita,Ejido,15,17
+67850,Labradores,Colonia,9,17
+67850,Barrio de Jalisco (Jalisco),Ejido,15,17
+67850,El Potrero de Prieto,Ranchería,29,17
+67850,Galeana,Colonia,9,17
+67853,San Isidro de Berlanga,Ejido,15,17
+67853,San Juan de Dios,Ejido,15,17
+67853,El Peñuelo,Ejido,15,17
+67853,San Antonio de González,Ejido,15,17
+67853,El Barrocito,Ejido,15,17
+67853,El Canelito,Ejido,15,17
+67854,El Carmen,Ejido,15,17
+67854,Puerto de Pastores,Ejido,15,17
+67855,San Roberto,Ranchería,29,17
+67855,Magueyes,Ranchería,29,17
+67855,Santo Domingo,Ejido,15,17
+67855,La Primavera (El Charco),Ejido,15,17
+67856,San Francisco de los Blancos,Congregación,11,17
+67856,Los Nogales,Ranchería,29,17
+67856,Santa Cruz de Sauces,Ejido,15,17
+67856,Dieciocho de Marzo,Congregación,11,17
+67856,El Derramadero,Congregación,11,17
+67857,San Lucas (La Mesa),Congregación,11,17
+67857,San José de la Joya,Ejido,15,17
+67857,La Lagunita (El Orito),Ejido,15,17
+67857,Los Llanitos,Pueblo,28,17
+67858,San Juan de Mimbres,Ejido,15,17
+67858,San Francisco Javier,Ejido,15,17
+67858,San Ildefonso,Ejido,15,17
+67858,Los Mimbres,Ejido,15,17
+67860,Alfredo V. Bonfil (La Lagunita),Ejido,15,17
+67860,La Providencia,Ejido,15,17
+67860,La Esperanza (El Coyote),Ejido,15,17
+67860,San Juan del Prado,Pueblo,28,17
+67860,El Erial,Pueblo,28,17
+67860,Puerto México,Ejido,15,17
+67860,Ciénega del Toro,Ejido,15,17
+67860,El Prado (El Mezquite),Pueblo,28,17
+67860,La Casita,Ejido,15,17
+67860,Navidad,Ejido,15,17
+67860,El Cuije,Ejido,15,17
+67860,Santa Cruz Ciénega del Toro,Pueblo,28,17
+67863,Aquiles Serdán (La Hediondilla),Ejido,15,17
+67863,La Carbonera,Ejido,15,17
+67863,Las Delicias,Ejido,15,17
+67864,Los Adobes,Ejido,15,17
+67864,Santa María de Ramos,Ranchería,29,17
+67864,La Trinidad,Ranchería,29,17
+67864,San Joaquín,Pueblo,28,17
+67864,La Paz,Ejido,15,17
+67865,La Boca del Refugio,Ejido,15,17
+67865,San Rafael,Congregación,11,17
+67866,Tanquecillos,Ejido,15,17
+67866,Congregación de San Pablo,Congregación,11,17
+67866,Santa María del Socorro,Ejido,15,17
+67867,Santa Clara de Ciénega del Toro,Ejido,15,17
+67867,San José de la Martha,Ejido,15,17
+67867,Estados Unidos,Ejido,15,17
+67868,El Castillo,Ejido,15,17
+67870,San José de Raíces,Congregación,11,17
+67870,San José de Raíces,Congregación,11,17
+67870,San Pablo de Raíces,Ranchería,29,17
+67870,San Jorge,Ejido,15,17
+67870,La Leona,Ejido,15,17
+67870,El Tepozán,Ejido,15,17
+67870,La Presita de Berlanga,Ranchería,29,17
+67872,Margaritas,Ejido,15,17
+67872,San Francisco de Berlanga,Ejido,15,17
+67873,Calabacillas,Ranchería,29,17
+67873,San Ignacio de Texas,Ejido,15,17
+67874,Refugio de los Ibarra,Ejido,15,17
+67874,Jesús María Aguirre (Puerto de Nopalillos),Ejido,15,17
+67874,San Antonio del Salero,Ejido,15,17
+67875,Pablillo,Ejido,15,17
+67875,Joyas de Agua Fría,Ejido,15,17
+67875,Río de San José,Ranchería,29,17
+67876,San Pablo de las Mitras,Ejido,15,17
+67876,San José de González,Ejido,15,17
+67877,La Nueva Primavera,Ejido,15,17
+67877,Tokio,Ejido,15,17
+67878,Agua Nueva (El Pozo),Ejido,15,17
+67878,Santa Clara de González,Ejido,15,17
+67878,San Pablo (Tranquitas),Ejido,15,17
+67878,Santa Fe,Ranchería,29,17
+67878,El Palmito,Ejido,15,17
+67878,San Marcos,Ranchería,29,17
+67880,La Laja,Congregación,11,29
+67881,Magüiras,Congregación,11,29
+67884,El Cangrejo,Ejido,15,29
+67885,El Pinto,Ejido,15,29
+67890,Hualahuises Centro,Colonia,9,29
+67893,Raul Caballero Sector I,Colonia,9,29
+67893,Raul Caballero Sector II,Colonia,9,29
+67895,Santa Rosa,Colonia,9,29
+67895,Emiliano Zapata,Colonia,9,29
+67895,La Esperanza,Colonia,9,29
+67896,Potrerillos,Barrio,2,29
+67897,Magueyera,Colonia,9,29
+67898,CROC Presidente Juárez,Colonia,9,29
+67899,San Cristóbal,Colonia,9,29
+67900,Dr. Arroyo Centro,Colonia,9,14
+67900,Martinez Dominguez,Colonia,9,14
+67900,Sócrates Rizzo,Colonia,9,14
+67900,Pintores Mexicanos,Colonia,9,14
+67900,Las Brisas,Colonia,9,14
+67900,J Treviño,Colonia,9,14
+67902,Acuña,Ejido,15,14
+67902,Capaderito,Ejido,15,14
+67904,Presa de San Carlos,Ejido,15,14
+67904,Palma Gorda,Ranchería,29,14
+67904,Panales de Arriba,Pueblo,28,14
+67904,Carmen de Castaño,Pueblo,28,14
+67905,San Isidro de Fernández,Ejido,15,14
+67905,San José de Flores,Congregación,11,14
+67905,La Lobera de Portillo,Ejido,15,14
+67905,Boquillas,Ejido,15,14
+67905,El Cerrito del Aire,Ejido,15,14
+67905,San Vicente de la Puerta,Ejido,15,14
+67906,Puerto de Dolores,Ranchería,29,14
+67907,Taponcita de Camarillo,Ejido,15,14
+67907,Lagunita de Castillo,Ejido,15,14
+67908,Puerto del Aire,Ejido,15,14
+67908,La Concepción,Ejido,15,14
+67908,Las Catorce,Ranchería,29,14
+67908,Presa de Maltos,Ejido,15,14
+67912,El Leoncito,Ejido,15,14
+67913,El Tajo,Ejido,15,14
+67913,El Canelo,Ejido,15,14
+67914,Mesa de González,Ejido,15,14
+67915,Lagunita y Ranchos Nuevos,Ejido,15,14
+67916,San Pablo de Rueda,Ranchería,29,14
+67917,Estanque Nuevo,Ejido,15,14
+67920,La Yerba,Ejido,15,14
+67920,Los Medina,Ejido,15,14
+67920,Santa Rita,Ejido,15,14
+67920,El Tecolote,Ejido,15,14
+67920,San Juan del Palmar,Ejido,15,14
+67921,Santa Ana,Ejido,15,14
+67923,Amaro,Ejido,15,14
+67923,El Refugio de Cedillo,Ranchería,29,14
+67923,El Pequeño,Ejido,15,14
+67924,El Rucio,Ejido,15,14
+67925,San Cayetano de Vacas,Ejido,15,14
+67925,Charco de la Granja,Ejido,15,14
+67926,Coloradas,Ejido,15,14
+67926,Santa Gertrudis,Ejido,15,14
+67926,La Agüita,Pueblo,28,14
+67926,Jesús María de Berrones,Ejido,15,14
+67926,La Unión y el Cardonal,Pueblo,28,14
+67926,Tanquecillos,Pueblo,28,14
+67928,San Miguelito,Ejido,15,14
+67928,La Escondida de Arzola,Ejido,15,14
+67928,Cerrito de Vacas,Ejido,15,14
+67928,El Represadero,Ejido,15,14
+67930,La Lajita,Ejido,15,14
+67930,El Charquillo,Ranchería,29,14
+67930,El Jarro,Ejido,15,14
+67930,Los Cuartos,Ejido,15,14
+67930,Carmen de la Laja,Ranchería,29,14
+67931,Mesa del Traidor,Ejido,15,14
+67931,San Ramón de los Martínez,Ejido,15,14
+67932,Puerta de Aguilar,Ejido,15,14
+67932,Santa Teresa y San Jerónimo,Ejido,15,14
+67933,Guadalupe de Silva,Ejido,15,14
+67933,San Francisco del Yugo,Ejido,15,14
+67933,Cruz de Elorza,Ranchería,29,14
+67934,San Pedro de González (San Pedro de Rueda),Pueblo,28,14
+67934,El Álamo,Ejido,15,14
+67934,Santa María,Ejido,15,14
+67935,San Francisco de los Desmontes,Congregación,11,14
+67935,Las Jarillas,Ejido,15,14
+67935,Albercones,Ejido,15,14
+67936,San Miguel de los Aguirre,Ejido,15,14
+67936,Álvaro Obregón (Cruz de Costilla),Ejido,15,14
+67936,La Chiripa,Ejido,15,14
+67936,El Consuelo,Ejido,15,14
+67937,La Bolsa,Ejido,15,14
+67937,San Juan de la Cruz,Ejido,15,14
+67937,Santa Lucía,Ejido,15,14
+67937,San Antonio de Peña Nevada,Ejido,15,14
+67937,La Presita de Rueda,Ejido,15,14
+67938,El Refugio y el Reparo,Ejido,15,14
+67938,San Gregorio,Ejido,15,14
+67938,San Ignacio de Torres,Ejido,15,14
+67940,Brownsville,Colonia,9,7
+67940,El Calichal,Colonia,9,7
+67940,La Tijera,Colonia,9,7
+67940,Aramberri Centro,Colonia,9,7
+67940,Emiliano Zapata,Colonia,9,7
+67940,Rancho Nuevo (Las Hornillas),Ranchería,29,7
+67940,Sección Sur,Colonia,9,7
+67940,Sección Norte,Colonia,9,7
+67943,Chaloa (San Mauricio),Poblado comunal,27,7
+67943,La Paila,Poblado comunal,27,7
+67943,Las Higueritas,Poblado comunal,27,7
+67943,Las Veredas,Poblado comunal,27,7
+67943,Jesús María,Poblado comunal,27,7
+67943,Agua Adentro,Poblado comunal,27,7
+67943,La Peña,Poblado comunal,27,7
+67943,Callejón de los Vázquez,Poblado comunal,27,7
+67943,Potrero del Padre (Lagunita de González),Poblado comunal,27,7
+67943,Salitrillo,Poblado comunal,27,7
+67943,La Vieja,Poblado comunal,27,7
+67943,Santa Teresa,Poblado comunal,27,7
+67943,Agua Fría,Poblado comunal,27,7
+67943,El Nogalar (La Pita),Poblado comunal,27,7
+67943,Poblado el Río (El Sabinito),Poblado comunal,27,7
+67943,El Rosario,Poblado comunal,27,7
+67943,Fraccionamiento del Río (Fracción del Río),Poblado comunal,27,7
+67943,Garza,Poblado comunal,27,7
+67943,Marmolejo,Poblado comunal,27,7
+67943,La Hoya de los Nogales,Poblado comunal,27,7
+67944,Las Ánimas,Ejido,15,7
+67944,Puerto Carretas,Poblado comunal,27,7
+67944,La Aldea,Ejido,15,7
+67944,El Alamar,Poblado comunal,27,7
+67944,El Monal,Poblado comunal,27,7
+67944,El Refugio,Poblado comunal,27,7
+67944,Los Nogales (El Mezquital),Poblado comunal,27,7
+67944,El Cedrito,Poblado comunal,27,7
+67944,La Lagunita (Lagunita de los Vázquez),Poblado comunal,27,7
+67944,Lagunita (Lagunita de los Cerda),Poblado comunal,27,7
+67944,San Isidro,Poblado comunal,27,7
+67944,Santa Cruz,Poblado comunal,27,7
+67944,Los Nogales,Ranchería,29,7
+67944,Agua Delgada,Poblado comunal,27,7
+67944,El Olmo,Poblado comunal,27,7
+67944,El Realito (La Parrita),Poblado comunal,27,7
+67944,El Rincón,Poblado comunal,27,7
+67944,Potrero de Zamora,Poblado comunal,27,7
+67944,Rancho Nuevo,Ranchería,29,7
+67944,El Muerto,Poblado comunal,27,7
+67944,La Florida,Poblado comunal,27,7
+67944,La Escondida,Congregación,11,7
+67944,El Callejón de la Cueva,Poblado comunal,27,7
+67944,El Gato,Poblado comunal,27,7
+67944,La Lobera,Poblado comunal,27,7
+67944,Las Mancuernas,Poblado comunal,27,7
+67944,Milpillas,Poblado comunal,27,7
+67944,El Molino,Poblado comunal,27,7
+67944,El Pitacoche (La Tinaja),Poblado comunal,27,7
+67944,El Talco,Poblado comunal,27,7
+67944,La Carpintería,Poblado comunal,27,7
+67944,Salitrillo,Poblado comunal,27,7
+67944,El Pitacoche,Poblado comunal,27,7
+67944,Granjenal,Poblado comunal,27,7
+67944,Ojo de Agua,Poblado comunal,27,7
+67945,El Tigre,Poblado comunal,27,7
+67945,La Soledad (Rusia),Ejido,15,7
+67945,La Nueva Reforma (Buenos Aires),Poblado comunal,27,7
+67945,La Sabanilla,Poblado comunal,27,7
+67945,Sandia el Chico,Poblado comunal,27,7
+67945,El Carrizalillo,Poblado comunal,27,7
+67945,El Tepozán,Poblado comunal,27,7
+67946,Cedritos,Poblado comunal,27,7
+67946,La Víbora,Poblado comunal,27,7
+67946,La Sabanilla,Poblado comunal,27,7
+67947,Pozo Dos,Poblado comunal,27,7
+67947,San Juan de Avilés,Hacienda,24,7
+67947,Dolores Palmita,Poblado comunal,27,7
+67947,Puentes (San Juan y Puentes),Ejido,15,7
+67947,La Peña,Poblado comunal,27,7
+67947,La Rosita (Los Llanitos),Poblado comunal,27,7
+67947,La Trinidad,Ejido,15,7
+67947,El Pinalito,Poblado comunal,27,7
+67948,El Porvenir,Ejido,15,7
+67948,Joyas y Anteojitos,Poblado comunal,27,7
+67948,Santa Ana,Poblado comunal,27,7
+67948,Cuartitos y Marmolejo (Parada Marmolejo),Poblado comunal,27,7
+67948,El Anillo,Poblado comunal,27,7
+67948,El Mezquital,Poblado comunal,27,7
+67948,El Porvenir,Poblado comunal,27,7
+67948,La Palmita,Poblado comunal,27,7
+67948,Laguna de Bocacelly,Poblado comunal,27,7
+67948,San Juan,Poblado comunal,27,7
+67948,San Rafael de los Cortez (Las Cruces),Ejido,15,7
+67948,Agua de Mata,Poblado comunal,27,7
+67948,Los Cuartitos,Poblado comunal,27,7
+67948,La Esperanza,Ejido,15,7
+67948,Aranjuez,Poblado comunal,27,7
+67948,Las Virgenes,Poblado comunal,27,7
+67948,San Juanito de Reséndiz,Poblado comunal,27,7
+67948,San Rafael de los Cortez,Poblado comunal,27,7
+67948,San Rafael de los Cortez (La Cuesta),Poblado comunal,27,7
+67948,Santa Rita,Poblado comunal,27,7
+67948,El Calichal,Poblado comunal,27,7
+67948,El Tejón,Poblado comunal,27,7
+67948,Ojo de Agua,Poblado comunal,27,7
+67948,Joyas de Bocacelly,Ranchería,29,7
+67948,Pedregosa,Poblado comunal,27,7
+67950,La Ascensión,Ranchería,29,7
+67953,El Coyote,Poblado comunal,27,7
+67953,Milpa Vieja (San Manuel),Poblado comunal,27,7
+67953,San Joaquín de Soto,Ejido,15,7
+67953,Presa de Anteojitos,Poblado comunal,27,7
+67953,Puerto de Anteojitos,Poblado comunal,27,7
+67953,El Derramadero,Poblado comunal,27,7
+67953,San Rafael del Llano,Ranchería,29,7
+67953,La Ascensión (Esteban Salazar),Poblado comunal,27,7
+67953,La Laguna,Poblado comunal,27,7
+67953,La Reforma,Poblado comunal,27,7
+67954,La Victoria (Los Ángeles),Ejido,15,7
+67954,Erasmo Vázquez,Poblado comunal,27,7
+67954,Las Presas,Poblado comunal,27,7
+67954,El Puerto,Poblado comunal,27,7
+67954,Sandia (Sandia el Grande),Ejido,15,7
+67954,El Sauz,Poblado comunal,27,7
+67955,La Caballada,Ejido,15,7
+67955,San José del Jilguero,Ejido,15,7
+67955,Puerto Bajo,Poblado comunal,27,7
+67955,Agua de Enmedio (Los Pocitos),Poblado comunal,27,7
+67955,Guadalupe Victoria,Poblado comunal,27,7
+67955,El Jilguero,Poblado comunal,27,7
+67955,La Angostura,Poblado comunal,27,7
+67955,Milpillas,Ejido,15,7
+67955,Guadalupe de los Navarro,Poblado comunal,27,7
+67955,Juan Méndez Castro,Poblado comunal,27,7
+67955,La Atarjea (El Pinal),Poblado comunal,27,7
+67955,La Canoa,Poblado comunal,27,7
+67955,La Colorada,Poblado comunal,27,7
+67955,La Mesa de Alcocer,Poblado comunal,27,7
+67955,Vista Hermosa,Poblado comunal,27,7
+67955,El Rucio,Poblado comunal,27,7
+67955,La Muralla,Poblado comunal,27,7
+67955,San Rafael de la Angostura (La Cueva),Poblado comunal,27,7
+67956,La Majada,Poblado comunal,27,7
+67956,Rancho Nuevo,Ranchería,29,7
+67956,Facultad de Agronomía,Poblado comunal,27,7
+67956,Puerto Piñones,Poblado comunal,27,7
+67956,San Enrique (Los Mendoza),Poblado comunal,27,7
+67956,Las Ánimas (Presa de las Ánimas),Hacienda,24,7
+67956,San Juanito de Solís,Ejido,15,7
+67956,San Isidro,Ejido,15,7
+67956,Las Juanas,Poblado comunal,27,7
+67957,El Cuervo Dos,Poblado comunal,27,7
+67957,El Nacimiento,Poblado comunal,27,7
+67957,El Refugio (Refugio de Texas),Poblado comunal,27,7
+67957,San Antonio,Poblado comunal,27,7
+67957,El Paraíso (San Antonio Mesa de las Piedras),Poblado comunal,27,7
+67957,El Yerbaniz,Poblado comunal,27,7
+67957,La Boquilla,Poblado comunal,27,7
+67957,Lampacitos,Ejido,15,7
+67957,La Corona,Poblado comunal,27,7
+67957,Las Higueritas,Poblado comunal,27,7
+67957,Yerbaniz,Poblado comunal,27,7
+67957,El Jardín (Cañón de Vacas),Poblado comunal,27,7
+67957,El Saucillo,Poblado comunal,27,7
+67957,La Reforma,Poblado comunal,27,7
+67957,San Francisco de Leos,Poblado comunal,27,7
+67957,El Cuervo Uno,Poblado comunal,27,7
+67957,El Rodeo,Poblado comunal,27,7
+67957,Hoya de Bocacil,Poblado comunal,27,7
+67957,Cañón de Vacas (El Jardín),Poblado comunal,27,7
+67957,Las Joyitas,Poblado comunal,27,7
+67957,El Leoncito,Poblado comunal,27,7
+67957,El Astillero,Poblado comunal,27,7
+67957,Las Delicias,Poblado comunal,27,7
+67958,El Divisadero,Poblado comunal,27,7
+67958,El Rincón de Jesús,Poblado comunal,27,7
+67958,El Sauz,Poblado comunal,27,7
+67958,Duraznillos,Poblado comunal,27,7
+67958,El Naranjo,Poblado comunal,27,7
+67958,El Puerto,Poblado comunal,27,7
+67958,La Tinaja,Poblado comunal,27,7
+67958,Las Mulas,Poblado comunal,27,7
+67958,Monillal,Poblado comunal,27,7
+67958,Ibarrilla (Rincón de Ibarrilla),Congregación,11,7
+67958,Álamos,Poblado comunal,27,7
+67958,Esquivel,Poblado comunal,27,7
+67958,Ignacio Zaragoza,Poblado comunal,27,7
+67958,Lagunitas,Poblado comunal,27,7
+67958,Los Laureles,Poblado comunal,27,7
+67958,Ojo de Agua,Poblado comunal,27,7
+67958,Puerto Rincón de Jesús,Poblado comunal,27,7
+67958,La Gota,Poblado comunal,27,7
+67959,El Tejocote,Ranchería,29,7
+67960,Dulces Nombres (Santa Teresa),Ejido,15,24
+67960,General Zaragoza,Pueblo,28,24
+67965,Tepozanes,Ejido,15,24
+67965,El Charco,Ranchería,29,24
+67965,El Refugio,Ejido,15,24
+67966,Maravillas,Ranchería,29,24
+67972,San Josecito,Ejido,15,24
+67973,San Francisco,Ejido,15,24
+67974,La Joya de Alardín,Ranchería,29,24
+67974,El Baral,Colonia,9,24
+67975,El Salitre,Ranchería,29,24
+67976,La Encantada,Ejido,15,24
+67977,La Cieneguita,Ejido,15,24
+67977,Joya de San Diego,Ejido,15,24
+67978,Siberia,Ejido,15,24
+67980,San Rafael de los Martínez,Ejido,15,36
+67980,Cerros Blancos,Ejido,15,36
+67980,La Presita de Cerros Blancos (La Presita),Ejido,15,36
+67980,San Isidro,Ejido,15,36
+67980,Tapona Moreña,Ejido,15,36
+67980,La Cardona,Ejido,15,36
+67980,Mier y Noriega,Pueblo,28,36
+67982,Las Palomas (Lajillas),Ejido,15,36
+67983,Dolores,Ejido,15,36
+67984,El Gallito,Ejido,15,36
+67985,Jesús María del Terrero (El Lindero),Pueblo,28,36
+67986,San José de Medina (Rancho de Abajo),Congregación,11,36
+67990,El Refugio de Cerros Blancos,Ejido,15,36
+67996,San Antonio de Alamitos,Ejido,15,36

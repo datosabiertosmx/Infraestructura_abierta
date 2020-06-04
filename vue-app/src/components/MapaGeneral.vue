@@ -1,0 +1,27 @@
+<!--
+	////////////////////////////////////////////////////////////////////////////////
+  //
+  // ⭐ INICIA EL CÓDIGO DEL COMPONENTE DE VUE
+  //
+  ////////////////////////////////////////////////////////////////////////////////
+-->
+<script>
+	export default{
+
+	}
+</script>
+
+<!--
+	////////////////////////////////////////////////////////////////////////////////
+  //
+  // ⭐ DEFINE EL TEMPLATE DEL COMPONENTE DE VUE
+  //
+  ////////////////////////////////////////////////////////////////////////////////
+-->
+<template>
+	<div>
+		<div class="ia_map">
+			<iframe width="100%" height="710" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-120.36621093750001%2C14.519780046326085%2C-90.26367187500001%2C32.713355353177555&amp;layer=mapnik" ></iframe>
+		</div>
+	</div>
+</template>
